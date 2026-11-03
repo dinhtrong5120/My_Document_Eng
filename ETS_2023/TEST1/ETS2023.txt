@@ -30,7 +30,7 @@ Hey she's swimming in the water
 B she's jogging near the ocean
 Chairs are set up on the beach
 A hat is lying on the sand
-Go on to the next page
+
 Number three
 Look at the picture marked number three in your textbook
 Hey she's reaching for an item from a display case
@@ -55,7 +55,7 @@ Hey some musicians are performing on a porch
 Be some steps are being repaired
 Some music stands are being folded up
 Some instruments have been placed in their cases
-Go on to the next page
+
 Part 2
 Directions
 You will hear a question or statement and three responses spoken in English they will not
@@ -218,7 +218,7 @@ Number 42
 What event is the woman planning to attend
 Number 43
 What does the man give the woman as an apology
-Go on to the next page
+
 Questions 44 through 46 refer to the following conversation
 This is Marci Ardmore at slayden Motors some automotive parts we ordered from your factory
 Listen to arrived at our dealership yet I'm sorry to hear that we sent your order over a week ago but the shipping
@@ -307,7 +307,7 @@ Look at the graphic
 What time will the woman depart on a tour
 Number 64
 What will the woman most likely do next
-Go on to the next page
+
 Question 65 through 67 refer to the following conversation and map
 Hi I'm here for the health and wellness conference I parked in the Event Center parking area I
 Just wondering is parking free for conference attendees no I'm sorry we don't provide any
@@ -393,7 +393,7 @@ Number 81
 Why is the speaker concerned
 Number 82
 What does the speaker ask the listener to do
-Go on to the next page
+
 Questions 83 through 85 refer to the following tour information
 This is the end of our tour thank you for coming to the Oakton Garden Collective I hope you've learned a lot about
 Add Urban gardening feel free to spend more time looking around don't forget to pick up your free vegetable
@@ -766,7 +766,7 @@ next?
 (B) Meet at an office
 (C) Confirm a schedule
 (D) Look up an account number
-GO ON TO THE NEXT PAGE
+
 TEST1 2983. What does the speaker remind the listeners to
 do?
 (A) Keep a gate closed
@@ -873,7 +873,7 @@ show.
 (D) The cost of a product’s materials will rise
 soon.
 This is the end of the Listening test.
-TEST1 31READING TEST
+TEST1 READING TEST
 In the Reading test, you will read a variety of texts and answer several different types of reading
 comprehension questions. The entire Reading test will last 75 minutes. There are three parts, and
 directions are given for each part. You are encouraged to answer as many questions as possible within the
@@ -936,7 +936,7 @@ and drama groups on its stage.
 (B) occasionally
 (C) vaguely
 (D) realistically
-20GO ON TO THE NEXT PAGE
+20
 TEST 1 21
 109. Before the seminar began, attendees were
 assured ------- all scheduled presenters
@@ -1086,13 +1086,13 @@ to the town center should use the bus lines.
 (B) Instead of
 (C) Whenever
 (D) Although
-22PART 6
+
+PART 6
 Directions: Read the texts that follow. A word, phrase, or sentence is missing in parts of each text. Four
 answer choices for each question are given below the text. Select the best answer to complete the text.
 Then mark the letter (A), (B), (C), or (D) on your answer sheet.
+
 Questions 131-134 refer to the following article.
-GO ON TO THE NEXT PAGE
-TEST1 23
 Local Barbershop Wins State Competition
 By Miranda Warren
 MALENDA COUNTY (January 12)—Pat and Kenny’s Barbershop, ------- at 3949 Grand Street, has
@@ -1122,7 +1122,9 @@ appointment.
 134. (A) While
 (B) Despite
 (C) Even
-(D) YetQuestions 135-138 refer to the following instructions.
+(D) Yet.
+
+Questions 135-138 refer to the following instructions.
 135. (A) economy
 (B) economics
 (C) economize
@@ -1150,7 +1152,8 @@ propane. Next, the cashier or another staff member will accompany you to the out
 area. The staff person will give you a full tank to take home and provide help if you have multiple
 tanks to carry. Follow the instructions on the tank to connect it to your device.
 Be sure to visit us again when you need a --------.
-138.Questions 139-142 refer to the following e-mail.
+
+Questions 139-142 refer to the following e-mail.
 139. (A) experience
 (B) experienced
 (C) experiencing
@@ -1171,7 +1174,7 @@ related accessories in our retail store.
 from the Internet and try again.
 (D) If you cannot find what you need online,
 simply call our support number.
-GO ON TO THE NEXT PAGE
+
 TEST 1 25
 To: Technicarn Enterprises Customers
 From: Technicarn Enterprises Customer Service
@@ -1188,7 +1191,9 @@ detailed information concerning account management, access, billing, and payment
 142 ---- Please explore the new Web site at your earliest convenience:
 www.technicarnenterprises.com. As always, thank you for allowing us to serve you.
 Best regards,
-The Technicarn Enterprises Customer Service TeamQuestions 143-146 refer to the following notice.
+The Technicarn Enterprises Customer Service Team.
+
+Questions 143-146 refer to the following notice.
 143. (A) enlarged
 (B) discontinued
 (C) accessible
@@ -1224,6 +1229,7 @@ Alternatively, passengers can purchase a rechargeable transit card at any statio
 can be added to the card via the Garner City Transport Web site at www.garnercitytransport.org.PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and instant messages. Each text or set of texts is followed by several questions. Select the best
 answer for each question and mark the letter (A), (B), (C), or (D) on your answer sheet.
+
 Questions 147-148 refer to the following advertisement.
 147. What is indicated about Harbis Stationery
 Store?
@@ -1238,7 +1244,7 @@ percentage?
 (B) Box of five invitations
 (C) Wireless mouse
 (D) Desk lamp
-GO ON TO THE NEXT PAGE
+
 TEST1 27
 Harbis Stationery Store Clearance Sale
 Prices indicated are for in-store purchases only.
@@ -1252,7 +1258,9 @@ Box of 24 pens £ 1.79
 Desk lamp £ 19.99
 Wireless mouse £ 17.99
 Backpack £ 29.99
-Visit Harbis Stationery at www.harbisstationery.ukQuestions 149-150 refer to the following e-mail.
+Visit Harbis Stationery at www.harbisstationery.uk.
+
+Questions 149-150 refer to the following e-mail.
 149. What is the purpose of the e-mail?
 (A) To inquire about leasing a vehicle
 (B) To inform a customer of required car
@@ -1277,9 +1285,9 @@ appointment, please call us at (215) 555-0109 or visit us online at
 www.toshiautogroup.com/serviceappointments.
 Sincerely,
 Toshi Auto Group
-Customer ServiceQuestions 151-153 refer to the following article.
-GO ON TO THE NEXT PAGE
-TEST 1 29
+Customer Service.
+
+Questions 151-153 refer to the following article.
 LONDON (2 February)—On Thursday,
 Tillford Press announced the launch of its new
 imprint, Tillford Exalt. This new line will
@@ -1324,7 +1332,9 @@ about Tillford Exalt?
 (A) Its record-breaking sales
 (B) Its roots in Manchester
 (C) Its focus on fiction and poetry
-(D) Its broad range of authorsQuestions 154-155 refer to the following text-message chain.
+(D) Its broad range of authors.
+
+Questions 154-155 refer to the following text-message chain.
 154. What problem does Mr. Skagen mention?
 (A) Some new employees are absent.
 (B) Some boxes are incorrectly labeled.
@@ -1359,7 +1369,9 @@ morning's shipments.
 Greg Skagen (9:02 A.M.) Yes, that works.
 Brenda Sadauskas (9:03 A.M.) Thanks. Then
 you could show them the loading dock
-operations in the afternoon.Questions 156-157 refer to the following form.
+operations in the afternoon.
+
+Questions 156-157 refer to the following form.
 SERVICE REQUEST FORM
 Complete all fields and deliver to Technology Services (room 412).
 Requester Name: Elenora Deckow __________
@@ -1374,8 +1386,7 @@ image was fine, but I could not hear anything. I checked all the settings, and I
 able to hear the same video on other televisions with no problem. I'm supposed to
 deliver a product demonstration for a client in room 500 next Monday, so I would
 greatly appreciate it if the issue can be fixed by this Friday.
-GO ON TO THE NEXT PAGE
-TEST1 31
+
 156. Why was the form submitted?
 (A) An image is not displaying clearly.
 (B) A projector needs to be set up.
@@ -1386,7 +1397,9 @@ week?
 (A) Visit a client site
 (B) Deliver a product
 (C) Create an online video
-(D) Give a presentationQuestions 158-161 refer to the following text-message chain.
+(D) Give a presentation.
+
+Questions 158-161 refer to the following text-message chain.
 Ella Glatt (11:34 A.M.)
 Hi. I know this is a busy day, but I wanted to know whether anyone from the finance
 team could come to the marketing meeting.
@@ -1410,35 +1423,29 @@ That's true! But I could come from 2:00 to 2:15. That's all I can commit to.
 Ella Glatt (11:43 A.M.)
 Sounds great. We just need one of you to clarify a few quick points about the budget for
 the next advertising campaign.
-32GO ON TO THE NEXT PAGE
-TEST 1 33
-158. At what time will the executive board
-meeting begin?
+
+158. At what time will the executive board meeting begin?
 (A) 2:00 P.M.
 (B) 2:15 P.M.
 (C) 2:30 P.M.
 (D) 3:00 P.M.
-159. In what area does Mr. Iverman most likely
-work?
+159. In what area does Mr. Iverman most likely work?
 (A) Marketing
 (B) Finance
 (C) Advertising
 (D) Executive management
-160. Why does Ms. Glatt want a colleague to attend
-a meeting?
+160. Why does Ms. Glatt want a colleague to attend a meeting?
 (A) To summarize a previous meeting
 (B) To explain a promotional campaign
 (C) To provide information about a budget
 (D) To review recently approved documents
-161. At 11:43 A.M., what does Ms. Glatt most likely
-mean when she writes, “Sounds great”?
+161. At 11:43 A.M., what does Ms. Glatt most likely mean when she writes, “Sounds great”?
 (A) She accepts Mr. Seidal’s offer.
-(B) She agrees that Mr. Iverman should
-attend the meeting at 3:00 P.M.
-(C) She is pleased with the proposed
-budget.
-(D) She is happy that a project has been
-completed.Questions 162-165 refer to the following e-mail.
+(B) She agrees that Mr. Iverman should attend the meeting at 3:00 P.M.
+(C) She is pleased with the proposed budget.
+(D) She is happy that a project has been completed.
+
+Questions 162-165 refer to the following e-mail.
 Dear Mr. Abboud,
 My friend Josiah Wilkins told me that you are seeking a project coordinator for your company. I
 have a degree in business administration and am attaching my resume as I think I am an excellent fit
@@ -1457,7 +1464,7 @@ comfortable leading geographically and culturally diverse teams.
 Thank you for your attention, and I look forward to speaking with you soon.
 Kind regards,
 Maria McFarland
-34GO ON TO THE NEXT PAGE
+34
 TEST1 35
 162. What does Ms. McFarland mention about
 Mr. Wilkins?
@@ -1492,7 +1499,9 @@ strategic industry contacts
 (C) To explain how she became aware of
 certain world issues
 (D) To emphasize her experience with
-people of different backgroundsQuestions 166-168 refer to the following Web page.
+people of different backgrounds.
+
+Questions 166-168 refer to the following Web page.
 166. What does Trexdale Supply make?
 (A) Medical supplies
 (B) Farming equipment
@@ -1527,7 +1536,9 @@ space. As a result of this project, this client has realized substantial savings
 reducing energy usage in the lab.
 Please visit the “Lab Planning” section of this Web site if you are interested in learning
 more about building or renovating a laboratory facility. There, you can fill out an
-interest form to contact one of our consultants about your next project.Questions 169-171 refer to the following job advertisement.
+interest form to contact one of our consultants about your next project.
+
+Questions 169-171 refer to the following job advertisement.
 PRODUCT DEMONSTRATORS NEEDED!
 Are you outgoing and enthusiastic? — [1 ] — . Do you enjoy talking to all types of people? Put your
 personality and communication skills to work! — [2] — . BBD Staffing is seeking to hire in-store
@@ -1540,7 +1551,7 @@ provide key information to consumers. Because many of the demonstrations require
 food, candidates must have a Professional Food Handler certificate. — [4] — .
 To apply, upload a video of no more than one minute in length telling us why you would be a
 successful product demonstrator at www.bbdstaffing.com/applications.
-GO ON TO THE NEXT PAGE
+
 TEST1 37
 169. What work experience would best qualify a
 candidate for the position?
@@ -1563,7 +1574,9 @@ positive impressions of their products.”
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]Questions 172-175 refer to the following article.
+(D) [4]
+
+Questions 172-175 refer to the following article.
 38
 Gorman Unveils Newest
 Smartphone Model
@@ -1601,7 +1614,7 @@ convenience.
 ability to reuse elements of the other Gorman
 devices they’ve already purchased,” said Hill.
 “Why add to the overload of cables already in
-circulation?” -— [41 —.GO ON TO THE NEXT PAGE
+circulation?” -— [41 —.
 TEST1 39
 172. What is the purpose of the article?
 (A) To promote a technology show
@@ -1627,7 +1640,9 @@ belong?
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]Questions 176-180 refer to the following work order and e-mail.
+(D) [4]
+
+Questions 176-180 refer to the following work order and e-mail.
 WORK ORDER: 7549
 Requester: Xi, Gina
 Date Entered: Wednesday, 9 April
@@ -1657,8 +1672,7 @@ lose access to your own voice mail (at least until someone here at IT could over
 change). If you still feel comfortable with that level of risk, let me know, and I will change the
 settings so that your password never expires.
 Sam Arnold
-Tech Support AssociateGO ON TO THE NEXT PAGE
-TEST1 41
+Tech Support Associate
 Questions 181-185 refer to the following e-mail and review.
 176. What does Ms. Xi’s request indicate about the
 company?
@@ -1725,7 +1739,7 @@ plenty of novelty as well. This newest version also corrects the green and blue 
 was sometimes a problem in earlier installments of Titan Adventure.
 Neptune’s Voyage launches May 5 on Rimerko Clutch and FS5. It is available in English, Korean,
 Japanese, French, and Spanish.
-42GO ON TO THE NEXT PAGE
+42
 TEST1 43
 181. In the e-mail, what is suggested about Mr.
 Merson?
@@ -1765,7 +1779,9 @@ without guidance.
 (A) On September 4
 (B) On October 10
 (C) On April 1
-(D) On May 5Questions 186-190 refer to the following schedule, e-mail, and job advertisement.
+(D) On May 5.
+
+Questions 186-190 refer to the following schedule, e-mail, and job advertisement.
 Wonder Ridge Radio Broadcast Schedule, Monday-Friday
 6 A.M.-Noon Noon-4 P.M. 4 P.M.-7 P.M. 7 P.M.-10 P.M.
 COFFEE BREAK AFTERNOON JAZZ FOLK FRENZY JOSIE’S JOINT
@@ -1806,7 +1822,7 @@ Responsibilities
 • Using scheduling software to update the broadcast schedule
 • Communicating with listeners, especially via e-mail and social media
 To apply, e-mail a resume and cover letter to hiring@wonderridgeradio.org.
-GO ON TO THE NEXT PAGE
+
 TEST1 45
 186. According to the schedule, who is Ms.
 Jones?
@@ -1841,7 +1857,9 @@ assistant?
 (A) Coffee Break
 (B) Afternoon Jazz
 (C) Folk Frenzy
-(D) Josie’s JointQuestions 191-195 refer to the following instructions, e-mail, and sign.
+(D) Josie’s Joint
+
+Questions 191-195 refer to the following instructions, e-mail, and sign.
 Instructions for Requesting Records
 Thank you for your interest in official records and documents maintained by the City of Abilene. To
 file a request for public information, please follow these steps.
@@ -1873,42 +1891,34 @@ IT Services - Room 100
 Parks and Recreation - Room 101
 Transportation - Room 102
 Wastewater - Room 103
-GO ON TO THE NEXT PAGE
-TEST 1 47
-191. What do the instructions indicate about
-records requests?
-(A) They can be made only on certain
-days.
+
+191. What do the instructions indicate about records requests?
+(A) They can be made only on certain days.
 (B) They can be made only online.
-(C) They can be filed only by authorized
-personnel.
-(D) They can be filed only after a fee is
-paid.
-192. According to the e-mail, how does
-Mr. Brandenberg plan to use some public
-information?
+(C) They can be filed only by authorized personnel.
+(D) They can be filed only after a fee is paid.
+192. According to the e-mail, how does Mr. Brandenberg plan to use some public information?
 (A) To add information to a Web portal
 (B) To help his company advise the city
 (C) To identify an accounting error
 (D) To learn how an agency is structured
-193. What does the sign indicate visitors must
-do before entering a building?
+193. What does the sign indicate visitors must do before entering a building?
 (A) Go through a security screening
 (B) Get a parking permit
 (C) Present some identification
 (D) Sign a logbook
-194. What was Mr. Brandenberg expecting to
-receive?
+194. What was Mr. Brandenberg expecting to receive?
 (A) An itemized statement of fees
 (B) A letter from his company
 (C) A phone call from a city official
 (D) A password for the Web portal
-195. What room will Mr. Brandenberg most likely
-visit?
+195. What room will Mr. Brandenberg most likely visit?
 (A) Room 100
 (B) Room 101
 (C) Room 102
-(D) Room 103Questions 196-200 refer to the following review and e-mails.
+(D) Room 103
+
+Questions 196-200 refer to the following review and e-mails.
 Famous Actor, First Book
 LONDON (25 February)—Fans of Simon Eklund will be delighted with his
 autobiography, The Theatre Lights Dimmed, the first book he has written in his
@@ -1942,21 +1952,17 @@ I just wanted to finalize a few details with you. We have arranged transportatio
 Mr. Eklund’s house and then back to the hotel. Please let me know how many people there will be in your
 group, because Mr. Eklund would like you all to stay for lunch.
 Sincerely,Maria Cazalla
-196. What does the review mention about
-Mr. Eklund?
+196. What does the review mention about Mr. Eklund?
 (A) He enjoys his work as a director.
-(B) He has been a mentor to many young
-people.
+(B) He has been a mentor to many young people.
 (C) He is a well-known actor.
 (D) He has written many books.
-197. Where most likely will Ms. Joshi meet
-Mr. Eklund?
+197. Where most likely will Ms. Joshi meet Mr. Eklund?
 (A) In Sweden
 (B) In France
 (C) In Italy
 (D) In the United Kingdom
-198. According to the first e-mail, what is one
-reason Ms. Joshi will travel in April?
+198. According to the first e-mail, what is one reason Ms. Joshi will travel in April?
 (A) To go on a vacation
 (B) To interview for a new job
 (C) To attend an international film festival
@@ -1967,9 +1973,7 @@ reason Ms. Joshi will travel in April?
 (C) To discuss an idea for a movie
 (D) To ask for transportation
 200. What can be concluded about Mr. Eklund?
-(A) He hopes to write for a British news
-site.
+(A) He hopes to write for a British news site.
 (B) He just hired a new assistant.
-(C) He was pleased with Ms. Joshi’s review
-of his book.
+(C) He was pleased with Ms. Joshi’s review of his book.
 (D) He frequently cooks special meals.
