@@ -229,7 +229,8 @@ Why does the woman say I'm the guest speaker at a conference
 Questions 47 through 49 refer to the following conversation
 Hi I'm calling from Guan construction we were originally scheduled to transport the tower crane to
 Building this weekend for upcoming construction as you know we will use it to lift large steel beams onto the
-Who's for renovations on the top floor but I'm afraid we're going to have to bring it and set it up this Wednesday instead
+Who's for renovations on the top floor but I'm afraid we're going to have to bring it and set it up this Wednesday
+instead
 Well the weekend would have been better since most of the offices are usually empty but if you
 If you have to I'll send a notice that employees should use the side street entrance okay I'll go ahead
 You didn't contact the city to request a change to the start date of our construction permit
@@ -365,7 +366,8 @@ Question 77 through 79 refer to the following broadcast
 Welcome back I'm hungry Shin back with you live for today's hearing of science today from
 Biology to physics science today is your source of accurate Science News we've been talking about the
 Meteor shower that will be visible in the night sky on Saturday and Sunday it's going to be a big event and I hope
-If you have the chance to see it I'm going to open the line to call us now if you have a question about astronomy and this
+If you have the chance to see it I'm going to open the line to call us now if you have a question about astronomy and
+this
 Weekends event and I'm going to rest questions to those topics only the number is 55
 550156
 Number 77
@@ -859,15 +861,13 @@ of purchase.
 (D) Rule 4
 This is the end of the Listening test.
 READING TEST
-In the Reading test, you will read a variety of texts and answer several different types of reading
-comprehension questions. The entire Reading test will last 75 minutes. There are three parts, and
-directions are given for each part. You are encouraged to answer as many questions as possible within
-the time allowed.
-You must mark your answers on the separate answer sheet. Do not write your answers in your test
-book.
+In the Reading test, you will read a variety of texts and answer several different types of reading comprehension
+questions. The entire Reading test will last 75 minutes. There are three parts, and directions are given for each part.
+You are encouraged to answer as many questions as possible within the time allowed.
+You must mark your answers on the separate answer sheet. Do not write your answers in your test book.
 PART 5
-Directions: A word or phrase is missing in each of the sentences below. Four answer choices are
-given below each sentence. Select the best answer to complete the sentence. Then mark the letter
+Directions: A word or phrase is missing in each of the sentences below. Four answer choices are given below each
+sentence. Select the best answer to complete the sentence. Then mark the letter
 (A), (B), (C), or (D) on your answer sheet.
 101. Pering Township ------- enough money to build a new library next year.
 (A) raised
@@ -939,22 +939,26 @@ given below each sentence. Select the best answer to complete the sentence. Then
 (B) corresponded
 (C) corresponding
 (D) correspondence
-115. Festival officials stored items that were left behind after the event until they could determine ------- owned them.
+115. Festival officials stored items that were left behind after the event until they could determine ------- owned
+them.
 (A) who
 (B) theirs
 (C) whose
 (D) that
-116. Even though there were problems with traffic last year, officials have ------- to hold the parade in the city center.
+116. Even though there were problems with traffic last year, officials have ------- to hold the parade in the city
+center.
 (A) updated
 (B) controlled
 (C) decided
 (D) advanced
-117. We will make arrangements for Ms. Tanaka’s ------- once we finalize the schedule for her tour of our corporate headquarters.
+117. We will make arrangements for Ms. Tanaka’s ------- once we finalize the schedule for her tour of our corporate
+headquarters.
 (A) arrive
 (B) arrives
 (C) arrival
 (D) arrived
-118. Given the benefits it will provide, members of the community were ------- excited about the proposal for a new shopping center.
+118. Given the benefits it will provide, members of the community were ------- excited about the proposal for a new
+shopping center.
 (A) responsibly
 (B) popularly
 (C) mistakenly
@@ -974,12 +978,14 @@ given below each sentence. Select the best answer to complete the sentence. Then
 (B) more
 (C) almost
 (D) often
-122. Based on sales reports from the past three months, the ------- seems to be that our newest products are gaining popularity.
+122. Based on sales reports from the past three months, the ------- seems to be that our newest products are gaining
+popularity.
 (A) aim
 (B) trend
 (C) offer
 (D) style
-123. Newport Hills Property Developers are hiring ------- contractors to build a state-ofthe-art water filtration system.
+123. Newport Hills Property Developers are hiring ------- contractors to build a state-ofthe-art water filtration
+system.
 (A) qualified
 (B) qualification
 (C) qualify
@@ -994,12 +1000,14 @@ given below each sentence. Select the best answer to complete the sentence. Then
 (B) financing
 (C) financial
 (D) financed
-126. Ms. Ahmad asked that we complete our assignments ------- so that she can include them in her monthly budget report today.
+126. Ms. Ahmad asked that we complete our assignments ------- so that she can include them in her monthly budget report
+today.
 (A) prompt
 (B) prompted
 (C) promptly
 (D) prompting
-127. The new operations manager was surprised that the directors wanted cost estimates even for minor tasks ------- labeling.
+127. The new operations manager was surprised that the directors wanted cost estimates even for minor tasks -------
+labeling.
 (A) apart
 (B) at least
 (C) in full
@@ -1020,16 +1028,16 @@ given below each sentence. Select the best answer to complete the sentence. Then
 (C) objecting
 (D) objectively
 PART 6
-Directions: Read the texts that follow. A word, phrase, or sentence is missing in parts of each text.
-Four answer choices for each question are given below the text. Select the best answer to complete
-the text. Then mark the letter (A), (B), (C), or (D) on your answer sheet.
+Directions: Read the texts that follow. A word, phrase, or sentence is missing in parts of each text. Four answer
+choices for each question are given below the text. Select the best answer to complete the text. Then mark the letter
+(A), (B), (C), or (D) on your answer sheet.
 Questions 131-134 refer to the following article.
 
 Major Expansion for Local Biotech Startup
-Medicatenet, a leading biotechnology company, (131) ------- yesterday that it has raised $200
-million in venture capital from investors. It plans to use those (132) ------- to install
-cutting-edge technology involving machine learning to develop new medicines. The investment will
-enable Medicatenet to triple its workforce (133) ------- the next twelve months. (134) -------.
+Medicatenet, a leading biotechnology company, (131) ------- yesterday that it has raised $200 million in venture capital
+from investors. It plans to use those (132) ------- to install cutting-edge technology involving machine learning to
+develop new medicines. The investment will enable Medicatenet to triple its workforce (133) ------- the next twelve
+months. (134) -------.
 131. (A) announce
 (B) announced
 (C) announcement
@@ -1053,14 +1061,14 @@ To: Seo-Jun Hak <seo-junhak2390@amail.Gom>
 Subject: Arrival at Mellow Bay Resort
 Date: June 4
 Dear Mr. Hak,
-Your stay at Mellow Bay Resort is coming soon! The check-in time is between 3:00 P.M. and 8:00 P.M.
-Please call us at (305) 555-0125 if you plan to arrive before or after these hours. Your room may be
-given to another guest if you arrive after 8:00 P.M. without (135) -------.
-When checking in, you will receive complimentary tickets for the breakfast buffet, (136) ------- is
-located down the hall from the lobby. You may also want to make dinner reservations at Lookout
-Restaurant on the top floor of the hotel with (137) ------- views of the ocean and town. Also be
-sure to stop at our guest services desk for information about local attractions. (138) -------.
-There is so much in the bay area to explore! We look forward to welcoming you as our guest.
+Your stay at Mellow Bay Resort is coming soon! The check-in time is between 3:00 P.M. and 8:00 P.M. Please call us at
+(305) 555-0125 if you plan to arrive before or after these hours. Your room may be given to another guest if you arrive
+after 8:00 P.M. without (135) -------.
+When checking in, you will receive complimentary tickets for the breakfast buffet, (136) ------- is located down the
+hall from the lobby. You may also want to make dinner reservations at Lookout Restaurant on the top floor of the hotel
+with (137) ------- views of the ocean and town. Also be sure to stop at our guest services desk for information about
+local attractions. (138) -------. There is so much in the bay area to explore! We look forward to welcoming you as our
+guest.
 Best regards,
 Valeria
 135. (A) notice
@@ -1086,13 +1094,12 @@ Kenji Davis
 26 Peartree Lane
 Baltimore, MD 21205
 Dear Mr. Davis,
-It was a pleasure to talk with you at the Annual Model Train Show in Baltimore earlier this month. I
-(139) ------- by the high quality of the antique trains that you had on display.
-You mentioned that you might want to sell several sets of antique trains. Faremount Antique Auctions
-would be an ideal (140) ------- for you. Twice a year we hold an online auction of antique toys that
-attracts bids from model train collectors from around the world. Our most recent auction was in
-November. (141) -------. I believe you will find that items in our auction sold for higher prices
-(142) ------- similar items did at other sites.
+It was a pleasure to talk with you at the Annual Model Train Show in Baltimore earlier this month. I (139) ------- by
+the high quality of the antique trains that you had on display.
+You mentioned that you might want to sell several sets of antique trains. Faremount Antique Auctions would be an ideal
+(140) ------- for you. Twice a year we hold an online auction of antique toys that attracts bids from model train
+collectors from around the world. Our most recent auction was in November. (141) -------. I believe you will find that
+items in our auction sold for higher prices (142) ------- similar items did at other sites.
 Our next auction will be held May 21-22. Let me know if you are interested in participating.
 Sincerely,
 Justine Garcia, Faremount Antique Auctions
@@ -1118,13 +1125,12 @@ To: All Personnel
 From: Harkfield Capital
 Subject: Half day
 Date: November 10
-On Friday, November 19, beginning at 2:00 P.M., the parking garage will be power washed and the
-lines will be repainted. Before the workers can (143) -------, the garage needs to be empty.
-Therefore, all employees will receive a paid half day off from work. (144) -------. Those who begin
-at 9:00 A.M. will finish at 1:00 P.M. No lunch hours will be taken. Employees must (145) ------- the
-garage immediately after completing their shifts.
-The garage will remain (146) ------- all weekend. Employees who work on the weekend must park on the
-street or in a paid lot.
+On Friday, November 19, beginning at 2:00 P.M., the parking garage will be power washed and the lines will be repainted.
+Before the workers can (143) -------, the garage needs to be empty. Therefore, all employees will receive a paid half
+day off from work. (144) -------. Those who begin at 9:00 A.M. will finish at 1:00 P.M. No lunch hours will be taken.
+Employees must (145) ------- the garage immediately after completing their shifts.
+The garage will remain (146) ------- all weekend. Employees who work on the weekend must park on the street or in a paid
+lot.
 We hope you will enjoy this extra time off.
 143. (A) be hired
 (B) be paid
@@ -1143,9 +1149,9 @@ We hope you will enjoy this extra time off.
 (C) spacious
 (D) closed
 PART 7
-Directions: In this part you will read a selection of texts, such as magazine and newspaper articles,
-e-mails, and instant messages. Each text or set of texts is followed by several questions. Select the
-best answer for each question and mark the letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
+instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
+and mark the letter (A), (B), (C), or (D) on your answer sheet.
 Questions 147-148 refer to the following invoice.
 
 Oma Jean's Cakes
@@ -1155,11 +1161,8 @@ Date of Order: October 26
 Date of Delivery: October 28
 Delivery: Grand Uptown Hotel
 Delivery by:RenuBhatti
-Two kg chocolate cake (round)
-Chocolate icing
-Strawberry filling
-Message on cake:"Congratulations on your retirement,Mary Ellenl"
-Special instructions: Decorate cake with yellow icing flowers
+Two kg chocolate cake (round) Chocolate icing Strawberry filling Message on cake:"Congratulations on your
+retirement,Mary Ellenl" Special instructions: Decorate cake with yellow icing flowers
 Delivery Fee
 Grand Total
 $75.00
@@ -1182,16 +1185,14 @@ $125.00
 Questions 149-150 refer to the following text-message chain.
 
 Greg Pfaff (1:17 P.M.)
-Hi Jessa. I'm running a bit late for our 2:00 P.M. appointment to
-troubleshoot the problem with your desktop computer. I should
+Hi Jessa. I'm running a bit late for our 2:00 P.M. appointment to troubleshoot the problem with your desktop computer. I
+should
 arrive around 2:20 P.M.
 Jessa Kim (1:18 P.M.)
-That's fine. I hope you can fix it.I depend on that desktop for my
-online craft supply business.
+That's fine. I hope you can fix it.I depend on that desktop for my online craft supply business.
 Greg Pfaff (1:19 P.M.)
-I know. It may just need a tune-up. My assistant, Kevin Mulford,
-will be with me too. He may help you out in the future while I work
-on a maintenance project at a local data center.
+I know. It may just need a tune-up. My assistant, Kevin Mulford, will be with me too. He may help you out in the future
+while I work on a maintenance project at a local data center.
 Jessa Kim (1:20 P.M.)
 That's good to know.
 Greg Pfaff (1:21P.M.)
@@ -1210,14 +1211,13 @@ All right. See you when you get here.
 (D) A building superintendent 150
 Questions 151-152 refer to the following product review.
 
- As my company's regional training manager,I am often making presentations to groups of people and
-rarely in the same place.I needed a portable projector to display what's on my computer screen,and
-the Veruvatron 800 is perfect because it is slim and light. I did quite a bit of research comparing
-different brands in terms of image resolution and other specifications. Many were comparable in
-terms of those specifications,but the Veruvatron 800 is especially easy to bring to all my
-presentations, and that is ultimately why I chose this one. One flaw is that both the power cord and
-the VGA cord are surprisingly short. I have needed to use an extension cord pretty much every time I
-use it, so be prepared to do the same. -Horace Offerman 1 I
+As my company's regional training manager,I am often making presentations to groups of people and rarely in the same
+place.I needed a portable projector to display what's on my computer screen,and the Veruvatron 800 is perfect because it
+is slim and light. I did quite a bit of research comparing different brands in terms of image resolution and other
+specifications. Many were comparable in terms of those specifications,but the Veruvatron 800 is especially easy to bring
+to all my presentations, and that is ultimately why I chose this one. One flaw is that both the power cord and the VGA
+cord are surprisingly short. I have needed to use an extension cord pretty much every time I use it, so be prepared to
+do the same. -Horace Offerman 1 I
 151. Why did Mr.Offerman choose one projector over others?
 (A) It is durable.
 (B) It is easy to carry.
@@ -1238,13 +1238,10 @@ Date: January To ^
 Subject: Next interview
 
 Dear Mr. Owens,
-It was great to speak to you about the security systems manager position. I am pleased to
-report that I would like you to move On to the next level of interviews. You will speak
-with the director of security, Mr. Scott, and his assistant, Ms. Kibera.
-I will send another e-mail before the meeting with instructions on how to join the virtual
-conference call.
-Meeting date/time: January 12 at 2:30 P.M. Eastern Standard Time
-Please confirm that you can make the conference call.
+It was great to speak to you about the security systems manager position. I am pleased to report that I would like you
+to move On to the next level of interviews. You will speak with the director of security, Mr. Scott, and his assistant,
+Ms. Kibera. I will send another e-mail before the meeting with instructions on how to join the virtual conference call.
+Meeting date/time: January 12 at 2:30 P.M. Eastern Standard Time Please confirm that you can make the conference call.
 Sincerely,
 J. Kovack
 Human Relations Agent
@@ -1267,18 +1264,15 @@ Date: Tuesday, August 17
 Subject: Sunner Planning Commission meeting
 
 Dear Board Members,
-I am preparing to speak at the upcoming Sunner Planning Commission meeting and will
-be creating a slideshow to accompany my presentation. I have some great data to reinforce
-my points, but I think it will be easier for people to understand if the information is
-presented visually. Is anybody interested in helping me develop the visual component of
-my presentation? Some pie charts and diagrams would make a big impact in the slideshow.
-The goal is to present the advantages and disadvantages of the three proposals for using
-the Holt property in northeast Sunner Valley. I am hoping that the commission accepts Ken
-Jansen’s offer to buy the property, which is next to his land. He would expand his orchard
-and this would help maintain the rural nature of northern Sunner Valley.
-The speaker sign-up guidelines state that I will need to submit my presentation materials
-before the agenda gets posted online, but they do not specify when this will happen. I will
-call today to find out more details.
+I am preparing to speak at the upcoming Sunner Planning Commission meeting and will be creating a slideshow to accompany
+my presentation. I have some great data to reinforce my points, but I think it will be easier for people to understand
+if the information is presented visually. Is anybody interested in helping me develop the visual component of my
+presentation? Some pie charts and diagrams would make a big impact in the slideshow. The goal is to present the
+advantages and disadvantages of the three proposals for using the Holt property in northeast Sunner Valley. I am hoping
+that the commission accepts Ken Jansen’s offer to buy the property, which is next to his land. He would expand his
+orchard and this would help maintain the rural nature of northern Sunner Valley.
+The speaker sign-up guidelines state that I will need to submit my presentation materials before the agenda gets posted
+online, but they do not specify when this will happen. I will call today to find out more details.
 Kathleen Huff
 155. What is the purpose of the e-mail?
 (A) To coordinate speakers
@@ -1307,9 +1301,8 @@ Lurene Toyo
 23000 S Henry Street
 Fairville, GA 30013
 JOB DESCRIPTION
-Remove grass and old concrete patio behind the house. Lay a
-cement foundation for the new patio. Install Tropical Sunset tiles
-per client’s approved plan.
+Remove grass and old concrete patio behind the house. Lay a cement foundation for the new patio. Install Tropical Sunset
+tiles per client’s approved plan.
 QUANTITY AMOUNT
 $250
 $1,500
@@ -1319,9 +1312,7 @@ $1,750
 $4,000
 MATERIALS
 Cement
-Tropical Sunset tiles
-Delivery of materials
-Disposal of debris
+Tropical Sunset tiles Delivery of materials Disposal of debris
 Labor
 TOTAL
 RATE
@@ -1332,8 +1323,7 @@ $3 each
 TERMS
 $2,000 due upon signing of contract
 $2,000 due upon completion of project
-Payable by credit card, check, or bank transfer
-This estimate serves as your contract. Please sign and return this
+Payable by credit card, check, or bank transfer This estimate serves as your contract. Please sign and return this
 document to estimates@waypavehardscapes.com.
 160. How much will Ms. Toyo owe when she signs the contract?
 (A) $1,500
@@ -1359,20 +1349,16 @@ Date: September 22
 Re: Order #93887
 
 Dear Ms. Tran:
-Thank you for contacting Shoppe des Jeans Customer Care about order #93887.1 am sorry
-you are not happy with your purchase. — [1] —. The product you ordered, Women’s
-Stretch Jeans size 36 in midnight blue, is one of our best-selling women’s styles. In order
-to get the dark blue color that makes these jeans such a standout, the fabric is dyed twice
-to deepen the color of the denim. — [2] —. The item’s label clearly states that some dye
-may rub off on light-colored fabric or upholstery until the product has been washed
-several times.
-— [3] —. It also suggests washing the jeans with dark colors only, as the
-dye may run in the wash.
-It is unfortunate that you did not see these warnings and that your sofa has become
-discolored as a result. — [4]—. Our goal at Shoppe des Jeans is 100% customer
-satisfaction with every purchase. This kind of situation, however, is not covered under our
-customer service guarantee, since the issue with the dye is addressed on the product’s
-label. I suggest you try treating the sofa with baking soda, followed by upholstery cleaner.
+Thank you for contacting Shoppe des Jeans Customer Care about order #93887.1 am sorry you are not happy with your
+purchase. — [1] —. The product you ordered, Women’s Stretch Jeans size 36 in midnight blue, is one of our best-selling
+women’s styles. In order to get the dark blue color that makes these jeans such a standout, the fabric is dyed twice to
+deepen the color of the denim. — [2] —. The item’s label clearly states that some dye may rub off on light-colored
+fabric or upholstery until the product has been washed several times. — [3] —. It also suggests washing the jeans with
+dark colors only, as the dye may run in the wash.
+It is unfortunate that you did not see these warnings and that your sofa has become discolored as a result. — [4]—. Our
+goal at Shoppe des Jeans is 100% customer satisfaction with every purchase. This kind of situation, however, is not
+covered under our customer service guarantee, since the issue with the dye is addressed on the product’s label. I
+suggest you try treating the sofa with baking soda, followed by upholstery cleaner.
 Regards,
 Bertine Olivier
 1 Customer Care Representative, Shoppe des Jeans 1
@@ -1381,8 +1367,8 @@ Bertine Olivier
 (B) Her jeans ruined her light-colored clothing.
 (C) She was unhappy with the style of her jeans.
 (D) Her jeans stained an item of furniture.
-163. In which of the positions marked [1], [2], [3], and [4] does the following sentence best
-belong? - “Each pair of jeans comes with a large label I displaying the care instructions.”
+163. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? - “Each pair of
+jeans comes with a large label I displaying the care instructions.”
 (A) [1]
 (B) [2]
 (C) [3] i
@@ -1396,10 +1382,9 @@ Im
 Questions 164-167 refer to the following brochure.
 
 Lado Shopping Center
-Rebbly Development is pleased to announce the approval of a new project,the Lado
-Shopping Center in Springfield. This rapidly expanding city is conveniently located near
-the capital,and Lado ShoppingCenter is set to deliver an excellent shopping experience
-for all. We expect to finish construction next year.
+Rebbly Development is pleased to announce the approval of a new project,the Lado Shopping Center in Springfield. This
+rapidly expanding city is conveniently located near the capital,and Lado ShoppingCenter is set to deliver an excellent
+shopping experience for all. We expect to finish construction next year.
 Property Highlights
 • 150,000 square feet of retail and
 office space
@@ -1413,14 +1398,11 @@ Area Attractions
 • Located near the aquarium,several
 parks, and the river
 • Two major access roads: Hemley
-Boulevard and Route 82,with
-additional connection to Highway 35
-to be completed in five years
+Boulevard and Route 82,with additional connection to Highway 35 to be completed in five years
 • 4,000 new homes to be built in
 Springfield within three years
 • Nearby parking structure with ports
-for electric vehicles to be completed
-within two years
+for electric vehicles to be completed within two years
 • Movie theaters,amusement park,
 and other attractions nearby
 164. What is indicated about the new property?
@@ -1448,22 +1430,19 @@ STMtiBSEuiZl- . Ll-tTV
 Questions 168-171 refer to the following text-message chain.
 
 Jack Elling (10:35 A.M.)
-Hi, everyone. Would anyone be able to come into the shop to work tonight?
-Kelly is having car problems and can't work her shift.
+Hi, everyone. Would anyone be able to come into the shop to work tonight? Kelly is having car problems and can't work
+her shift.
 Emily Chin (10:37 A.M.)
-Ican't, sorry. But aren't Maria and Koji also working? Don't we usually have two
-people in the evenings?
+Ican't, sorry. But aren't Maria and Koji also working? Don't we usually have two people in the evenings?
 Jack Elling (10:39 A.M.)
-Yes, we usually have two people/ and those two are working tonight. But we are
-having our special promotion, giving away samples of our new ice cream flavors.
-Ineed a third person to help with that.
+Yes, we usually have two people/ and those two are working tonight. But we are having our special promotion, giving away
+samples of our new ice cream flavors. Ineed a third person to help with that.
 Emily Chin (10:40 A.M.)
 I'm attending a birthday party this afternoon,so I can't do it.
 Cameron Stein (10:42 A.M.)
 Icould stay on after my day shift is over.
 Emily Chin (10:43 A.M.)
-Actually,I could work 6-9 P.M.if you don't want to stay. My party is only a few
-hours. What do you think?
+Actually,I could work 6-9 P.M.if you don't want to stay. My party is only a few hours. What do you think?
 Cameron Stein (10:44 A.M.)
 Well,I could really use the overtime hours.
 Emily Chin (10:45 A.M.)
@@ -1493,25 +1472,16 @@ Thanks,Cameron!
 Questions 172-175 refer to the following summary of a report.
 
 Kiame Tire Factory Productivity Report
-Preparer: Wilma Najjar, Systems Engineer
-Date of review: April 10
-Reason for review: Quarterly inspection
-Summary: I have completed my inspection of all equipment and
-machinery at the plant. — [1] —. The main components of the production
-line are running as expected. These components include mixers, rollers,
-and the textile production system. — [2] —. The rotating drums for
-assembling the tires that were added last quarter have also been
-functioning as expected. Finally, the molds for the tire treads are
-beginning to show some signs of wear. Employees have flagged
-these molds, and the molds will be removed from the production line.
-Recommendations: Purchasing new replacement molds is the top
-priority. See the report in the section dedicated to tire molds for details.
-— [3] —. Finally, as the Kiame plant increases its production, adding
-more mixers will be crucial to making more tires. The company must
-decide at that point whether to purchase newer mixer models or to
-upgrade those that we are currently using. — [4]—. However, replacing
-the older mixers will speed up production, which will likely outweigh
-any additional cost.
+Preparer: Wilma Najjar, Systems Engineer Date of review: April 10 Reason for review: Quarterly inspection Summary: I
+have completed my inspection of all equipment and machinery at the plant. — [1] —. The main components of the production
+line are running as expected. These components include mixers, rollers, and the textile production system. — [2] —. The
+rotating drums for assembling the tires that were added last quarter have also been functioning as expected. Finally,
+the molds for the tire treads are beginning to show some signs of wear. Employees have flagged these molds, and the
+molds will be removed from the production line. Recommendations: Purchasing new replacement molds is the top priority.
+See the report in the section dedicated to tire molds for details. — [3] —. Finally, as the Kiame plant increases its
+production, adding more mixers will be crucial to making more tires. The company must decide at that point whether to
+purchase newer mixer models or to upgrade those that we are currently using. — [4]—. However, replacing the older mixers
+will speed up production, which will likely outweigh any additional cost.
 174. What is indicated about the Kiame Tire Factory?
 (A) Most of its equipment is old.
 (B) It is less expensive to maintain than anticipated.
@@ -1536,53 +1506,27 @@ Questions 176-180 refer to the following announcement and article.
 
 Call for Entries: Annual Sustainability Competition
 Sponsored by the League of New Zealand Builders
-PURPOSE: The League of New Zealand Builders (LNZB) wants to recognize an
-individual whose contribution to a new construction features design innovations that
-are environmentally friendly. The winner will be featured at an on-site celebration
-and show guests and journalists around the finished budding, explaining its
-environmental highlights.
-ENTRANTS: Priority consideration will be given to members of the LNZB, but any
-professional builder who completes a project in New Zealand before 15 December of
-this year may apply. Go to the LNZB Web site for the submission form,
-DUE DATE: All submissions are due by 15 December.
-JUDGING PROCESS: The application and vetting process includes several steps.
-After screening the candidates, judges will choose semifinalists. Then a special panel
-will choose this year’s recipient.
-FOR MORE INFORMATION: Visit www.leagueofnewzealandbuilders.org.nz to
-learn more about the LNZB and past winners.
+PURPOSE: The League of New Zealand Builders (LNZB) wants to recognize an individual whose contribution to a new
+construction features design innovations that are environmentally friendly. The winner will be featured at an on-site
+celebration and show guests and journalists around the finished budding, explaining its environmental highlights.
+ENTRANTS: Priority consideration will be given to members of the LNZB, but any professional builder who completes a
+project in New Zealand before 15 December of this year may apply. Go to the LNZB Web site for the submission form, DUE
+DATE: All submissions are due by 15 December.
+JUDGING PROCESS: The application and vetting process includes several steps. After screening the candidates, judges will
+choose semifinalists. Then a special panel will choose this year’s recipient.
+FOR MORE INFORMATION: Visit www.leagueofnewzealandbuilders.org.nz to learn more about the LNZB and past winners.
 Rahotu Wins LNZB Prize
 (17 March)—The League of New Zealand
-Builders (LNZB) yesterday announced
-that Maia Rahotu won this year’s
-Sustainability Competition. Ms. Rahotu,
-whose work on building designs
-throughout New Zealand goes back many
-years, won the award for her design of
-the Rowan Community Centre. The centre
-utilized renewable and recycled materials
-throughout its construction. In April,
-Ms. Rahotu will be formally presented
-with the award during the ceremony at
-the centre; details will be announced
-soon. “It was a tough decision this year,”
-said LNZB’s director, Thomas Young.
-“All applicants chose materials that
-minimize environmental impact. But we
-were able to narrow the candidates to
-three top choices, each of whom was
-interviewed by our panel of experts.”
-Building components in the Rowan
-project were thoughtfully selected by
-Ms. Rahotu to minimize environmental
-impact, Young added. “However, what is
-exceptional about Ms. Rahotu’s design is
-how well it harvests solar energy.”
-According to experts at LNZB, her solar
-design generates a high surplus of .
-electricity beyond the building’s
-requirements. This surplus is transmitted
-to the region’s power grid—in effect
-reducing strain on local energy
+Builders (LNZB) yesterday announced that Maia Rahotu won this year’s Sustainability Competition. Ms. Rahotu, whose work
+on building designs throughout New Zealand goes back many years, won the award for her design of the Rowan Community
+Centre. The centre utilized renewable and recycled materials throughout its construction. In April, Ms. Rahotu will be
+formally presented with the award during the ceremony at the centre; details will be announced soon. “It was a tough
+decision this year,” said LNZB’s director, Thomas Young. “All applicants chose materials that minimize environmental
+impact. But we were able to narrow the candidates to three top choices, each of whom was interviewed by our panel of
+experts.” Building components in the Rowan project were thoughtfully selected by Ms. Rahotu to minimize environmental
+impact, Young added. “However, what is exceptional about Ms. Rahotu’s design is how well it harvests solar energy.”
+According to experts at LNZB, her solar design generates a high surplus of . electricity beyond the building’s
+requirements. This surplus is transmitted to the region’s power grid—in effect reducing strain on local energy
 production.
 179. What will Ms. Rahotu do in April?
 (A) Join a special LNZB panel
@@ -1613,24 +1557,18 @@ Questions 181-185 refer to the following instructions and e-mail.
 
 LAZON COLOR SWIRL CUTTING BOARD
 Model #B875
-Always wash the product soon after each use, especially after cutting acidic fruits and
-vegetables like oranges and tomatoes.
-Refrain from using bleach or cleaners with chlorine, which the board can absorb. For
-tough food stains, soak the board in soapy water for five minutes. Be sure
-the leather hanging strap before cleaning, since water will make the leather tough
-and brittle.
-To store your product, hang it upright from the leather strap on a wall or shelf. Do
-not store it in direct sunlight, since this will cause the vibrant colors of the board to
-fade. Periodically, polish the board with a light coat of olive oil to help the board’s
-colors stay bright.
-Like all Lazon products, our cutting boards are handmade. With minimal upkeep, you
-can keep your product looking lik
-If you have any problems with your board, please e-mail us at
-support@lazonproducts.com. Our policy is to replace at no cost any defective parts or
-products within three months of purchase. At Lazon Products, quality is our top
-priority!
-to remove
-e new,
+Always wash the product soon after each use, especially after cutting acidic fruits and vegetables like oranges and
+tomatoes.
+Refrain from using bleach or cleaners with chlorine, which the board can absorb. For tough food stains, soak the board
+in soapy water for five minutes. Be sure the leather hanging strap before cleaning, since water will make the leather
+tough and brittle.
+To store your product, hang it upright from the leather strap on a wall or shelf. Do not store it in direct sunlight,
+since this will cause the vibrant colors of the board to fade. Periodically, polish the board with a light coat of olive
+oil to help the board’s colors stay bright.
+Like all Lazon products, our cutting boards are handmade. With minimal upkeep, you can keep your product looking lik If
+you have any problems with your board, please e-mail us at support@lazonproducts.com. Our policy is to replace at no
+cost any defective parts or products within three months of purchase. At Lazon Products, quality is our top priority! to
+remove e new,
 
 *** E-mail ***
 From: Jonas E. Iversen <jonaseiversen@daylightcomniei,ce.com>
@@ -1638,14 +1576,11 @@ To: support@lazonproducts.com
 Date: August 2, 4:58 P.M.
 Subject: Model #B875
 
-Hello,
-I’m writing in regard to a defect in my Lazon Model #B875 board. I was very careful to
-follow all the maintenance tips that came with the product, but when I was talking off the
-leather strap as instructed, I noticed a small tear had formed in the middle. It’s not very
-large now, but it will only get bigger after a couple more months of use. Even though I
-purchased the product four months ago, I only started using it one month ago. Is the
-leather strap still covered under your defective parts policy? I’d like to get a new one.
-Thank you for your assistance.
+Hello, I’m writing in regard to a defect in my Lazon Model #B875 board. I was very careful to follow all the maintenance
+tips that came with the product, but when I was talking off the leather strap as instructed, I noticed a small tear had
+formed in the middle. It’s not very large now, but it will only get bigger after a couple more months of use. Even
+though I purchased the product four months ago, I only started using it one month ago. Is the leather strap still
+covered under your defective parts policy? I’d like to get a new one. Thank you for your assistance.
 Jonas E. Iversen
 181. What do the instructions describe?
 (A) How to display a piece of artwork
@@ -1677,17 +1612,15 @@ Questions 186-190 refer to the following Web page, e-mail, and invoice.
 T https://www.fiutteringwings.com.mx )
 About Us Reservations FAQ Contact Us
 Fluttering Wings Resort
-Located just minutes from the entrance to the Tall Trees Monarch Butterfly Sanctuary,
-Fluttering Wings Resort is Mexico’s finest eco-friendly destination.Open year-round,our
-facilities include a full-service restaurant, a relaxing swimmingpool,and a rooftop deck
-with an amazingview.
-Butterfly season is from mid-November to early March,and millions of monarch
-butterflies pass the winter at the Tall Trees sanctuary.Visitors can hike up the mountain
-on foot,but most prefer to participate in our guided horseback tours. Our expert guides,
-who escort visitors up the mountain,are alllocal villagers. They continuously scout the
-sanctuary for the best viewing locations.
-At all times of the year, we offer hikingtrails,bird-watching,and horseback riding.Electric
-vehicle tours of the villages and farms outside the sanctuary are also available.
+Located just minutes from the entrance to the Tall Trees Monarch Butterfly Sanctuary, Fluttering Wings Resort is
+Mexico’s finest eco-friendly destination.Open year-round,our facilities include a full-service restaurant, a relaxing
+swimmingpool,and a rooftop deck with an amazingview.
+Butterfly season is from mid-November to early March,and millions of monarch butterflies pass the winter at the Tall
+Trees sanctuary.Visitors can hike up the mountain on foot,but most prefer to participate in our guided horseback tours.
+Our expert guides, who escort visitors up the mountain,are alllocal villagers. They continuously scout the sanctuary for
+the best viewing locations.
+At all times of the year, we offer hikingtrails,bird-watching,and horseback riding.Electric vehicle tours of the
+villages and farms outside the sanctuary are also available.
 
 *** E-mail ***
 To: Carmen Sanchez <c.sanchez@flutteringwings.com.mx>
@@ -1695,22 +1628,19 @@ From: James Norville <jnorville@itiaworld.org>
 Date: June 12
 Subject: International Travel Industry Association Guardian Award
 
-Congratulations, Carmen Sanchez! SI
-Fluttering Wings Resort has been named a recipient of an International Travel Industry
-Association Guardian Award. The ITIA Guardian Award includes a $5,000 cash award and
-one year of free support from our advisory team. ITIA experts can advise Fluttering Wings
-on ways to operate your business more efficiently and to use the Web to promote your
-services to potential visitors. A member of our advisory team, Rosa Del Vio, would like to
-present the award to you and visit your resort in July or August. She will be in touch with
-you before the end of the month.
+Congratulations, Carmen Sanchez! SI Fluttering Wings Resort has been named a recipient of an International Travel
+Industry Association Guardian Award. The ITIA Guardian Award includes a $5,000 cash award and one year of free support
+from our advisory team. ITIA experts can advise Fluttering Wings on ways to operate your business more efficiently and
+to use the Web to promote your services to potential visitors. A member of our advisory team, Rosa Del Vio, would like
+to present the award to you and visit your resort in July or August. She will be in touch with you before the end of the
+month.
 Sincerely,
 James Norville
 Executive Director
 , International Travel Industry Association
 Fluttering Wings Resort
 Name: Julio and Lisa Bardom
-Prepayment received on: February1
-Dates of stay: February 25-27
+Prepayment received on: February1 Dates of stay: February 25-27
 King-size room: two nights at $95/night
 Guided butterfly sanctuary tour: $40 x2
 Total
@@ -1720,8 +1650,7 @@ $80.00
 $270.00
 Amount Paid:
 Balance Due:
-Note:Regarding your question,don’t worry—the
-butterflies don’t depart the reserve untilearly March.
+Note:Regarding your question,don’t worry—the butterflies don’t depart the reserve untilearly March.
 $270.00
 $0.00
 on
@@ -1752,12 +1681,11 @@ on
 (D) Use the resort swimming pool
 Questions 191-195 refer to the following advertisement and e-mails.
 
- 15th Annual Innovations in Horticulture and Agriculture Conference At the renovated Blane Hotel and
-Conference Centre, London, UK 10-12 November innovationsinhorticulture.org.uk • • • Hope Chen Piet
-Bax Wan O’,Brian Netherlands , China , United KingdomFeatured Speakers: 1 • Emil Savov, Bulgaria For
-more information and to register, visit the Innovations in Horticulture and Agriculture Web site.
-Student discounts available with ID. A limited number of hotel rooms are available at the conference
-site. There is a complimentary bus service for attendees staying at nearby hotels. 
+15th Annual Innovations in Horticulture and Agriculture Conference At the renovated Blane Hotel and Conference Centre,
+London, UK 10-12 November innovationsinhorticulture.org.uk • • • Hope Chen Piet Bax Wan O’,Brian Netherlands , China ,
+United KingdomFeatured Speakers: 1 • Emil Savov, Bulgaria For more information and to register, visit the Innovations in
+Horticulture and Agriculture Web site. Student discounts available with ID. A limited number of hotel rooms are
+available at the conference site. There is a complimentary bus service for attendees staying at nearby hotels.
 
 *** E-mail ***
 To: Piet Bax <pbax@mailcrate.com>
@@ -1766,15 +1694,12 @@ Date: 18 December
 Subject: Lighting Information
 
 Dear Mr. Bax:
-It was wonderful meeting you in London last month. Thank you for taking the time to
-talk to me after your speech and for agreeing to the video meeting on 5 January. I’m
-going to ask my project manager, Ms. Woo-Jin Ko, to join us. Among other things,
-Ms. Ko has some questions about lighting for my greenhouses. I think she has some
-questions about the products offered by the Brillante Luxlight company. I understand
-you helped design some of their products, so perhaps you can offer some advice. I
-know we’ll both have many other questions, so I do appreciate this opportunity. I also
-hope I will be able to visit sometime in the spring and get an in-person look at your
-greenhouses.
+It was wonderful meeting you in London last month. Thank you for taking the time to talk to me after your speech and for
+agreeing to the video meeting on 5 January. I’m going to ask my project manager, Ms. Woo-Jin Ko, to join us. Among other
+things, Ms. Ko has some questions about lighting for my greenhouses. I think she has some questions about the products
+offered by the Brillante Luxlight company. I understand you helped design some of their products, so perhaps you can
+offer some advice. I know we’ll both have many other questions, so I do appreciate this opportunity. I also hope I will
+be able to visit sometime in the spring and get an in-person look at your greenhouses.
 Sincerely,
 Jacob Brewster
 
@@ -1785,10 +1710,9 @@ Subject: Agreement
 Date: 30 January
 
 Dear Mr. Brewster.
-We received the request and the design specifications from you. Unfortunately, the recent
-inclement weather has delayed the shipments of some materials we need to begin
-production. However, once these materials arrive, we will fast-track your order and begin
-production immediately.
+We received the request and the design specifications from you. Unfortunately, the recent inclement weather has delayed
+the shipments of some materials we need to begin production. However, once these materials arrive, we will fast-track
+your order and begin production immediately.
 Sincerely,
 Juana Galvez
 191. What does the advertisement indicate?
@@ -1820,9 +1744,8 @@ Questions 196-200 refer to the following advertisement, review, and e-mail.
 
 ORANGE LIGHT GYM
 GRAND OPENING WEEK
-Orange Light Gym is comingto Singapore! Join us as we open our newest and
-best gym in April.This will be our first location in Singapore, and we will add
-two other locations later this year.
+Orange Light Gym is comingto Singapore! Join us as we open our newest and best gym in April.This will be our first
+location in Singapore, and we will add two other locations later this year.
 • 10 percent off for new Orange Light Gym members who sign up during
 our Orchard Road grand opening event from 4 April until 8 April
 • Singapore bodybuilding legend Ronny Cho appearing on 5 April
@@ -1832,17 +1755,12 @@ Orange Light Gym Marina South
 2 October
 Max Halle
 183 Reviews
-I have been a regular Orange Light Gym member for ten years and
-generally like their service.I live in Dubai but travel to Singapore for work
-regularly, so it's great to belong to a gym with locations in both countries!
-The Marina South gym in Singapore is very clean and well designed,
-but there are two areas that need improvement. There are not enough
-machines, especially compared to the much larger Orchard Road location.
-Also, I have visited the gym about ten times and on nearly half of those
-occasions, the pool was not available for use.I will still use this gym
-because of the global membership, but I hope they address the cause of
-the pool closures.
-168.V . . Zll-Lzszsi.
+I have been a regular Orange Light Gym member for ten years and generally like their service.I live in Dubai but travel
+to Singapore for work regularly, so it's great to belong to a gym with locations in both countries! The Marina South gym
+in Singapore is very clean and well designed, but there are two areas that need improvement. There are not enough
+machines, especially compared to the much larger Orchard Road location. Also, I have visited the gym about ten times and
+on nearly half of those occasions, the pool was not available for use.I will still use this gym because of the global
+membership, but I hope they address the cause of the pool closures. 168.V . . Zll-Lzszsi.
 
 *** E-mail ***
 To: Sam Adawi
@@ -1850,11 +1768,9 @@ From: Ani Wayanti
 Date: 14 October
 Subject: Stokner Service
 
-Mr. Adawi,
-I know we have a one-year contract with Stokner Service, but I am very concerned. The
-problems that we have had at the Orange Light Gyms in Singapore are due to improper
-maintenance. Quite simply, I don’t think the workers that Stokner employs are trained well
-enough to do their jobs. Can we meet to discuss this? The sooner we resolve this issue,
+Mr. Adawi, I know we have a one-year contract with Stokner Service, but I am very concerned. The problems that we have
+had at the Orange Light Gyms in Singapore are due to improper maintenance. Quite simply, I don’t think the workers that
+Stokner employs are trained well enough to do their jobs. Can we meet to discuss this? The sooner we resolve this issue,
 the better.
 Ms. Wayanti
 Regional Manager
@@ -1885,4 +1801,5 @@ un
 (B) He received a 10 percent discount.
 (C) He never used it to enter the Dubai location.
 (D) He started it before locations opened in Singapore.
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
