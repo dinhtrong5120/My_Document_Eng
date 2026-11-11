@@ -179,27 +179,27 @@ We ------- for any inconvenience this might cause. --■ -------.
 133. 134.
 Denville Property Management Partners
 
+
+
+
+To continue providing the highest level of (132) ------- this time, the
+
 131. (A) serve
 (B) served
 (C) server
 (D) service
-
 132. (A) Along
 (B) During
 (C) Without
 (D) Between
-
 133. (A) apologize
 (B) organize
 (C) realize
 (D) recognize
-
 134. (A) If you would like to join our property management team, call us today.
 (B) Thank you for your patience while the main lobby is being painted.
 (C) Please do not attempt to access the north lobby on these days.
 (D) Questions or comments may be directed to the Management Office.
-To continue providing the highest level of (132) ------- this time, the
-
 Questions 135-138 refer to the following customer review.
 
 I recently received a last-minute invitation to a formal dinner. I bought a suit and needed it tailored as (135) -------
@@ -209,30 +209,30 @@ ready in three days, but he had it done in two! (137) ------- Antonio has run hi
 experience really shows. He is a (138) ------- tailor. I highly recommend him.
 Jim Kestren, Auckland
 
-135. (A) quickly
-(B) quicken
-(C) quickest
-(D) quickness
 
-136. (A) as far as
-(B) even though
-(C) such as
-(D) whether
 
-137. (A) Of course, the shop is busiest on Saturdays.
-(B) The suit fits me perfectly too.
-(C) I made another purchase.
-(D) He used to sell shirts.
 24
 Auckland. When I met Antonio, he gave me his full attention
 136.
 his shop was busy. He took
 
+
+135. (A) quickly
+(B) quicken
+(C) quickest
+(D) quickness
+136. (A) as far as
+(B) even though
+(C) such as
+(D) whether
+137. (A) Of course, the shop is busiest on Saturdays.
+(B) The suit fits me perfectly too.
+(C) I made another purchase.
+(D) He used to sell shirts.
 138. (A) former
 (B) temporary
 (C) superb
 (D) best
-
 Questions 139-142 refer to the following letter.
 
 Dear Director Yoshida,
@@ -393,6 +393,12 @@ slot on the last day of the conference, when attendance should be at its peak. P
 acceptance and to let me know more about your audiovisual requirements. We can provide overhead projection for still
 images if you will be using them again.
 Very best regards, Alex Chen, Conference Planning Mutamark Headquarters, Melbourne
+(4 Feb.)—Ottawa-based Saenger, Inc., has been selected by the city of Sudbury to build a monorail system that will
+connect the city’s commercial district to the airport. — [1] —. Funding for the system is drawn from a combination of
+public agencies and private investors. — [2] —. Ticket sales for the monorail will also provide a new source of revenue
+for the city. — [3] —. Construction is slated to begin in early June and is expected to be completed within four years.
+— [4] —.
+
 153. What is indicated about Ms. Atiyeh’s previous appearance at Mutamark?
 (A) It was very well attended.
 (B) It was moved to a larger venue.
@@ -409,12 +415,6 @@ Very best regards, Alex Chen, Conference Planning Mutamark Headquarters, Melbour
 (B) 50
 (C) 120
 (D) 270Monorail Coming to Sudbury
-(4 Feb.)—Ottawa-based Saenger, Inc., has been selected by the city of Sudbury to build a monorail system that will
-connect the city’s commercial district to the airport. — [1] —. Funding for the system is drawn from a combination of
-public agencies and private investors. — [2] —. Ticket sales for the monorail will also provide a new source of revenue
-for the city. — [3] —. Construction is slated to begin in early June and is expected to be completed within four years.
-— [4] —.
-
 Questions 156-158 refer to the following article.
 
 156. What kind of business most likely is Saenger, Inc.?
@@ -866,15 +866,15 @@ Unit 2B
 Unit 2C
 Unit 2D
 Unit2E
+
+Questions 196-200 refer to the following e-mails and price list.
+
 From: Tanya Jefferson <tjeff@ key suppliers.com>
 To: | info@danestongear.com
 Subject:
 Date:
 | Request for group rental information __________________________________|
 May 29
-
-Questions 196-200 refer to the following e-mails and price list.
-
 Hello Daneston Gear Company (DGC), I am the president of an activities club. This month, our 30 members intend to take a
 day trip to Daneston to go boating on the lake. Could you please send me information regarding your rates and offerings?
 We are most interested in renting boats that seat one person. Some time ago, I rented a kayak for myself from DGC, but
@@ -1119,28 +1119,28 @@ Customer surveys indicated that the game was less (131) ------- than we anticipa
 development team will introduce several ------- to make the product more attractive. -------
 0
 
-134. (A) since
-(B) or
-(C) if
-(D) later
 
-132. (A) modification
-(B) modifies
-(C) modifying
-(D) modifications
 
-133. (A) At that point, more tests will be conducted.
-(B) The launch will be our biggest of the year.
-(C) However, the surveys are not reliable.
-(D) Team members must each sign the form.
 If the changes are successful, we hope to launch the game by next January February.
 134.
+
 
 131. (A) expensive
 (B) repetitive
 (C) appealing
 (D) surprising
-
+132. (A) modification
+(B) modifies
+(C) modifying
+(D) modifications
+133. (A) At that point, more tests will be conducted.
+(B) The launch will be our biggest of the year.
+(C) However, the surveys are not reliable.
+(D) Team members must each sign the form.
+134. (A) since
+(B) or
+(C) if
+(D) later
 Questions 135-138 refer to the following e-mail.
 
 To: Eva Linn, Lundtalk Industries From: Technical Services
@@ -1155,28 +1155,28 @@ Sincerely,
 Arthur Feldt
 Technical Service Facilitator
 
-138. (A) restore
-(B) restoring
-(C) restored
-(D) restoration
 
-136. (A) In other words
-(B) For this reason
-(C) For example
-(D) As you know
 
-137. (A) We invite you to visit one of our computer repair centers in your area.
-(B) Unfortunately, we do not have a phone number at which we can reach you.
-(C) Thank you again for being one of our priority customers.
-(D) Please submit your check for the service fee promptly.
 54
 Thank you for contacting our technical department 135"y0Ur query 136“ ’ °Ur Cah 90t
+
 
 135. (A) until
 (B) besides
 (C) into
 (D) with
-
+136. (A) In other words
+(B) For this reason
+(C) For example
+(D) As you know
+137. (A) We invite you to visit one of our computer repair centers in your area.
+(B) Unfortunately, we do not have a phone number at which we can reach you.
+(C) Thank you again for being one of our priority customers.
+(D) Please submit your check for the service fee promptly.
+138. (A) restore
+(B) restoring
+(C) restored
+(D) restoration
 Questions 139-142 refer to the following Web page.
 
 For a limited time, the Uppercut Clothing Hanger Company is selling its highest quality hangers anywhere hangers are
@@ -1351,6 +1351,16 @@ the spot. Please note that the event is open to Watford Township residents only,
 household. — [3] —. Security Too representatives will be on hand to talk about ways to protect your private information.
 Community Shredding Day is brought to you by radio station 82.9 WQYX and Security Too. — [4] —. For more information,
 visit www.watfordtownship/shreddingday.org.
+Dear Ms. Das,
+Thank you for your recent stay with us at Sandring Suites. Our top priority is to provide our guests with an exceptional
+experience. We ask that you complete a three-minute survey to rate your time with us. Please visit
+www.sandringsuites.com.au and click the survey link in the top right corner of the Web page. Use code SAN5341 to
+complete the survey. To thank you for participating, we will enter your name in our monthly raffle to win a
+complimentary two-night stay at one of our hotels.
+Regards,
+Silvia Monier
+Customer Service, Sandring Suites
+
 156. What is the purpose of the notice?
 (A) To notify residents of a due date
 (B) To promote a service
@@ -1366,16 +1376,7 @@ and drop them off.”
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]Dear Ms. Das,
-Thank you for your recent stay with us at Sandring Suites. Our top priority is to provide our guests with an exceptional
-experience. We ask that you complete a three-minute survey to rate your time with us. Please visit
-www.sandringsuites.com.au and click the survey link in the top right corner of the Web page. Use code SAN5341 to
-complete the survey. To thank you for participating, we will enter your name in our monthly raffle to win a
-complimentary two-night stay at one of our hotels.
-Regards,
-Silvia Monier
-Customer Service, Sandring Suites
-
+(D) [4]
 Questions 159-160 refer to the following e-mail.
 
 To: | Kamini Das <k.das@armail.net>
@@ -2156,13 +2157,13 @@ members of the team before our welcome dinner.
 Jun Kambayashi [10:16 A.M.] Sounds good. Since flight schedules can be unpredictable, I’ll keep you posted as I arrive
 at the airport.
 Rachel Newman [10:17 A.M.] Perfect. See you later.
+Questions 147-148 refer to the following text-message chain.
 148. At 10:16 A.M., what does Mr. Kambayash mean when he writes, “Sounds good”?
 (A) He is pleased with the dinner arrangements.
 (B) He likes the idea of stopping by the office before dinner.
 (C) He appreciates Mr. Tanaka’s professional reputation.
 (D) He is glad that team members have completed their work.
 
-Questions 147-148 refer to the following text-message chain.
 
 147. Who most likely is Mr. Tanaka?
 (A) A new laboratory owner
@@ -2284,6 +2285,17 @@ store managers consistently gave the robots high marks. Although the robots have
 for several years, this will be their first time working in stores and interacting with customers. All Tearson stores
 should have the robots by the beginning of December.
 For more information, visit Tearson Corporation at www.tearsoncorporation.ca.
+92Dear Ms. Cervantes: I am sorry to report that next month’s issue of Practical Gardening will be our last. After 62
+years of monthly issues, we at Morphos Publishing have decided that Practical Gardening will be among the periodicals
+that we must discontinue. We plan to redirect the resources gained through cost-cutting toward growing our book
+publishing and instructional video production businesses.
+We are grateful for your support as a longtime subscriber to Practical Gardening. For the remainder of your subscription
+term, we hope you will allow us to instead send you Flora Discovery, our popular publication about wild plants. However,
+if you would rather have the balance of your subscription account refunded to you, please contact us at (822) 555-0127.
+Sincerely,
+Helen Dietrich
+Subscription Manager, Morphos Publishing
+
 158. What is the topic of the press release?
 (A) The promotion of a company executive
 (B) The use of technology in stores
@@ -2299,17 +2311,6 @@ For more information, visit Tearson Corporation at www.tearsoncorporation.ca.
 (B) Tearson stores will be renovated in December.
 (C) A warehouse earned high marks for safety features.
 (D) Managers will be hired in several stores.
-92Dear Ms. Cervantes: I am sorry to report that next month’s issue of Practical Gardening will be our last. After 62
-years of monthly issues, we at Morphos Publishing have decided that Practical Gardening will be among the periodicals
-that we must discontinue. We plan to redirect the resources gained through cost-cutting toward growing our book
-publishing and instructional video production businesses.
-We are grateful for your support as a longtime subscriber to Practical Gardening. For the remainder of your subscription
-term, we hope you will allow us to instead send you Flora Discovery, our popular publication about wild plants. However,
-if you would rather have the balance of your subscription account refunded to you, please contact us at (822) 555-0127.
-Sincerely,
-Helen Dietrich
-Subscription Manager, Morphos Publishing
-
 Questions 161-163 refer to the following e-mail.
 
 From:
@@ -2660,6 +2661,12 @@ Thomasina
 □
 104HARRISON CITY AIRPORT-TERMINAL C
 DEPARTURES
+Airline Flight Gate Time Destination Status
+Brightway BR417 11 1:25 Detroit ON TIME
+Planet Z PL700 3 2:06 Omaha CANCELED
+Paik PA069 24 3:00 Cleveland ON TIME
+Windrover WI645 6 3:30 Chicago DELAYED
+
 191. Why was it necessary to change the location of a parking lot?
 (A) To reduce construction costs
 (B) To protect the environment
@@ -2685,12 +2692,6 @@ DEPARTURES
 (B) She met with Mr. Benetti.
 (C) Her flight departed late.
 (D) Her luggage was lost.
-Airline Flight Gate Time Destination Status
-Brightway BR417 11 1:25 Detroit ON TIME
-Planet Z PL700 3 2:06 Omaha CANCELED
-Paik PA069 24 3:00 Cleveland ON TIME
-Windrover WI645 6 3:30 Chicago DELAYED
-
 Questions 196-200 refer to the following brochure, form, and e-mail.
 
 Exteriors
@@ -3254,6 +3255,19 @@ a seamless transition for our clients. What a great accomplishment! — [3] —.
 will be treated to a breakfast served with coffee, pastries, and fruit. On Wednesday, we will have a potluck lunch in
 the afternoon. On Thursday, we will host a team dinner at Mo’s Bistro after work. On Friday, there will be contests
 after lunch where you can win prizes. — [4] —. I am excited about this week and hope you enjoy it.
+The Chesterton Public Library will host its annual book sale this weekend on the library’s second floor. The
+hours are Saturday, November 16, 9:00 A.M. to 5:00 P.M., and Sunday, November 17, 12:00 noon to 5:00 P.M. A special
+preview sale for the Friends of Chesterton Public Library (FCPL), the library’s volunteer support group, will be held on
+Friday, November 15, from 4:00 P.M. to 8:00 P.M.
+The sale will include books that the library no longer lends, as well as books donated by the public. Proceeds will be
+used to develop a children’s reading room.
+We welcome donations of books for all ages, in all genres, in both paperback and hardcover. Please, note, however, that
+books that are torn or otherwise defaced will be rejected. Sorry, no magazines or journals, please. Donations for this
+event will be accepted through Friday, November 8, and can be dropped off at the front desk during the following times:
+Monday to Thursday: 9:00 A.M. to 11:00 A.M.
+Wednesday: 1:00 P.M. to 8:00 P.M.
+Friday: 9:00 A.M. to 3:00 P.M.
+
 164. Why did Mr. Davis write the memo?
 (A) To ask employees to attend a training session
 (B) To request that employees work overtime
@@ -3274,18 +3288,13 @@ appreciation, management is providing some opportunities to have fun this week.�
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]The Chesterton Public Library will host its annual book sale this weekend on the library’s second floor. The
-hours are Saturday, November 16, 9:00 A.M. to 5:00 P.M., and Sunday, November 17, 12:00 noon to 5:00 P.M. A special
-preview sale for the Friends of Chesterton Public Library (FCPL), the library’s volunteer support group, will be held on
-Friday, November 15, from 4:00 P.M. to 8:00 P.M.
-The sale will include books that the library no longer lends, as well as books donated by the public. Proceeds will be
-used to develop a children’s reading room.
-We welcome donations of books for all ages, in all genres, in both paperback and hardcover. Please, note, however, that
-books that are torn or otherwise defaced will be rejected. Sorry, no magazines or journals, please. Donations for this
-event will be accepted through Friday, November 8, and can be dropped off at the front desk during the following times:
-Monday to Thursday: 9:00 A.M. to 11:00 A.M.
-Wednesday: 1:00 P.M. to 8:00 P.M.
-Friday: 9:00 A.M. to 3:00 P.M.
+(D) [4]
+Questions 168-171 refer to the following notice.
+
+Friends of the Chesterton Public
+Library Book Sale
+Thank you for your support!
+
 168. Who can attend the sale on Friday?
 (A) Paid staff
 (B) Volunteers
@@ -3306,13 +3315,6 @@ Friday: 9:00 A.M. to 3:00 P.M.
 (B) On Wednesday
 (C) On Thursday
 (D) On Friday
-
-Questions 168-171 refer to the following notice.
-
-Friends of the Chesterton Public
-Library Book Sale
-Thank you for your support!
-
 Questions 172-175 refer to the following chat discussion.
 
 CHAT X
@@ -3859,20 +3861,8 @@ Questions 131-134 refer to the following article.
 
 COPENHAGEN (25 May)—Odense Media announced today that initial sales of the latest version
 
-134. (A) lighting
-(B) noise
-(C) temperature
-(D) wind
 
-132. (A) impress
-(B) impressing
-(C) impressive
-(D) impressed
 
-133. (A) Customers must consider what the tablet will be used for.
-(B) The Virtusonic will be available in other colors next month.
-(C) Check stores for the best deals on the new device.
-(D) The protective shell ensures the durability of the device.
 of its tablet, Virtusonic, have
 131.
 the company’s expectations. Company spokesperson Kerstin Vestergaard attributes the ------- 132.sales to a number of
@@ -3883,11 +3873,23 @@ less-than-ideal
 134.
 conditions. Vestergaard believes that these characteristics make the Virtusonic a must-have for consumers.
 
+
 131. (A) based
 (B) surpassed
 (C) invested
 (D) progressed
-
+132. (A) impress
+(B) impressing
+(C) impressive
+(D) impressed
+133. (A) Customers must consider what the tablet will be used for.
+(B) The Virtusonic will be available in other colors next month.
+(C) Check stores for the best deals on the new device.
+(D) The protective shell ensures the durability of the device.
+134. (A) lighting
+(B) noise
+(C) temperature
+(D) wind
 Questions 135-138 refer to the following memo.
 
 To: All employees
@@ -3900,20 +3902,8 @@ site. These include a new scheduler and a
 more user-friendly search tool.
 Your patience is greatly appreciated. Please direct any questions to me.
 
-135. (A) is
-(B) was
-(C) will be
-(D) had been
 
-136. (A) During
-(B) Despite
-(C) Following
-(D) Prior to
 
-137. (A) The work will be done during business hours.
-(B) A team of seven programmers will be hard at work.
-(C) All Web site operations will resume on Sunday morning.
-(D) Feel free to check your e-mail as needed.
 144
 content of our company Web site. The server
 135.
@@ -3921,11 +3911,23 @@ down for approximately eight hours from 11 P.M. on Saturday, June 6, to 7 A.M. o
 time, access to the Web site will be restricted, and e-mail delivery will be paused. . Once the server is back up,
 please take some time to explore the
 
+
+135. (A) is
+(B) was
+(C) will be
+(D) had been
+136. (A) During
+(B) Despite
+(C) Following
+(D) Prior to
+137. (A) The work will be done during business hours.
+(B) A team of seven programmers will be hard at work.
+(C) All Web site operations will resume on Sunday morning.
+(D) Feel free to check your e-mail as needed.
 138. (A) safety
 (B) updated
 (C) portable
 (D) temporary
-
 Questions 139-142 refer to the following article.
 
 Small Business Costs: An Overview for Beginners
@@ -3997,16 +3999,7 @@ PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
 and mark the letter (A), (B), (C), or (D) on your answer sheet.
-147. What is the purpose of the advertisement?
-(A) To promote a store opening
-(B) To attract new customers
-(C) To announce a new menu
-(D) To report a Web site upgrade
-148. What is available through the month of June?
-(A) A diet analysis
-(B) A sample recipe
-(C) A free delivery
-(D) A magazine subscription
+Questions 147-148 refer to the following online advertisement.
 ◄ ►
 http://www.yummygoodfoods.com v
 Yummy QooY ToocCs
@@ -4017,8 +4010,17 @@ Then consider our healthy, nutritional meals shipped right to your door! Yummy G
 offer. We will send your first week of delicious meals from our Healthy Meal menu with complimentary shipping! Go to
 www.yummygoodfoods.com and enter code: BetterHealth4Me. Offer valid through June with your first monthly purchase.
 
-Questions 147-148 refer to the following online advertisement.
 
+147. What is the purpose of the advertisement?
+(A) To promote a store opening
+(B) To attract new customers
+(C) To announce a new menu
+(D) To report a Web site upgrade
+148. What is available through the month of June?
+(A) A diet analysis
+(B) A sample recipe
+(C) A free delivery
+(D) A magazine subscription
 Questions 149-150 refer to the following e-mail.
 
 To all Thompson Towers residents: The 25th annual Georgetown Marathon will be held next Saturday. This year, for the
@@ -4296,6 +4298,20 @@ Lynda McCann (1:23 P.M.)
 Sounds good! Bernadette?
 Bernadette Ecco (1:23 P.M.)
 Perfect! I’ll reserve the small conference room for us.
+TEST 5Dear Mr. Dimmick, Thank you for your recent call. We are always pleased to hear from one of our many local store
+managers. I think your idea to reinstate the Greer’s Coffee Club is excellent, and I am also pleased to know your
+customers have been asking about the club punch cards. I agree that this is a good time to bring back the program, as we
+are working on rebranding the company. I have drawn up your proposal and will forward it to Ms. So-Ra Oh, vice president
+of marketing, tomorrow. Before I do that, can you please look it over and let me know if I have missed any details?
+Please send me your feedback by the end of the day.
+Thank you,
+Fawzia Gurmani
+Regional Director
+Greer’s, the place for coffee, conversation, and snacks, is now even better! We have brought back the Greer’s Coffee
+Club, but with an update: it is now even easier to use! Simply download our new mobile app and register. Use the app to
+scan your receipt every time you visit any Greer’s Coffee location, and you will earn points. Each time you accrue 100
+points, you can redeem the points for discounts on coffee, food, and other items.
+
 172. In what department do the writers most likely work?
 (A) Sales
 (B) Marketing
@@ -4316,20 +4332,6 @@ Perfect! I’ll reserve the small conference room for us.
 (B) Ms. Ecco’s schedule is very busy this month.
 (C) Mr. Miller is unavailable on Wednesday.
 (D) A sales team will be using the conference room on Wednesday.
-TEST 5Dear Mr. Dimmick, Thank you for your recent call. We are always pleased to hear from one of our many local store
-managers. I think your idea to reinstate the Greer’s Coffee Club is excellent, and I am also pleased to know your
-customers have been asking about the club punch cards. I agree that this is a good time to bring back the program, as we
-are working on rebranding the company. I have drawn up your proposal and will forward it to Ms. So-Ra Oh, vice president
-of marketing, tomorrow. Before I do that, can you please look it over and let me know if I have missed any details?
-Please send me your feedback by the end of the day.
-Thank you,
-Fawzia Gurmani
-Regional Director
-Greer’s, the place for coffee, conversation, and snacks, is now even better! We have brought back the Greer’s Coffee
-Club, but with an update: it is now even easier to use! Simply download our new mobile app and register. Use the app to
-scan your receipt every time you visit any Greer’s Coffee location, and you will earn points. Each time you accrue 100
-points, you can redeem the points for discounts on coffee, food, and other items.
-
 Questions 176-180 refer to the following e-mail and Web page.
 
 To: | Brody Dimmick <bdimmick@greerscoffee.com.au>
@@ -4856,29 +4858,29 @@ with 8,400 added jobs. Professional and business services gained jobs as well. H
 employees hired the most workers. Large businesses of 500 or more employees hired 12,000 workers. “The job market
 remains robust, and we (142) ------- it to continue,” said economist Keisha Hou.
 
-139. (A) because
-(B) whereas
-(C) according to
-(D) instead of
 
-140. (A) last
-(B) second
-(C) primary
-(D) best
 
-141. (A) Utilities stocks rose about 5 percent on average.
-(B) However, a new car manufacturing plant will open next month.
-(C) The only sector with zero growth was agriculture.
-(D) College enrollment increased by only 4 percent.
 and education each saw strong gains with 4,200 jobs.
 141.
 . By company size, medium-sized
 
+
+139. (A) because
+(B) whereas
+(C) according to
+(D) instead of
+140. (A) last
+(B) second
+(C) primary
+(D) best
+141. (A) Utilities stocks rose about 5 percent on average.
+(B) However, a new car manufacturing plant will open next month.
+(C) The only sector with zero growth was agriculture.
+(D) College enrollment increased by only 4 percent.
 142. (A) expect
 (B) expecting
 (C) expected
 (D) expectant
-
 Questions 143-146 refer to the following notice.
 
 Loftier Mobile Banking
@@ -4999,6 +5001,10 @@ Kara Murato (12:15 P.M.)
 Sounds good. Let me know when you have an update on your arrival time.
 Eric Ozawa (12:16 P.M.)
 Sure. Thanks.
+180
+Eric Ozawa (12:06 P.M.)
+Hi Kara. I wanted to let you know that my train is going to be late.
+
 153. Why does Mr. Ozawa contact Ms. Murato?
 (A) To introduce her to a new client
 (B) To inform her of a delay
@@ -5009,10 +5015,6 @@ Sure. Thanks.
 (B) She will attend a meeting by phone.
 (C) She will drive Mr. Ozawa to the station.
 (D) She will reschedule a consultation.
-180
-Eric Ozawa (12:06 P.M.)
-Hi Kara. I wanted to let you know that my train is going to be late.
-
 Questions 155-157 refer to the following e-mail.
 
 =| -........................................................ * E-mail* M-11=
@@ -5712,29 +5714,29 @@ theater performances. This extra incentive is designed to help make this our gre
 program, contact the Human Resources Department.
 To our continued success, Walter C. Handy, CEO
 
-131. (A) to earn
-(B) earning
-(C) earner
-(D) having earned
 More
 will be provided in the next few days.
 134. ’ if you have any questions about this
 
-133. (A) supplies
-(B) details
-(C) products
-(D) receipts
 
+
+
+131. (A) to earn
+(B) earning
+(C) earner
+(D) having earned
 132. (A) The fiscal year ends in October.
 (B) I am confident that we can achieve this goal.
 (C) Attendance at the event is mandatory.
 (D) TFF is looking to renovate its offices next year.
-
+133. (A) supplies
+(B) details
+(C) products
+(D) receipts
 134. (A) Similarly
 (B) Therefore
 (C) Above all
 (D) In the meantime
-
 Questions 135-138 refer to the following information.
 
 Accountarium: The quarterly magazine for accountants
@@ -5783,29 +5785,29 @@ that VOC
 shopping for office supplies. Then he used candid quotes from the people who participated in his smiling, “my customer
 base has expanded like never before.”
 
-142. (A) He has been in business for eleven years.
-(B) He also used them in direct e-mail campaigns.
-(C) He also owns a local supermarket.
-(D) He plans to move to a smaller building.
 The representative I spoke with convinced me to give market research to create advertisements for his Web site.
 142.
 . “Thanks to VOC,” he says,
+
+
+
 
 139. (A) production
 (B) capacity
 (C) sales
 (D) wages
-
 140. (A) anyone
 (B) it
 (C) mine
 (D) those
-
 141. (A) exactly
 (B) exact
 (C) exacting
 (D) exactness
-
+142. (A) He has been in business for eleven years.
+(B) He also used them in direct e-mail campaigns.
+(C) He also owns a local supermarket.
+(D) He plans to move to a smaller building.
 Questions 143-146 refer to the following notice.
 
 To help reduce traffic congestion and make parking easier, Newgrange Township will provide free June 5, to Sunday, June
@@ -5816,23 +5818,23 @@ fairgrounds on the half hour, from 8:30 A.M. to 7:30 P.M. Please note that child
 accompanied by an adult, The Newgrange County Fair Committee thanks our generous sponsors for providing buses and (143)
 ------- this year. We hope you will join us at the Newgrange County Fair!
 
+
+
+206
+bus rides to and from this year’s Newgrange County Fair. will be available from Friday,
+
 143. (A) Refreshments
 (B) Information
 (C) Transportation
 (D) Entertainment
-
 144. (A) will leave
 (B) have left
 (C) leaving
 (D) left
-
 145. (A) Thank you for coming to this year’s auto show.
 (B) There will be an increase in the cost of the service.
 (C) We hope you enjoyed your stay at the hotel.
 (D) No food or drinks are permitted on the buses.
-206
-bus rides to and from this year’s Newgrange County Fair. will be available from Friday,
-
 146. (A) driven
 (B) drivers
 (C) drivable
@@ -6043,7 +6045,9 @@ visit our Web site.”
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]David Tham [8:04 A.M.] Hello, Kelly and Jonathan. Have we confirmed who will be arriving from Hong Kong next
+(D) [4]
+Questions 164-167 refer to the following online chat discussion.
+David Tham [8:04 A.M.] Hello, Kelly and Jonathan. Have we confirmed who will be arriving from Hong Kong next
 week?
 Kelly Cromwell [8:05 A.M.] The Hong Kong office is sending Sara Wang and Neha Agarwal. Others can call in if needed.
 David Tham [8:07 A.M.] Where will Sara and Neha be working when they arrive?
@@ -6057,7 +6061,6 @@ Jonathan Li [8:14 A.M.] The packaging designers have been working closely with M
 Kelly Cromwell [8:17 A.M.] Got it. I'll take care of it. I'll send a final schedule to you before lunch. Jonathan,
 please update the list of call-in participants' names and numbers and send it to all of us.
 
-Questions 164-167 refer to the following online chat discussion.
 
 164. Who will be visiting from the Hong Kong office?
 166. Who most likely is Ms. Zhang?
@@ -6729,10 +6732,6 @@ person.
 (C) Instead, we will extend the meeting by one hour.
 (D) You will soon be notified of the new law.
 
-146. (A) On the contrary
-(B) For this reason
-(C) Soon after
-(D) For example
 
 Questions 143-146 refer to the following e-mail.
 
@@ -6750,16 +6749,20 @@ saved for our management team meeting in early February.
 Sincerely,
 Joanna Markian
 
+
+
 143. (A) selected
 (B) upcoming
 (C) occasional
 (D) assorted
-
 145. (A) Each other
 (B) Yours
 (C) Anyone
 (D) Whoever
-
+146. (A) On the contrary
+(B) For this reason
+(C) Soon after
+(D) For example
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -7053,6 +7056,18 @@ I hope to have the opportunity to work with you.
 Sincerely,
 Isaac Bolton, Director of Marketing Foxtail Airlines
 Enclosures
+TEST 8Dear Professor Callander, I heard that you and Professor Sandene are reading at the Spotted Cat in a few weeks.
+How exciting! I am hoping to attend both readings and am looking forward to seeing you both again. Since graduating from
+Elwyn University last year, I’ve been working for the Weekly Courier as an arts and culture columnist. Mostly, I write
+reviews on art shows, concerts, and other cultural events around the city. I also write profiles and book reviews. I
+would like to ask whether I may feature you and your book in my next column. The column will be published the day before
+your reading. I was fascinated by your book, and it would be my pleasure to review it in the Weekly Courier. Are you
+available for a phone call tomorrow? Of course, I would prefer to interview you in person, but I’m out of town on
+assignment until next week. Please let me know if you are interested.
+Sincerely,
+Jo Ann Rodcliff
+248
+
 172. What is the purpose of the letter?
 (A) To introduce a product
 (B) To make a reservation
@@ -7074,18 +7089,6 @@ numerous positive reviews that say the same.”
 (B) [2]
 (C) [3]
 (D) [4]
-TEST 8Dear Professor Callander, I heard that you and Professor Sandene are reading at the Spotted Cat in a few weeks.
-How exciting! I am hoping to attend both readings and am looking forward to seeing you both again. Since graduating from
-Elwyn University last year, I’ve been working for the Weekly Courier as an arts and culture columnist. Mostly, I write
-reviews on art shows, concerts, and other cultural events around the city. I also write profiles and book reviews. I
-would like to ask whether I may feature you and your book in my next column. The column will be published the day before
-your reading. I was fascinated by your book, and it would be my pleasure to review it in the Weekly Courier. Are you
-available for a phone call tomorrow? Of course, I would prefer to interview you in person, but I’m out of town on
-assignment until next week. Please let me know if you are interested.
-Sincerely,
-Jo Ann Rodcliff
-248
-
 Questions 176-180 refer to the following schedule and e-mail.
 
 Monthly Reading Series at the Spotted Cat
@@ -7560,7 +7563,8 @@ he will lead a
 (B) As a result
 (C) As mentioned
 (D) In the meantime
-134. Questions 135-138 refer to the following e-mail.
+134.
+Questions 135-138 refer to the following e-mail.
 
 To: All Sales Associates
 From: Dean Verdoorn
@@ -7652,27 +7656,28 @@ Alain Mareau
 Vice President, Product Development
 266
 
+
+
+
+As one of Australia’s top electronics retailers, we always to maintain our standing as an In late November, all store
+managers will be sent ------- 145.instructions on how to collect items and
+
 143. (A) seek
 (B) imply
 (C) predict
 (D) remember
-
-145. (A) detail
-(B) details
-(C) detailed
-(D) detailing
-
 144. (A) Electronics recycling is helpful for the environment.
 (B) Thus we are expanding this program to all our locations later this year.
 (C) Several customers had unfortunately failed to retain their receipts.
 (D) Businesses across the country already recycle many materials.
-
+145. (A) detail
+(B) details
+(C) detailed
+(D) detailing
 146. (A) Instead
 (B) Additionally
 (C) However
 (D) For example
-As one of Australia’s top electronics retailers, we always to maintain our standing as an In late November, all store
-managers will be sent ------- 145.instructions on how to collect items and
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -7716,6 +7721,7 @@ the purchase order number, and where you made your purchase.
 (B) The store location where the product was bought
 (C) The credit card number used to make the purchase
 (D) The e-mail address of the customer
+Questions 151-152 refer to the following text-message chain.
 268Keith Odom (10:15 A.M.) We’re almost finished trimming the bushes and trees around the lobby entrance. We’ll trim
 everything in the back garden after lunch. While we’re in the front, though, we’re going to weed the flower beds.
 Rebecca Truesdell (10:18 A.M.)
@@ -7741,7 +7747,6 @@ new patio furniture later this afternoon, and that will be set up as soon as it 
 (C) A building inspector
 (D) A groundskeeper
 
-Questions 151-152 refer to the following text-message chain.
 
 Questions 153-154 refer to the following advertisement.
 
@@ -8569,20 +8574,8 @@ We also143. (A) decide
 (C) could decide
 (D) have decided
 
-144. (A) Similarly
-(B) However
-(C) In general
-(D) At that time
 
-146. (A) Building a strong customer base can take years.
-(B) We will be holding a grand reopening event.
-(C) You should be receiving a letter from them soon.
-(D) Many jobs in heating and airconditioning are available.
 
-145. (A)
-(B)
-(C)
-(D) our their whose his
 
 Questions 143-146 refer to the following letter.
 
@@ -8603,6 +8596,19 @@ Kondo’s Heating and Air to begin providing service to you effective on 1 June.
 you have any questions, please do not hesitate to call.
 Sincerely,
 Nathaniel and Constance Brightman
+
+144. (A) Similarly
+(B) However
+(C) In general
+(D) At that time
+145. (A)
+(B)
+(C)
+(D) our their whose his
+146. (A) Building a strong customer base can take years.
+(B) We will be holding a grand reopening event.
+(C) You should be receiving a letter from them soon.
+(D) Many jobs in heating and airconditioning are available.
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -8636,6 +8642,7 @@ Sounds good.Thank you!
 (B) He will not be able to attend an event.
 (C) He will not be able to meet a deadline.
 (D) He does not know how to build a piece of furniture.
+Questions 149-150 refer to the following notice.
 TEST 10Thank you for downloading the Spumoni mobile phone app!
 At your current basic membership level, your ability to save recipes is limited to five per day. If you would like the
 freedom to save unlimited recipes daily, automatically generate shopping lists, create weekly meal plans, and track
@@ -8654,7 +8661,6 @@ healthier meal choices. Visit our “PM Community” Web page to view real testi
 (C) To compare ingredients from similar recipes
 (D) To find out about people’s experiences
 
-Questions 149-150 refer to the following notice.
 
 Questions 151-152 refer to the following e-mail.
 
@@ -8807,24 +8813,8 @@ cs@electronicsplusexpress.com
 (B) They are listed on the company’s Web site.
 (C) They will be refunded to the customer within 30 days.
 (D) They are paid for by the company.
-TEST 10(A) To review arrangements for a client visit
-(B) To choose a location for a company celebration
-(C) To give invitations to a dinner event
-(D) To arrange a taxi for some traveling colleagues
-165. Who will go to the airport?
-(A) Ms. Wethers
-(B) Mr. Easton
-(C) Mr. Friedman
-(D) Ms. Kwon
-166. What is indicated about Mr. Kasai?
-(A) He prefers to dine at the Magnolia Grill.
-(B) He is an important customer.
-(C) He wants to get to his hotel on time.
-(D) He is confused about driving directions.
-(A) She thinks that a dinner meeting should be informal.
-(B) She believes that a hotel selection is appropriate.
-(C) She does not think that a client has a driver’s license.
-(D) She agrees that a client should be offered a ride to a hotel.
+TEST 10
+Questions 164-167 refer to the following online chat discussion.
 304
 Kelli Wethers [2:15 P.M.] Hi, Mr. Easton. I want to remind you about the dinner meeting with your client, Mr. Kasai, at
 the Magnolia Grill this evening. Mr. Kasai will be coming directly from the airport. Anna Kwon from our marketing
@@ -8840,11 +8830,28 @@ Kelli Wethers [2:40 P.M.] Good idea, Mr. Easton. A taxi for after the dinner wil
 ♦
 * ♦
 
-Questions 164-167 refer to the following online chat discussion.
+
 
 164. What is the purpose of the online chat discussion?
+(A) To review arrangements for a client visit
+(B) To choose a location for a company celebration
+(C) To give invitations to a dinner event
+(D) To arrange a taxi for some traveling colleagues
+165. Who will go to the airport?
+(A) Ms. Wethers
+(B) Mr. Easton
+(C) Mr. Friedman
+(D) Ms. Kwon
+166. What is indicated about Mr. Kasai?
+(A) He prefers to dine at the Magnolia Grill.
+(B) He is an important customer.
+(C) He wants to get to his hotel on time.
+(D) He is confused about driving directions.
 167. At 2:40 P.M., what does Ms. Wethers most likely mean when she writes, “Good idea, Mr. Easton”?
-
+(A) She thinks that a dinner meeting should be informal.
+(B) She believes that a hotel selection is appropriate.
+(C) She does not think that a client has a driver’s license.
+(D) She agrees that a client should be offered a ride to a hotel.
 Questions 168-171 refer to the following e-mail.
 
 To: staff® rindersbusiness.co.ke

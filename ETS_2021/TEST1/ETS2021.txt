@@ -282,25 +282,25 @@ our platform provider, Securities Services, for assistance. We are doing our bes
 clients have the highest possible level of security. (146) -------.
 Jennifer Prasad, CEO
 
-143. (A) However
-(B) Therefore
-(C) In addition
-(D) For example
 
-144. (A) sent
-(B) will be sent
-(C) will have sent
-(D) had been sent
 
-145. (A) Support
-(B) Absence
-(C) Failure
-(D) Approval
 26
 An e-mail (144) ------- next workday.
 145.
 to do so will result in your being locked out of your account, and you will
 
+143. (A) However
+(B) Therefore
+(C) In addition
+(D) For example
+144. (A) sent
+(B) will be sent
+(C) will have sent
+(D) had been sent
+145. (A) Support
+(B) Absence
+(C) Failure
+(D) Approval
 146. (A) I will see you at the meeting.
 (B) Write down your new log-in ID.
 (C) Let me know when this is done.
@@ -319,6 +319,12 @@ Free admission includes Children’s games, crafts, and local bands Shuttle buse
 Station Plants and seeds for sale Refreshments for purchase—hot and cold beverages, cakes, sandwiches, and more! Tours
 of Asherton Manor available for a small fee
 Parking available at the manor for $ 10 per vehicle
+For more information: 416-555-0187Looking for a caterer for your special occasion? Search no longer! Eleanor’s Catering
+can be of help for every type of social gathering—from small, intimate gatherings to large, formal events. Eleanor’s
+offers high-quality, delicious food for all occasions. Our full-service catering service includes beverages and rentals
+of tables, linens, dishes, and cutlery. Our staff will do everything to make your special event a success—we will
+deliver everything you need, set it up, and then remove it afterward.
+
 147. What is indicated about Asherton Manor?
 (A) It is available for private parties.
 (B) It is open daily from 11:00 A.M. to 5:00 P.M.
@@ -329,11 +335,13 @@ Parking available at the manor for $ 10 per vehicle
 (B) Music
 (C) Shuttle rides
 (D) On-site parking
-For more information: 416-555-0187Looking for a caterer for your special occasion? Search no longer! Eleanor’s Catering
-can be of help for every type of social gathering—from small, intimate gatherings to large, formal events. Eleanor’s
-offers high-quality, delicious food for all occasions. Our full-service catering service includes beverages and rentals
-of tables, linens, dishes, and cutlery. Our staff will do everything to make your special event a success—we will
-deliver everything you need, set it up, and then remove it afterward.
+Questions 149-150 refer to the following advertisement.
+
+(Entering
+Make Your Next Event Unforgettable
+To get a cost estimate, please complete a Catering Request Form on our Web site at www.eleanorscatering.com. Tasting of
+menu items is available upon request.
+
 149. What is the purpose of the advertisement?
 (A) To offer a discount to new clients
 (B) To announce new menu items
@@ -344,14 +352,6 @@ deliver everything you need, set it up, and then remove it afterward.
 (B) Vegetarian meals
 (C) Itemized bills
 (D) Decorations
-
-Questions 149-150 refer to the following advertisement.
-
-(Entering
-Make Your Next Event Unforgettable
-To get a cost estimate, please complete a Catering Request Form on our Web site at www.eleanorscatering.com. Tasting of
-menu items is available upon request.
-
 Questions 151-152 refer to the following e-mail.
 
 E-mail*
@@ -451,7 +451,9 @@ and honestly, and then continue working as soon as the inspector moves on.
 (A) They must prepare written reports.
 (B) They will be able to leave work early.
 (C) Their afternoon work might be interrupted.
-(D) Their workstations might be unavailable.Hello,
+(D) Their workstations might be unavailable.
+Questions 158-160 refer to the following e-mail.
+Hello,
 We are grateful that you have been a committed subscriber to our Web site. We encourage you to visit healthhome.net.uk
 again as soon as possible! You will discover a new look, as we have created a fresh, appealing, and easy-to-navigate Web
 site. Our team of Web developers, writers, and designers has worked for months to make our Web site exactly what you
@@ -482,7 +484,6 @@ Subject: Our new Web site
 (C) Viewing it on some devices was difficult.
 (D) It featured interactive nutrition quizzes.
 
-Questions 158-160 refer to the following e-mail.
 
 Questions 161-163 refer to the following article.
 
@@ -1118,31 +1119,31 @@ well suited to their
 concerns. All best,
 Wai-Lun Yeung
 
-135. (A) information
-(B) informed
-(C) informs
-(D) to inform
 
-136. (A) cautiously
-(B) patiently
-(C) largely
-(D) quietly
 
-137. (A) roles
-(B) donations
-(C) articles
-(D) locations
 
-138. (A) They were far away from our office.
-(B) That time is usually critical to our work.
-(C) The room will be theirs for six weeks.
-(D) It will be for sale in the new cafeteria.
 54
 I am writing
 135.
 you that two university students will be arriving next week and beginning their (136) ------- consist of helping the
 138. ’
 
+135. (A) information
+(B) informed
+(C) informs
+(D) to inform
+136. (A) cautiously
+(B) patiently
+(C) largely
+(D) quietly
+137. (A) roles
+(B) donations
+(C) articles
+(D) locations
+138. (A) They were far away from our office.
+(B) That time is usually critical to our work.
+(C) The room will be theirs for six weeks.
+(D) It will be for sale in the new cafeteria.
 Questions 139-142 refer to the following memo.
 
 To: All staff
@@ -1196,24 +1197,24 @@ Sincerely,
 Dafina Ndashe
 Clerk, Millview City Council
 
-143. (A) receiver
-(B) receiving
-(C) had received
-(D) should receive
 
-144. (A) The city council elections are quickly approaching.
-(B) Indisputably, Dickinson Street is one of the loveliest streets in the city.
-(C) As you know, there were some objections from the people in the neighborhood.
-(D) Many small hotels offer complimentary breakfasts to their guests.
 56
 general public helped to persuade them
 146. ’ they were pleased that the small parking area is
 
+
+143. (A) receiver
+(B) receiving
+(C) had received
+(D) should receive
+144. (A) The city council elections are quickly approaching.
+(B) Indisputably, Dickinson Street is one of the loveliest streets in the city.
+(C) As you know, there were some objections from the people in the neighborhood.
+(D) Many small hotels offer complimentary breakfasts to their guests.
 145. (A) assure
 (B) assures
 (C) assured
 (D) assurance
-
 146. (A) In addition
 (B) In contrast
 (C) Unfortunately
@@ -1297,6 +1298,10 @@ Sita Singh (8:52 A.M.)
 That's about how many are left here.
 Fabien Vahle (8:54 A.M.)
 I guess it's time to replenish the inventory.
+60
+Fabien Vahle (8:43 A.M.)
+Sita, are you still at the warehouse? I'll send out an e-mail.
+
 153. At 8:54 A.M., what does Mr. Vahle mean when he writes, ‘Til send out an e-mail”?
 (A) He will ask warehouse staff to help Ms. Singh.
 (B) He will place an order for more boxes.
@@ -1307,10 +1312,6 @@ I guess it's time to replenish the inventory.
 (B) Prepare a gift for Mr. Vahle
 (C) Organize a messy closet
 (D) Bring boxes to the second floor
-60
-Fabien Vahle (8:43 A.M.)
-Sita, are you still at the warehouse? I'll send out an e-mail.
-
 Questions 155-157 refer to the following notice.
 
 Attention All Employees
@@ -1752,31 +1753,7 @@ Armand Mkhaliphi
 Master of Science in Mechanical Engineering. Experience in aircraft design and quality control. Expert in adhesives used
 in aircraft assembly. Wayne Bryfield Doctorate in Chemical Engineering. Expert in fuel and lubricant formulation.
 Presenter on topics related to the oil and gas industries.
-193. What is indicated about Ms. Takahashi?
-(A) She runs a Web-based publication.
-(B) She works for a petroleum company.
-(C) She has used Copychaser in the past.
-(D) She needs some work done quickly.
-191. What does the Web page suggest about Copychaser?
-(A) It is a relatively new business.
-(B) It offers video content development.
-(C) It works exclusively with freelancers.
-(D) It has expanded its team of writers.
-192. What has Copychaser added recently?
-(A) Web-site hosting
-(B) Printing
-(C) Graphic design
-(D) Data storage
-194. What Copychaser service does Ms. Takahashi need?
-(A) Service 1
-(B) Service 2
-(C) Service 3
-(D) Service 4
-195. Who best fits Ms. Takahashi’s criteria?
-(A) Ms. Almeida
-(B) Dr. Ponti
-(C) Mr. Mkhaliphi
-(D) Dr. BryfieldMake sure your company’s natural features look their best. A tidy first impression is important.
+Make sure your company’s natural features look their best. A tidy first impression is important.
 Greenfell Landscaping can help you keep your company’s greenery green! We have multiple tiers of service designed
 especially for our commercial clients.
 - Eco Keeper Standard: weekly lawn mowing with detailed grass trimming by walkways and buildings
@@ -1806,6 +1783,31 @@ Date:
 Subject: [jn^uiry
 76
 
+191. What does the Web page suggest about Copychaser?
+(A) It is a relatively new business.
+(B) It offers video content development.
+(C) It works exclusively with freelancers.
+(D) It has expanded its team of writers.
+192. What has Copychaser added recently?
+(A) Web-site hosting
+(B) Printing
+(C) Graphic design
+(D) Data storage
+193. What is indicated about Ms. Takahashi?
+(A) She runs a Web-based publication.
+(B) She works for a petroleum company.
+(C) She has used Copychaser in the past.
+(D) She needs some work done quickly.
+194. What Copychaser service does Ms. Takahashi need?
+(A) Service 1
+(B) Service 2
+(C) Service 3
+(D) Service 4
+195. Who best fits Ms. Takahashi’s criteria?
+(A) Ms. Almeida
+(B) Dr. Ponti
+(C) Mr. Mkhaliphi
+(D) Dr. Bryfield
 Questions 196-200 refer to the following flyer and e-mails.Dear Ms. Mizuno,
 
 Thank you for contacting Greenfell Landscaping about this opportunity. We would like to bid on this work. Please forward
@@ -2032,28 +2034,28 @@ room, on top of the dresser. There will be no extra charge for this request. , c
 checkout is at noon. Some people wish to check in at an your scheduling needs. We look forward to having you stay with
 us.
 
-134. (A) If these days suit you, please let us know so we can reserve a shuttle for you.
-(B) For example, some people need a reservation with all meals included.
-(C) If this is your case, please give us a call 24 hours in advance of your arrival.
-(D) You can always request a wake-up call by contacting the receptionist.
 
-133. (A) Apparently
-(B) As a reminder
-(C) In an emergency
-(D) However earlier time or check out at a later time.
 134. . This will help us ensure that we can accommodate
 133.
+
+
 
 131. (A) will be confirmed
 (B) confirms
 (C) is a confirmation
 (D) confirm
-
 132. (A) which
 (B) what
 (C) these
 (D) that
-
+133. (A) Apparently
+(B) As a reminder
+(C) In an emergency
+(D) However earlier time or check out at a later time.
+134. (A) If these days suit you, please let us know so we can reserve a shuttle for you.
+(B) For example, some people need a reservation with all meals included.
+(C) If this is your case, please give us a call 24 hours in advance of your arrival.
+(D) You can always request a wake-up call by contacting the receptionist.
 Questions 135-138 refer to the following e-mail.
 
 To: claimscenter@cheapsure.com From: lgreenberg@cheapsure.com Date: November 15
@@ -2130,29 +2132,29 @@ to better support our managers as they work to improve the operations of the ind
 listening to our customers has been an integral component of our corporate strategy.
 146. ' — Max Mason, President and CEO
 
-146. (A) Mason Brothers was founded more than 40 years ago.
-(B) Rest assured that customers will remain our top priority.
-(C) We have also increased the marketing budgets for each location.
-(D) Customers will soon have more payment options.
 86
 I am confident that
 145.
 of our business plan will lead to greater customer satisfaction. For over
 
+
+
 143. (A) age
 (B) gender
 (C) income
 (D) location
-
 144. (A) were
 (B) will be
 (C) had been
 (D) will have been
-
 145. (A) implementing
 (B) an implement
 (C) when implemented
 (D) the implementation
+146. (A) Mason Brothers was founded more than 40 years ago.
+(B) Rest assured that customers will remain our top priority.
+(C) We have also increased the marketing budgets for each location.
+(D) Customers will soon have more payment options.
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -2938,27 +2940,27 @@ should already be in your new office, ------- I oo. notify me immediately so we 
 We appreciate your cooperation in helping to make this transition to our new location go as ------- 134. as possible.
 Jian Tang, Office Manager
 
+
+
+If you will be out of the office this Thursday or Friday,
+
+
 131. (A) Therefore
 (B) Thirdly
 (C) Regardless
 (D) Instead
-
 132. (A) delivered
 (B) have delivered
 (C) will be delivered
 (D) had been delivered
-
 133. (A) Enjoy dining at the nearby cafeteria.
 (B) You need to check your office mailbox.
 (C) The moving company has positive reviews.
 (D) Please begin unpacking right away.
-If you will be out of the office this Thursday or Friday,
-
 134. (A) directly
 (B) smoothly
 (C) slowly
 (D) actively
-
 Questions 135-138 refer to the following flyer.
 
 This yeai marks the twentieth anniversary of Hispanic Heritage Month. (135) -------, the food court at the Swift
@@ -3006,10 +3008,6 @@ The questionnaire is available at www.gt.org/scioramasurvey. Thanks in advance f
 Sincerely,
 The Survey Team at Globiance Technologies
 
-142. (A) They will be used for statistical purposes only.
-(B) They will determine which solution will be adopted.
-(C) They will reveal what difficulties new hires have reported.
-(D) They will be thoroughly reviewed for errors.
 among many researchers. We would like to learn about your
 140.
 with this database through a five-minute survey. As a token of
@@ -3017,21 +3015,25 @@ with this database through a five-minute survey. As a token of
 appreciation, you will be automatically entered into a drawing to win a $100 gift card from Globiance Technologies. All
 of your responses will be kept
 
+
+
+
 139. (A) giving
 (B) performing
 (C) writing
 (D) choosing
-
 140. (A) experience
 (B) experiencing
 (C) experienced
 (D) are experienced
-
 141. (A) her
 (B) your
 (C) our
 (D) their
-
+142. (A) They will be used for statistical purposes only.
+(B) They will determine which solution will be adopted.
+(C) They will reveal what difficulties new hires have reported.
+(D) They will be thoroughly reviewed for errors.
 Questions 143-146 refer to the following instructions.
 
 Armanfax Logistics
@@ -3043,25 +3045,25 @@ complete posttrip checks on your vehicle and to report a problem may result in a
 reports must be completed at the end of each day. Pretrip checks are completed by reviewing the previous driver’s
 inspection report. If it notes
 
-143. (A) regular
-(B) regulars
-(C) regularly
-(D) regulate
 
-144. (A) Continuing
-(B) Deciding
-(C) Failing
-(D) Paying
 
-145. (A) Within the next few days, notifications will be sent out.
-(B) They are required even if no defect is discovered.
-(C) It has been found on a number of occasions.
-(D) Time off may be requested a week in advance.
 116
 list any defects on special report forms.
 145. ’ any
 146. ’ you must acknowledge that necessary repairs have been performed.
 
+143. (A) regular
+(B) regulars
+(C) regularly
+(D) regulate
+144. (A) Continuing
+(B) Deciding
+(C) Failing
+(D) Paying
+145. (A) Within the next few days, notifications will be sent out.
+(B) They are required even if no defect is discovered.
+(C) It has been found on a number of occasions.
+(D) Time off may be requested a week in advance.
 146. (A) problems
 (B) arguments
 (C) increases
@@ -3070,6 +3072,7 @@ PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, emails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
 and mark the letter (A), (B), (C), or (D) on your answer sheet.
+Questions 147-148 refer to the following sign.
 HUMINI HARDWARE
 Notice to Customers
 Following the expansion of our store, and prompted by requests from customers for more products, many of the items
@@ -3089,7 +3092,6 @@ Management, Humini Hardware
 (C) To give product demonstrations
 (D) To help customers place orders
 
-Questions 147-148 refer to the following sign.
 
 Questions 149-150 refer to the following Web page information.
 
@@ -3848,30 +3850,30 @@ our list. --—
 ------- home? We hope you will choose to I JJi remain a subscriber so that we can continue to send ------- ^or the most
 P°Pular new products for your home.
 
-131. (A) even
-(B) because
-(C) during
-(D) among
 
-133. (A) invites
-(B) invited
-(C) inviting
-(D) invitation
 
-132. (A) Simply reply to this e-mail with the word “unsubscribe.”
-(B) The issue has not yet been resolved.
-(C) Please provide your order number.
-(D) Our products are made by local artisans using natural materials.
 
-134. (A) pieces
-(B) contracts
-(C) samples
-(D) coupons
 You are receiving this e-mail
 131.
 you have contacted Brell Home in the past about our But do you really want to miss out on discount offers for products
 that will help you turn your house into an
 
+131. (A) even
+(B) because
+(C) during
+(D) among
+132. (A) Simply reply to this e-mail with the word “unsubscribe.”
+(B) The issue has not yet been resolved.
+(C) Please provide your order number.
+(D) Our products are made by local artisans using natural materials.
+133. (A) invites
+(B) invited
+(C) inviting
+(D) invitation
+134. (A) pieces
+(B) contracts
+(C) samples
+(D) coupons
 Questions 135-138 refer to the following notice.
 
 Please note that the south lobby of the building will be closed from 7:00 P.M. this evening to 7:00 A.M. tomorrow
@@ -3917,31 +3919,31 @@ will be considering whom to call in to the office for (142) ------- interviews. 
 additional information about me. I very much look forward to hearing from you.
 Steven Bracchio
 
-142. (A) initial
-(B) optional
-(C) further
-(D) experienced
 
-140. (A) positioned
-(B) position
-(C) positions
-(D) positionally
 
-141. (A) My salary has risen with my increased responsibilities.
-(B) The office space is well designed.
-(C) I think my skills are a good match for the needs of your sales team.
-(D) Please use my personal e-mail address to reach me.
 Thank you for your time today.
 139.
 enjoyed meeting and interviewing with your team. It is clear to me that Fratelli Tursi is a dynamic company
 140.
 for great success.
 
+
 139. (A) closely
 (B) skillfully
 (C) quickly
 (D) thoroughly
-
+140. (A) positioned
+(B) position
+(C) positions
+(D) positionally
+141. (A) My salary has risen with my increased responsibilities.
+(B) The office space is well designed.
+(C) I think my skills are a good match for the needs of your sales team.
+(D) Please use my personal e-mail address to reach me.
+142. (A) initial
+(B) optional
+(C) further
+(D) experienced
 Questions 143-146 refer to the following letter.
 
 Dear Small-Business Owner:
@@ -3998,7 +4000,9 @@ see our grounds once our gardeners have completed their work.
 (A) It has a new owner.
 (B) It has more vacancies than usual.
 (C) It is offering a seasonal promotion.
-(D) It is a popular venue for special events.Mi-Yeon Chun [9:01 A.M.J Hi, Trudy. Do you happen to have the codes for the
+(D) It is a popular venue for special events.
+Questions 149-150 refer to the following text message chain.
+Mi-Yeon Chun [9:01 A.M.J Hi, Trudy. Do you happen to have the codes for the
 new online system?
 Trudy Acosta [9:02 A.M.]
 Do you mean the ones we need to report how many hours we have worked each week?
@@ -4020,7 +4024,6 @@ OK. Thank you!
 (C) She is confirming that Ms. Acosta is correct.
 (D) She is reporting that she has worked a full week.
 
-Questions 149-150 refer to the following text message chain.
 
 Questions 151-152 refer to the following note card.
 
@@ -4170,6 +4173,7 @@ twelve years ago, it has seen a marked improvement in employee satisfaction. —
 .
 “Our employees’ happiness is important to us,” says Alexandra Odoms, the CEO of Remmor. “We know that if we care about
 our employees, then our employees will care about the work they do for us.”
+
 164. What is the purpose of the article?
 (A) To detail the results of a study on employee morale
 (B) To describe an effective business practice
@@ -4191,11 +4195,7 @@ taking notice.”
 (B) [2]
 (C) [3]
 (D) [4]
-171. What is an applicant NOT required to submit?
-(A) Employment history
-(B) A completed application form
-(C) Recommendation letters
-(D) A description of relevant courses http://www.masterint.co.uk ](►)
+Questions 168-171 refer to the following Web page.
 HOME ABOUT FORMS INTERNSHIPS A
 Master International offers internships to university students and recent graduates who are passionate about the
 software industry and would like to gain real-world experience in coding, product development, marketing, and security.
@@ -4217,7 +4217,7 @@ International Personnel Department 34
 Crawley Square London, England SE7
 9BQ
 
-Questions 168-171 refer to the following Web page.
+
 
 168. What most likely is Master International?
 (A) An employment agency
@@ -4234,7 +4234,11 @@ Questions 168-171 refer to the following Web page.
 (B) It was created within the past year.
 (C) It offers paid positions to all participants.
 (D) It is highly competitive.
-
+171. What is an applicant NOT required to submit?
+(A) Employment history
+(B) A completed application form
+(C) Recommendation letters
+(D) A description of relevant courses http://www.masterint.co.uk ](►)
 Questions 172-175 refer to the following text-message chain.
 
 I Jaya Pillay (9:04 A.M.)

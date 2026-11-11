@@ -243,29 +243,29 @@ Sincerely,
 Brandon Takemoto
 HR Administrative Officer
 
-141. (A) too
-(B) also
-(C) as well as
-(D) additionally
 Welcome to Arolis Chemicals! Thank you for (140) ------- the full-time, permanent position of laboratory front desk and
 ask for Jack McNolan. He you to the Human Resources office. There, you will obtain your employee badge
+
+
+
+142. '
 
 139. (A) offering
 (B) accepting
 (C) discussing
 (D) advertising
-
 140. (A) accompany
 (B) did accompany
 (C) accompanies
 (D) will accompany
-
+141. (A) too
+(B) also
+(C) as well as
+(D) additionally
 142. (A) Please sign all the documents.
 (B) I will provide you with a replacement.
 (C) Construction will be completed next year.
 (D) You can download one from our Web site.
-142. '
-
 Questions 143-146 refer to the following article.
 
 (18 April)—MKZ Foods, Inc., the region’s largest exporter of pecans, expects its outgoing shipments to increase
@@ -335,22 +335,22 @@ customers so that they are aware of the new rule. If a customer wishes to make a
 the manager on duty for assistance. Thanks for your help.
 Jane Benson
 Director of Operations
-150. According to the e-mail, what will managers do?
-(A) Decide how to display new merchandise
-(B) Train staff to use the cash register
-(C) Help customers with special requests
-(D) Decide what items get price discounts
 28
 To:
 From:
 Date:
 Subject:
+
 149. What is the purpose of the e-mail?
 (A) To request a sales report
 (B) To announce a new policy
 (C) To discuss a fashion trend
 (D) To describe an upcoming sale
-
+150. According to the e-mail, what will managers do?
+(A) Decide how to display new merchandise
+(B) Train staff to use the cash register
+(C) Help customers with special requests
+(D) Decide what items get price discounts
 Questions 151-152 refer to the following Web page.
 
 https://www.carmontmedia.co.tt
@@ -361,6 +361,7 @@ and Tobagonian audiences. Carmont Media's diversity contributes to its Star team
 all levels of the organization, meet regularly to hold brainstorming sessions aimed at improving efficiency and
 productivity. Carmont Media offers opportunities for professional advancement and encourages work-life balance.
 Home Programs Services About Us Contact Us
+
 151. What is mentioned about Carmont Media’s employees?
 (A) They get experience in various departments.
 (B) They enjoy working for the organization.
@@ -371,18 +372,6 @@ Home Programs Services About Us Contact Us
 (B) Raising funds for projects
 (C) Promoting work-life balance
 (D) Finding creative solutions
-153. What does Mr. Muro want Ms. Santos to do?
-(A) Process some orders
-(B) Make a hiring decision
-(C) Reschedule a meeting
-(D) Talk to a job candidate
-154. At 9:36 A.M., what does Mr. Muro mean when he writes, “I know”?
-(A) He is also surprised by the company's growth.
-(B) He thinks salaries should be higher.
-(C) He has met Ms. Crenshaw before.
-(D) He is certain his bus will arrive in
-30 minutes.
-
 Questions 153-154 refer to the following text-message chain.
 
 Louisa Santos 9:30 A.M.
@@ -399,6 +388,17 @@ Kenji Muro 9:36 A.M.
 now! OK. I’ll see you soon.
 30
 
+153. What does Mr. Muro want Ms. Santos to do?
+(A) Process some orders
+(B) Make a hiring decision
+(C) Reschedule a meeting
+(D) Talk to a job candidate
+154. At 9:36 A.M., what does Mr. Muro mean when he writes, “I know”?
+(A) He is also surprised by the company's growth.
+(B) He thinks salaries should be higher.
+(C) He has met Ms. Crenshaw before.
+(D) He is certain his bus will arrive in
+30 minutes.
 Questions 155-157 refer to the following article from a company newsletter.
 
 Mark Chandler is Back!
@@ -744,13 +744,6 @@ Responsibilities
 • Kids' Health Same: Susan Hayashi
 • Health Checkups/Talks: Anne Spillane,
 Rami Al-Araj, Kurt Yin, Thierry Daumas
-188. What does Dr. Daumas most likely specialize in?
-(A) Skin
-(B) Ears
-(C) Eyes
-(D) Teeth
-Health Day at Hesidion Clinic
-by Shai Herzog on April 14
 Hesidion Clinic hosted a successful Health Awareness Day this past Saturday. The event was held as a way to thank the
 community for supporting the clinic over the past 15 years. It was well attended by both Hesidion Clinic patients and
 members of the general public. Attendees participated in a variety of presentations and everyone received free water
@@ -764,6 +757,7 @@ long as expected, as Ms. Opala answered a steady stream of participant questions
 in a health contest involving questions about general health and hygiene. The winners received toys and certificates
 from the game host. The day was such a success that Hesidion Clinic director, Lance Verhoeven, is already considering
 making it an annual event.
+
 186. What is Ms. Stawinski encouraged to do?
 (A) Complete a survey
 (B) Go to an event
@@ -774,6 +768,13 @@ making it an annual event.
 (B) By attending Dr. Daumas’ talk
 (C) By responding to an e-mail from Mr. Stoch
 (D) By winning a competition
+188. What does Dr. Daumas most likely specialize in?
+(A) Skin
+(B) Ears
+(C) Eyes
+(D) Teeth
+Health Day at Hesidion Clinic
+by Shai Herzog on April 14
 189. What is indicated about the presentation on food?
 (A) It was filmed.
 (B) It was postponed.
@@ -784,7 +785,6 @@ making it an annual event.
 (B) Ms. Hayashi
 (C) Ms. Spillane
 (D) Mr. Verhoeven
-
 Questions 191-195 refer to the following brochure, review, and e-mail.
 
 STUDY BUSINESS IN SINGAPORE
@@ -1182,29 +1182,29 @@ be required. Daqtex will pay all shipping costs for sending your Mini-V back to 
 Thank you,
 Inez Lofaro, Customer Service Manager Daqtex Industries
 
-143. (A) purchase
-(B) review
-(C) gift
-(D) demonstration
 Thank you for your recent
 143.
 of the Daqtex Mini-V camera. We are contacting everyone who
 
-145. (A) verification
-(B) verified
-(C) verify
-(D) verifies
 
+
+
+143. (A) purchase
+(B) review
+(C) gift
+(D) demonstration
 144. (A) We hope you will enjoy the product for many years to come.
 (B) It is covered in the troubleshooting section of the manual.
 (C) This defect will eventually interfere with the clarity of your images.
 (D) This special feature is unavailable on some older models.
-
+145. (A) verification
+(B) verified
+(C) verify
+(D) verifies
 146. (A) mine
 (B) it
 (C) theirs
 (D) these
-
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -1389,6 +1389,10 @@ DaHAvriT^^RMT^-
 OK, but I won’t be able to get there till about six.
 Jake Rivas (4:39 P.M.)
 Sounds good to me. And Davi, I just sent you the updated figures for the report.
+File Meet Now Tools Help _ □ X
+Kurt Webber (4:30 P.M.)
+Jake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?
+
 161. What are the writers discussing?
 (A) Where to hold a company banquet
 (B) What restaurant serves the best food
@@ -1409,10 +1413,6 @@ Sounds good to me. And Davi, I just sent you the updated figures for the report.
 (B) Work extra hours tomorrow
 (C) Join his coworkers for a meal
 (D) Have food delivered to the office
-File Meet Now Tools Help _ □ X
-Kurt Webber (4:30 P.M.)
-Jake and I are grabbing a bite to eat after work, around 5:30. Anyone care to join us?
-
 Questions 165-167 refer to the following letter.
 
 Multinational Voice Magazine
@@ -1989,27 +1989,27 @@ It took a while to catch on with
 132.
 customers.” But Mr. Trang was confident the food would gain in popularity, and he was correct. next year.
 
-133. (A) Originally from Hue, Mr. Trang moved to London at age five with his family.
-(B) Reservations at Trang’s Bistro must now be made a week in advance.
-(C) This situation was not expected to last so long.
-(D) The restaurant will relocate in March.
 133. Mr. Trang has just signed another five-year lease, and he is planning ------- ^e space
+
+
+
 
 131. (A) competitive
 (B) potential
 (C) challenging
 (D) rewarding
-
 132. (A) because
 (B) unless
 (C) despite
 (D) besides
-
+133. (A) Originally from Hue, Mr. Trang moved to London at age five with his family.
+(B) Reservations at Trang’s Bistro must now be made a week in advance.
+(C) This situation was not expected to last so long.
+(D) The restaurant will relocate in March.
 134. (A) renovate
 (B) being renovated
 (C) renovates
 (D) to renovate
-
 Questions 135-138 refer to the following excerpt from a manual.
 
 This manual provides guidelines for inventory control at Malanta facilities. Our advanced manufacturing procedures
@@ -2089,29 +2089,30 @@ Regards,
 Faye Mason-Jones
 Director, Irwin Neighbourhood Association
 
-143. (A) announce
-(B) admit
-(C) recall
-(D) state
 
-144. (A) entirely
-(B) often
-(C) primarily
-(D) together
 
-145. (A) promise
-(B) promises
-(C) promising
-(D) promised
 
-146. (A) You can help by disposing of all rubbish.
-(B) The park was established 75 years ago.
-(C) We hope you will be able to attend.
-(D) Fern Park attracts over 20,000 visitors a year.
 86
 ten dollars will be collected. The proceeds will
 144.
 go towards a park enhancement project. spent on an advertising campaign. This event ------- 145. to be great fun. 146. '
+
+143. (A) announce
+(B) admit
+(C) recall
+(D) state
+144. (A) entirely
+(B) often
+(C) primarily
+(D) together
+145. (A) promise
+(B) promises
+(C) promising
+(D) promised
+146. (A) You can help by disposing of all rubbish.
+(B) The park was established 75 years ago.
+(C) We hope you will be able to attend.
+(D) Fern Park attracts over 20,000 visitors a year.
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -2951,29 +2952,29 @@ IOIa
 Expect to see technicians entering and leaving the building repeatedly, carting large machine parts and tools. There
 will be some noise associated with this project, and we ask for your patience. Jorge Carreras, Facilities Director
 
-134. (A) Send us your suggestions for a new facility.
-(B) I am writing to let you know about a maintenance issue.
-(C) Rather, they were not my first choice for this contract.
-(D) The work is expected to be completed by
-2:00 P.M.
 132. ’ you should probably look for on-street parking. The contractor’s vans -- 133. — much of the driveway.
 134. ’
+
+
+
 
 131. (A) better
 (B) quicker
 (C) sooner
 (D) harder
-
 132. (A) As a result
 (B) Also
 (C) Nevertheless
 (D) However
-
 133. (A) are blocking
 (B) will block
 (C) had blocked
 (D) block
-
+134. (A) Send us your suggestions for a new facility.
+(B) I am writing to let you know about a maintenance issue.
+(C) Rather, they were not my first choice for this contract.
+(D) The work is expected to be completed by
+2:00 P.M.
 Questions 135-138 refer to the following e-mail.
 
 To: Melina Ramos Sandoval
@@ -2988,20 +2989,8 @@ preferences. If you have any questions or comments, feel free to contact us.
 Sincerely,
 The Source Work team
 
-135. (A) they record
-(B) are recording
-(C) that the record
-(D) have been recorded
 
-136. (A) us
-(B) me
-(C) you
-(D) ours
 
-137. (A) Privacy is important to us.
-(B) Finding the perfect job can be difficult.
-(C) Our jobs database is updated weekly.
-(D) Your resume has recently been reviewed.
 114
 e-mail address, work experience, and preferences ....— in our database. This information will be
 135.
@@ -3009,11 +2998,23 @@ used to identify employers who are seeking job candidates just like
 136.
 In the future, you will Thank you for (138) -------
 
+
+135. (A) they record
+(B) are recording
+(C) that the record
+(D) have been recorded
+136. (A) us
+(B) me
+(C) you
+(D) ours
+137. (A) Privacy is important to us.
+(B) Finding the perfect job can be difficult.
+(C) Our jobs database is updated weekly.
+(D) Your resume has recently been reviewed.
 138. (A) investing
 (B) attending
 (C) competing
 (D) registering
-
 Questions 139-142 refer to the following memo.
 
 From: Noora Simola, Vice President of Operations To: All Employees
@@ -3922,30 +3923,30 @@ Questions 131-134 refer to the following announcement.
 We are pleased to announce that the installation of the new manufacturing equipment in our main plant has been
 completed. The new machines work flow by allowing for flexibility in
 
-131. (A) have been improved
-(B) were improving
-(C) will improve
-(D) improved
 
-132. (A) varying
-(B) varies
-(C) vary
-(D) variation
 
-133. (A) proposal
-(B) contract
-(C) impression
-(D) upgrade
 
-134. (A) Supervisors completed a tour of the plant yesterday.
-(B) Unfortunately, the installation cost more than we had anticipated.
-(C) As you are aware, our industry is increasingly competitive.
-(D) All personnel must be trained on the new equipment by the end of the month.
 production. With six mixing tanks of sizes, we expect to be able to fill a wider range of orders, from small to very
 large. This (134) ------- is an important way to ensure that Balm I Manufacturing continues to be a leader in the
 fragrance industry. . Jim Martel, who is organizing this effort, will contact each of you soon with details.
 131.
 
+131. (A) have been improved
+(B) were improving
+(C) will improve
+(D) improved
+132. (A) varying
+(B) varies
+(C) vary
+(D) variation
+133. (A) proposal
+(B) contract
+(C) impression
+(D) upgrade
+134. (A) Supervisors completed a tour of the plant yesterday.
+(B) Unfortunately, the installation cost more than we had anticipated.
+(C) As you are aware, our industry is increasingly competitive.
+(D) All personnel must be trained on the new equipment by the end of the month.
 Questions 135-138 refer to the following Web page.
 
 www.kateweicommunications.com Marketing your business can be confusing. Newspapers and magazines are , social media
@@ -3953,20 +3954,8 @@ platforms have become even more critical marketing outlets. Kate Wei Communicati
 and the latest communication platforms. ------- — . In addition to exceptional print services, Kate Wei Communications
 has the strengthen your company’s image today!
 
-135. (A) still
-(B) nowhere
-(C) soon
-(D) evenly
 
-136. (A) As a result
-(B) To demonstrate
-(C) Otherwise
-(D) However
 
-137. (A) Marketing professionals give conflicting advice.
-(B) Traditional methods have the best impact.
-(C) We will develop a diverse plan for your business.
-(D) We have recently changed our terms of service.
 144
 ------- useful venues
 135.
@@ -3974,11 +3963,23 @@ for advertising. expertise to help you
 138.
 your online presence. Why wait? Choose our award-winning firm to
 
+
+135. (A) still
+(B) nowhere
+(C) soon
+(D) evenly
+136. (A) As a result
+(B) To demonstrate
+(C) Otherwise
+(D) However
+137. (A) Marketing professionals give conflicting advice.
+(B) Traditional methods have the best impact.
+(C) We will develop a diverse plan for your business.
+(D) We have recently changed our terms of service.
 138. (A) optimal
 (B) optimize
 (C) optimization
 (D) optimum
-
 Questions 139-142 refer to the following e-mail.
 
 To: Emily Swanton <eswanton@swantonfarmfeed.com> From: Arnold Hansen
@@ -3992,36 +3993,27 @@ Polton County Farm Fair
 This e-mail serves as a receipt for your registration confirms your participation in the completely ready by 8 P.M. on
 July 13 ' 141. . Tables will be provided by the organizer, as in past
 
+
+
+
+
+
 139. (A) whereas
 (B) rather than
 (C) in case
 (D) and also
-
 140. (A) rent
 (B) rental
 (C) rents
 (D) renting
-
 141. (A) This includes the removal of trash and packing materials.
 (B) The number of food vendors has increased in recent years.
 (C) The exact schedule will be announced later.
 (D) The Livestock Pavilion will be located next to the south exit.
-
 142. (A) discovery
 (B) survey
 (C) event
 (D) vote
-144.
-(A) Water-based cleaners have become more expensive.
-(B) The company’s Web site lists all of its major vendors.
-(C) The hotels are conveniently located in most cities.
-(D) Other factory facilities were gradually sold.
-
-146. (A) decrease
-(B) challenges
-(C) project
-(D) candidates
-
 Questions 143-146 refer to the following article.
 
 Sparkle Pro Enterprises Opens American Factory
@@ -4037,16 +4029,25 @@ Pro is confident that it will be able to train a large number of personnel quick
 ------- in meeting these needs.
 146.
 
+
+
 143. (A) produced
 (B) producing
 (C) producer
 (D) produce
-
+144.
+(A) Water-based cleaners have become more expensive.
+(B) The company’s Web site lists all of its major vendors.
+(C) The hotels are conveniently located in most cities.
+(D) Other factory facilities were gradually sold.
 145. (A) by
 (B) despite
 (C) as
 (D) except
-
+146. (A) decrease
+(B) challenges
+(C) project
+(D) candidates
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -4132,12 +4133,17 @@ Marina Tincheva 9:07 A.M.
 Thank you so much! I’ll wait at the cafe next door.
 •Illi.-
 _______________ _________________ /
+
+153. Who most likely is Mr. Machado?
+(A) A cafe waiter
+(B) A dessert chef
+(C) A wedding florist
+(D) A restaurant manager
 154. At 9:04 A.M., what does Ms. Tincheva most likely mean when she writes, “It doesn’t make sense”?
 (A) The bride should be there already.
 (B) Her coworker usually arrives early.
 (C) She received the wrong paperwork.
 (D) She does not know where her key is.
-
 Questions 155-157 refer to the following information from a brochure.
 
 Visiting Carlin County? Don't miss these points of interest!
@@ -4145,11 +4151,6 @@ Avevo Botanical Garden
 Open daily, 9 A.M-6 P.M.; $8 admission
 With stunning views of Gull Bay, the Avevo Botanical Garden is a beautiful place to examine and learn about the region's
 abundant and diverse plant life.
-153. Who most likely is Mr. Machado?
-(A) A cafe waiter
-(B) A dessert chef
-(C) A wedding florist
-(D) A restaurant manager
 Marina Tincheva 9:01 A.M.Rever Concert Hall
 Open to the public Monday to Friday, 10 A.M.-4 P.M.
 Designed by renowned architect Ang Zhao, the Rever Concert Hall has striking architecture and is well worth a visit.
@@ -4161,22 +4162,22 @@ The Maritime Museum
 Open Wednesday to Sunday, 9 A.M.-4 P.M.; no fee, but donations are welcome An impressive collection of historical
 artifacts makes the Maritime Museum a wonderful place to learn about the region's seafaring history. This museum is
 located on a retired ship on East Beach.
-156. What is indicated about Carlin County Museum of Art?
-(A) It is closed on Mondays.
-(B) It was designed by a famous architect.
-(C) It features collections from around the world.
-(D) It changes some exhibits periodically.
+
 155. What is the purpose of the information?
 (A) To provide a schedule of events
 (B) To give directions to notable landmarks
 (C) To highlight the accomplishments of local artists
 (D) To describe tourist destinations
+156. What is indicated about Carlin County Museum of Art?
+(A) It is closed on Mondays.
+(B) It was designed by a famous architect.
+(C) It features collections from around the world.
+(D) It changes some exhibits periodically.
 157. According to the information, what do the Avevo Botanical Garden and the Maritime Museum have in common?
 (A) Both charge a small admission fee.
 (B) Both are located near water.
 (C) Both display historical artifacts.
 (D) Both offer guided tours.TEST 5 151
-
 Questions 158-160 refer to the following article.
 
 Bingham Man Receives Award
@@ -4894,10 +4895,6 @@ out the online request form. ------- a description of the item needed. Also, bri
 device that is out of order, bring the matter to the attention of Mr. Rowen, head of the have related to the purchase of
 office supplies and equipment to the Purchasing Department.
 
-138. (A) He has studied all possible options in detail.
-(B) He will determine whether such action is warranted.
-(C) It has a staff of six who service our two office buildings.
-(D) It is usually maintained on a monthly basis.
 176
 company-related business. To purchase a Use the form to necessary. Note that your
 137.
@@ -4905,21 +4902,25 @@ may affect subsequent decisions. If the request entails replacing Maintenance Di
 138.
 Please direct any questions you may
 
+
+
+
 135. (A) specify
 (B) specific
 (C) specifics
 (D) specifically
-
 136. (A) view
 (B) change
 (C) provide
 (D) find
-
 137. (A) retirement
 (B) score
 (C) experience
 (D) justification
-
+138. (A) He has studied all possible options in detail.
+(B) He will determine whether such action is warranted.
+(C) It has a staff of six who service our two office buildings.
+(D) It is usually maintained on a monthly basis.
 Questions 139-142 refer to the following memo.
 
 From: Hong Kong Princess Center Administration
@@ -4993,6 +4994,7 @@ PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
 and mark the letter (A), (B), (C), or (D) on your answer sheet.
+Questions 147-148 refer to the following text-message chain.
 148. At 10:45 A.M., what does Mr. Rodriguez most likely mean when he writes, “Great”?
 (A) He is excited about the results of his work.
 (B) He is glad about his company’s new location.
@@ -5005,7 +5007,6 @@ Mr. Jaffers.
 (C) A human resources director
 (D) A real estate agent
 
-Questions 147-148 refer to the following text-message chain.
 
 Questions 149-150 refer to the following notice.
 
@@ -5778,15 +5779,7 @@ Sincerely,
 Edwin Chen, Operations Manager
 PGD Bank
 
-132. (A) except
-(B) amid
-(C) near
-(D) for
 
-133. (A) Unfortunately, services will be limited.
-(B) We thank you for trusting in PGD Bank over these years.
-(C) We apologize for any inconvenience this may cause.
-(D) Traffic on the boulevard has increased lately.
 PGD Bank strives
 131.
 the highest levels of client security and service. This applies not only to branch offices have proudly been a part of
@@ -5794,16 +5787,24 @@ the community
 132.
 a combined total of 40 years.
 
+
+
 131. (A) to provide
 (B) provided
 (C) providing
 (D) to be provided
-
+132. (A) except
+(B) amid
+(C) near
+(D) for
+133. (A) Unfortunately, services will be limited.
+(B) We thank you for trusting in PGD Bank over these years.
+(C) We apologize for any inconvenience this may cause.
+(D) Traffic on the boulevard has increased lately.
 134. (A) investments
 (B) hiring
 (C) hours
 (D) interests
-
 Questions 135-138 refer to the following e-mail.
 
 To: Samuel Archerson <sarcherson@vona.co.uk> From: James Darrers <jdarrers@sky.co.uk> Date: 10
@@ -5818,32 +5819,32 @@ I checked regarding your question about a potential start date. (135) ------- th
 Sincerely,
 James Darrers
 
-138. (A) I have four additional questions to ask you.
-(B) I would be able to begin during the first week of February.
-(C) I am confident I have the potential for this position.
-(D) Thank you for the offer of employment.
 208
 Thank you for taking the time to meet with me today. I our conversation, and I remain very last ten years, I have helped
 many companies save a
 137.
 amount of money. I am especially
 
+
+
+I hope to hear from you in
+
 135. (A) enjoy
 (B) enjoyed
 (C) enjoying
 (D) will enjoy
-
 136. (A) revisions
 (B) promotions
 (C) interviews
 (D) receptions
-
 137. (A) substance
 (B) substantiate
 (C) substantially
 (D) substantial
-I hope to hear from you in
-
+138. (A) I have four additional questions to ask you.
+(B) I would be able to begin during the first week of February.
+(C) I am confident I have the potential for this position.
+(D) Thank you for the offer of employment.
 Questions 139-142 refer to the following e-mail.
 
 To: Mason Wu <mwu@wustudios.co.nz>
@@ -6050,6 +6051,16 @@ will be replaced with new, more reliable devices. The work should be completed i
 more than $11 million.
 Boston’s subway system came together in stages over the course of several years. The foundational component of the
 system’s Green Line first opened on Tremont Street in the late 1890s. It was the first of its kind in the United States.
+I would like to draw your attention to several new procedures regarding business trip expense reports. —
+[1] —. Beginning next month, business-related dining receipts must be accompanied by a listing of each dinner attendee.
+Also, please make sure that you do not include receipts for any non-work-related items or activities with your report. —
+[2] —. Finally, note that our accounting software will now automatically calculate for you the total to be reimbursed.
+You need only to upload images of your receipts for the software to do this.
+I will be happy to respond to your questions. — [3] —. However, I will be flying to Tokyo this Friday to meet clients,
+so I will not be checking e-mail that day. — [4] —.
+Sincerely,
+Selene Hong Assistant Director, Human Resources Department Datoric Systems
+
 158. What is the purpose of the article?
 (A) To clarify where subway riders can locate information
 (B) To describe improvements at some subway stations
@@ -6064,15 +6075,11 @@ system’s Green Line first opened on Tremont Street in the late 1890s. It was t
 (A) steps
 (B) scenes
 (C) train cars
-(D) platformsI would like to draw your attention to several new procedures regarding business trip expense reports. —
-[1] —. Beginning next month, business-related dining receipts must be accompanied by a listing of each dinner attendee.
-Also, please make sure that you do not include receipts for any non-work-related items or activities with your report. —
-[2] —. Finally, note that our accounting software will now automatically calculate for you the total to be reimbursed.
-You need only to upload images of your receipts for the software to do this.
-I will be happy to respond to your questions. — [3] —. However, I will be flying to Tokyo this Friday to meet clients,
-so I will not be checking e-mail that day. — [4] —.
-Sincerely,
-Selene Hong Assistant Director, Human Resources Department Datoric Systems
+(D) platforms
+Questions 161-163 refer to the following e-mail.
+
+Dear Staff,
+
 161. What is indicated about Datoric Systems?
 (A) It has increased the spending amount allowed for business dinners.
 (B) It will adopt new procedures for filing travel expense reports.
@@ -6089,11 +6096,6 @@ steps will enable us to quickly issue your reimbursement payment.”
 (B) [2]
 (C) [3]
 (D) [4]
-
-Questions 161-163 refer to the following e-mail.
-
-Dear Staff,
-
 Questions 164-167 refer to the following article.
 
 E-Commerce Opening Doors for
@@ -6152,6 +6154,9 @@ Jill Riley (10:35 A.M.)
 Good morning, Mr. Ojeda. Our new cover design is ready. When do you think you’ll have a chance to work on it?
 Frank Ojeda (10:38 A.M.)
 Send it to me now. I’ll have a print copy ready for your approval after lunch.
+220
+<jary rarK A.IVI.J I e-mailed you the cover design for our September issue a few minutes ago. Did you receive it?
+
 168. Where do the people most likely work?
 (A) At a bookstore
 (B) At a public library
@@ -6172,9 +6177,6 @@ Send it to me now. I’ll have a print copy ready for your approval after lunch.
 (B) Produce a sample
 (C) Repair a printer
 (D) Make copies of an agreement
-220
-<jary rarK A.IVI.J I e-mailed you the cover design for our September issue a few minutes ago. Did you receive it?
-
 Questions 172-175 refer to the following letter.
 
 8 February
@@ -6745,10 +6747,6 @@ these critics with our great food and service.
 (C) The train allows locals to travel more easily.
 (D) In fact, restaurants and hotels keep opening.
 
-138. (A) Instead
-(B) Until then
-(C) At the same time
-(D) Despite that
 
 Questions 135-138 refer to the following article.
 
@@ -6763,16 +6761,20 @@ please tourists, who will benefit from lower prices. -------, the card
 138.
 should encourage retail traffic, leading to increased profits for businesses.
 
+
+
 135. (A) revisit
 (B) enjoy
 (C) depart
 (D) bypass
-
 137. (A) discounts
 (B) discounted
 (C) to discount
 (D) discounting
-
+138. (A) Instead
+(B) Until then
+(C) At the same time
+(D) Despite that
 Questions 139-142 refer to the following memo.
 
 To: All Macaw Store Managers
@@ -6946,9 +6948,6 @@ Certainly. I will bring the card to your office this afternoon for a signature.
 Alberto del Mar: (10:42 A.M.)
 Thank you, Katie.
 
-Questions 156-157 refer to the following information.
-
-I have spent most of my life in the woods of rural Colorado, where 1 have always looked to the beauty of
 154. What is indicated about Mr. Hartford?
 (A) He is unable to attend an upcoming event.
 (B) He will contact Ms. Milerre in the afternoon.
@@ -6959,6 +6958,9 @@ I have spent most of my life in the woods of rural Colorado, where 1 have always
 (B) She understands an explanation provided by Mr. del Mar.
 (C) She is currently viewing some photographs of gift baskets.
 (D) She knows that Mr. del Mar wants her to purchase a card.
+Questions 156-157 refer to the following information.
+
+I have spent most of my life in the woods of rural Colorado, where 1 have always looked to the beauty of
 244nature for inspiration. My plates, bowls, and cutting boards are hand carved from pieces of wood that were foraged
 from fallen trees that I discovered while on various hikes through the forest.
 Each object in my wooden kitchenware collection is one of a kind and has been carved to bring out the natural curves and
@@ -6967,6 +6969,7 @@ left to soak in water, as prolonged exposure to water will cause them to warp. I
 coat of mineral oil from time to time to prevent the colors from fading. For more tips on how to best protect your
 natural wood product from deterioration, visit www.hollyhollingsworth.com. Thank you for purchasing my products!
 — Holly Hollingsworth
+
 156. Where would the information most likely be found?
 (A) Inside a package with a product
 (B) Near a piece of art in a museum
@@ -6977,7 +6980,6 @@ natural wood product from deterioration, visit www.hollyhollingsworth.com. Thank
 (B) Compare the different types of wood
 (C) Read detailed product-care instructions
 (D) Learn about wood-carving techniques
-
 Questions 158-160 refer to the following form.
 
 Thank you for choosing Pernely Hotel for your recent event! Please take a moment to fill out this survey. We hope you
@@ -8602,30 +8604,30 @@ mandatory server maintenance and
 server from outside the office. this regularly scheduled maintenance, you will not have access to your e-mail, calendar,
 or
 
-132. (A) The updates will be e-mailed to all employees.
-(B) Please reply if you would like to participate.
-(C) The process will begin tomorrow evening.
-(D) A memo will be distributed indicating the start time.
 
-134. (A) regret
-(B) regretting
-(C) regrettable
-(D) regrettably
 Please be advised it is time for the IT department to updates. (132) ------- contacts. Employees should plan
 accordingly. We
 134.
 any inconvenience this may cause.
 
+
+
 131. (A)
 (B)
 (C)
 (D) suggest perform cancel revise
-
+132. (A) The updates will be e-mailed to all employees.
+(B) Please reply if you would like to participate.
+(C) The process will begin tomorrow evening.
+(D) A memo will be distributed indicating the start time.
 133. (A) During
 (B) Now
 (C) When
 (D) Finally
-
+134. (A) regret
+(B) regretting
+(C) regrettable
+(D) regrettably
 Questions 135-138 refer to the following letter.
 
 22 April

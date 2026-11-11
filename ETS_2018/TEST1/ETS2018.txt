@@ -243,11 +243,6 @@ all issues that may arise,” Cornyn said.
 (C) has developed
 (D) could have developed
 
-142. (A) argument
-(B) background
-(C) estimate
-(D) combination
-
 140. (A) economic
 (B) unforeseen
 (C) volunteer
@@ -259,6 +254,11 @@ this.
 (C) Despite city officials’ promises to grant the company a long-term agreement, they now may have to reconsider.
 (D) Council members will vote on three different proposals from the architects.
 
+142. (A) argument
+(B) background
+(C) estimate
+(D) combination
+
 Questions 143-146 refer to the following e-mail.
 
 From: Customer Care <custcare@arttodaymag.ca>
@@ -267,12 +267,14 @@ Date: November 5
 Subject: Welcome to Art Today
 Attachment: Form
 Dear Ms. Bhat:
-art exhibits, concerts, auctions, and festivals throughout Western Canada. Your first issue will arrive within the next
-few days, and then each issue will be sent at the beginning of the month. Your subscription also allows you unlimited
-(146) ------- to articles, videos, and other multimedia
-144. 145. on our Web site. All you need to do is log in using your subscriber number and password, which — the enclosed
-enrollment form.
+Thank you for subscribing to Art Today! you will be among the first to know about exciting art exhibits, concerts,
+auctions, and festivals throughout Western Canada. Your first issue will arrive within the next few days, and then each
+issue will be sent at the beginning of the month.(144) ------- . Your subscription also allows you unlimited
+(145) ------- to articles, videos, and other multimedia on our Web site. All you need to do is log in using your
+subscriber number and password, which you will find (146) ------- the enclosed enrollment form.
+
 Sincerely,
+
 Ken Suzuki
 Customer Representative
 
@@ -280,25 +282,19 @@ Customer Representative
 (B) Afterward
 (C) Then
 (D) Meanwhile
-
-145. (A) accessing
-(B) accesses
-(C) accessed
-(D) access
-
 144. (A) To place a subscription, call our service desk during business hours.
 (B) If you do not receive your copy in a week, please contact us immediately.
 (C) Artists are invited to submit descriptions of their work.
 (D) The first concert is scheduled to take place in Vancouver in early October.
-
+145. (A) accessing
+(B) accesses
+(C) accessed
+(D) access
 146. (A) for
 (B) about
 (C) on
 (D) at
-26
-Thank you for subscribing to Art Today]
-143.
-you will be among the first to know about exciting you will find
+
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -313,18 +309,6 @@ internship at Delmar and Associates, a legal firm whose client base includes wri
 in the publishing industry. Ms. Park has an exceptional record of service and will be a valuable asset to our team.
 Please join us this Thursday at 3:00 P.M. in the main conference room to welcome her to our office.
 
-Questions 149-150 refer to the following notice.
-
-Attention West Arragon Residents^
-The West Arragon Business Directory has grown so large that it takes up a sizable portion of the neighborhood
-newsletter. As a result, we will no longer be printing the directory on paper and will offer it online instead.
-The directory is not posted yet, but it will be found at www.westarragon.com in the next few weeks. When it becomes
-available, I suggest that you review your listing to make sure it is accurate. If you find that your listing is out of
-date or has a link that does not work, please let me know so that I can make the necessary changes.
-Thanks,
-Judy Lanster
-West Arragon Neighborhood Council
-555-0013
 147. Where is the notice most likely posted?
 (A) Ina law office
 (B) In a talent agency
@@ -335,6 +319,20 @@ West Arragon Neighborhood Council
 (B) Join a community service group
 (C) Attend a professional conference
 (D) Meet a new staff member
+
+Questions 149-150 refer to the following notice.
+
+Attention West Arragon Residents:
+The West Arragon Business Directory has grown so large that it takes up a sizable portion of the neighborhood
+newsletter. As a result, we will no longer be printing the directory on paper and will offer it online instead.
+The directory is not posted yet, but it will be found at www.westarragon.com in the next few weeks. When it becomes
+available, I suggest that you review your listing to make sure it is accurate. If you find that your listing is out of
+date or has a link that does not work, please let me know so that I can make the necessary changes.
+Thanks,
+Judy Lanster
+West Arragon Neighborhood Council
+555-0013
+
 149. What change will be made to the business directory?
 (A) It will have shortened listings.
 (B) It will be available only online.
@@ -345,11 +343,13 @@ West Arragon Neighborhood Council
 (B) To obtain an access code
 (C) To subscribe to a newsletter
 (D) To suggest changes in deadlines
-28
+
+Questions 151-153 refer to the following agenda.
 Workshop: Team Building
 17 April
 9:15 A.M. to 4:30 P.M.
 £40 per person
+
 9:15 A.M.: First Steps Focus on important issues that small businesses face. Identify your
 company’s long- and short-term objectives as well as any areas in need of improvement.
 10:45 A.M.: Fostering Fellowship /
@@ -357,7 +357,7 @@ Learn how to help create an atmosphere of cooperation rather than competition am
 12:15 P.M.: Lunch Break
 Participants may choose between two complimentary entrees: grilled chicken sandwich with salad greens or pasta with
 vegetables.
-1:30 P.M.: Team Activities -
+1:30 P.M.: Team Activities
 Experiment with team-building exercises for both small and large groups. Work with your fellow participants to get ideas
 that you can use with your own employees. .
 3:00 P.M.: Evaluation Techniques Learn about methods to determine whether team-building
@@ -379,7 +379,6 @@ company.
 (C) It is a one-day event.
 (D) It will focus on new software.
 
-Questions 151-153 refer to the following agenda.
 
 Questions 154-157 refer to the following article.
 
@@ -387,12 +386,26 @@ Local News
 Monday, March 31 The Cloud Theater on Gordon Street will close at the end of this month, but this important piece of
 real estate won’t be closed for long. The building has been sold to the Lakehurst Cinema Society (LCS). According to LCS
 Executive Director Kartik Malla, the group is planning to make some updates to the building before it reopens. He
-explained that the seats, screens, and sound systems will be replaced in all of the theaters. -[!]-• “However,” Mr.
-Malla added, “we’ll be keeping one of the Cloud Theater’s old projectors so we can continue to show classic films in
-their original format.”
-Up to now, the Cloud Theater has played mainly art house, independent, and foreign films. — [2] —. The former owner, Mr.
-Eugene Sattler, who has now retired, always sought to make the
-Cloud
+explained that the seats, screens, and sound systems will be replaced in all of the theaters. -[1]-.
+
+“However,” Mr.Malla added, “we’ll be keeping one of the Cloud Theater’s old projectors so we can continue to show
+classic films in their original format.”
+
+Up to now, the Cloud Theater has played mainly art house, independent, and foreign films. — [2] —. The former owner,
+Mr.Eugene Sattler, who has now retired, always sought to make the Cloud Theater a haven for artistic films. He was
+successful for many years, but ticket sales have declined in recent years and he decided it was time to sell. — [3] —.
+
+“This was a hard decision to make,” said Mr. Sattler. “I will miss working at the theater. I am happy the LCS is going
+to bring new life to the old theater.”
+
+Under its new ownership, the theater will continue to show those artistic types of movies on special occasions. It will
+also show more mainstream movies that will appeal to families and children.
+
+The society plans to reopen the theater to the public on July 1. In addition, it will continue to serve as host for the
+classic film festival that begins the first weekend in August and continues for ten days. Everything about the festival
+will remain the same except for one thing. Formerly called the Gordon Street Film Festival, it will now be known as the
+Lakehurst Cinema Society Film Festival. — [4] —.
+
 154. What is suggested about the Cloud Theater?
 (A) It will show mainly classic films.
 (B) It will soon have new equipment installed.
@@ -403,15 +416,6 @@ Cloud
 (B) Selecting a location for retirement
 (C) Deciding to sell the theater
 (D) Finding buyers for the theater
-Theater a haven for artistic films. He was successful for many years, but ticket sales have declined in recent years and
-he decided it was time to sell. — [3] —. “This was a hard decision to make,” said Mr. Sattler. “I will miss working at
-the theater. I am happy the LCS is going to bring new life to the old theater.”
-Under its new ownership, the theater will continue to show those artistic types of movies on special occasions. It will
-also show more mainstream movies that will appeal to families and children.
-The society plans to reopen the theater to the public on July 1. In addition, it will continue to serve as host for the
-classic film festival that begins the first weekend in August and continues for ten days. Everything about the festival
-will remain the same except for one thing. Formerly called the Gordon Street Film Festival, it will now be known as the
-Lakehurst Cinema Society Film Festival. — [4] —.
 156. What was renamed?
 (A) A movie theater
 (B) An executive position
@@ -432,8 +436,7 @@ As our corporate client, you
 • pay only for what you use, thus reducing hardware and software expenses
 • enjoy our streamlined, up-front, and ongoing billing
 We provide
-• customized software production and regular maintenance of on-site hardware (requires
-one-year contract)
+• customized software production and regular maintenance of on-site hardware (requires one-year contract)
 • management and regular upgrades of applications and databases
 • storage, backup, and data recovery
 • an around-the-clock service center for fast resolution of issues
@@ -490,9 +493,19 @@ University for twenty years, is probably best known as the owner of The Treasure
 store has two unique features: it specializes in rare books and is open for business on Saturdays only. Evidently,
 walk-in sales make up only a small percentage of Mr. Carlson’s business; the bulk of the store’s revenue is generated by
 orders placed over the telephone or online by universities, museums, and private collectors.
-On Sunday The Treasure Box will be celebrating its sixtieth anniversary. “When my mother, Willisa, opened the bookstore
+    On Sunday The Treasure Box will be celebrating its sixtieth anniversary. “When my mother, Willisa, opened the bookstore
 all those years ago on Green Edge Road, two blocks from here, she probably had no idea it would still be serving the
-public six decades later,” Mr. Carlson said. The store still
+public six decades later,” Mr. Carlson said. The store still displays the original sign over the doorway. The interior
+retains the living-room atmosphere it always had, with its mismatched tables and chairs. One section of the store is
+filled with books about baseball, an abiding passion of the Carlson family. On Friday nights the store becomes an
+informal social club. Not surprisingly, members tend to enjoy conversation about rare books, literature, and baseball.
+    Later this month Mr. Carlson will mark another milestone: he will be retiring from his teaching position. His
+retirement does not mean, however, that The Treasure Box will see extended business hours; it will continue to be open
+once a week. “I am not retiring from one job just so that I can spend more time on another,” Mr. Carlson said. “Rather,
+the fact that I no longer will have to prepare for classes or grade students’ papers means that I will be able to
+dedicate more time to my children and grandchildren.”
+
+
 163. Why most likely was the article written?
 (A) To attract members to a new book club
 (B) To highlight the benefits of selling items that are unique
@@ -503,15 +516,6 @@ public six decades later,” Mr. Carlson said. The store still
 (B) He studies works written by Russian authors.
 (C) He has lived in Pine Hill for almost ten years.
 (D) He enjoys talking about baseball with others.
-displays the original sign over the doorway. The interior retains the living-room atmosphere it always had, with its
-mismatched tables and chairs. One section of the store is filled with books about baseball, an abiding passion of the
-Carlson family. On Friday nights the store becomes an informal social club. Not surprisingly, members tend to enjoy
-conversation about rare books, literature, and baseball.
-Later this month Mr. Carlson will mark another milestone: he will be retiring from his teaching position. His retirement
-does not mean, however, that The Treasure Box will see extended business hours; it will continue to be open once a week.
-“I am not retiring from one job just so that I can spend more time on another,” Mr. Carlson said. “Rather, the fact that
-I no longer will have to prepare for classes or grade students’ papers means that I will be able to dedicate more time
-to my children and grandchildren.”
 165. The word “retains” in paragraph 2, line 9, is closest in meaning to
 (A) contributes to
 (B) agrees with
@@ -522,7 +526,6 @@ to my children and grandchildren.”
 (B) It will maintain its current hours of operation. -
 (C) Its sales are expected to increase this year.
 (D) Its sign will be replaced later in the month.
-
 
 Questions 167-168 refer to the following text-message chain.
 
@@ -547,6 +550,28 @@ Great. We’re always looking for good material for our magazine. I look forward
 (B) A lawyer
 (C) A financial adviser
 (D) A human resources manager
+Questions 169-171 refer to the following e-mail.
+***E-Mail Message***
+To: Mercedes Salinas <msalinas@fithealthplanning.bm>
+From: Leonard Cowden <lcowden@srhealthcenter.bm>
+Subject: Bermuda Healthy Living Conference
+Date: 16 April
+
+Dear Ms. Salinas,
+I’m excited that you have agreed to be one of the speakers at our second annual Bermuda Healthy Living Conference on 12
+May. I realize the invitation was last minute, and I truly appreciate your willingness to step in for Cara Branston.
+— [1] —. Your expertise as a dietitian will be greatly valued by our participants. The strong attendance at Ms. Branston’s
+session last year on vegetarian meal preparation reflected that. — [2] —. This year there is sure to be great interest
+in your unique approach to healthy eating.
+If you would like to sell copies of your book, please ship them in advance to allow time for us to set up a display.
+— [3] —. Also, be sure to let me know if you’ll need access to a projector with a remote for your presentation. — [4] —.
+Lastly, could you send me a short biographical profile as soon as possible for inclusion in our conference program?
+Thanks again.
+
+Regards,
+
+Leonard Cowden
+
 169. Why did Mr. Cowden most likely send the email?
 (A) To invite Ms. Salinas to an event
 (B) To acknowledge Ms. Salinas’ acceptance of an offer
@@ -563,33 +588,8 @@ at all to have visual equipment available."
 (B) [2]
 (C) [3]
 (D) [4]
-.... -'......== E-Mail Message === =. z„...
-.................. .■ -- ■ -
-To: Mercedes Salinas <msalinas@fithealthplanning.bm>
-From: Leonard Cowden <lcowden@srhealthcenter.bm>
-Subject: Bermuda Healthy Living Conference
-Date: 16 April
-ft
-Dear Ms. Salinas, =
-I’m excited that you have agreed to be one of the speakers at our second annual Bermuda Healthy Living Conference on 12
-May. I realize the invitation was last minute, and I truly appreciate your willingness to step in for Cara Branston. —
-[1] —. Your expertise as a dietitian will be greatly valued by our participants. The strong attendance at Ms. Branston’s
-session last year on vegetarian meal preparation reflected that. — [2] —. This year there is sure to be great interest
-in your unique approach to healthy eating.
-If you would like to sell copies of your book, please ship them in advance to allow time for us to set up a display. —
-[3] —. Also, be sure to let me know if you’ll need access to a projector with a remote for your presentation. — [4] —.
-Lastly, could you send me a short biographical profile as soon as possible for inclusion in our conference program?
-Thanks again.
-Regards,
-Leonard Cowden
-£
-HOWMIIII J ]*]
-
-Questions 169-171 refer to the following e-mail.
 
 Questions 172-175 refer to the following text-message chain.
-
-36
 172. What type of products does the store sell?
 (A) Books
 (B) Jewelry
@@ -855,14 +855,6 @@ forward to the next edition.
 
 
 
-Questions 196-200 refer to the following article, newspaper editorial, and e-mail.
-
-CORDOVA (May 6) — Cordova city officials have begun preliminary discussions about what to do with Lowell Street Bridge,
-a historic city landmark that is in dire need of an upgrade. While costly restoration options are being considered,
-several factors make demolition a more likely outcome. “It’s a tough decision and one we don’t intend to make hastily,”
-said city planner Colin Barnwell. “So far, it seems that replacing the bridge makes the most financial sense.”
-Price isn’t the only consideration, however. According to structural engineer Steve
-Registration
 191. What industry is the focus of the conference?
 (A) Recycling
 (B) Food
@@ -873,7 +865,6 @@ Registration
 (B) Indicate where they would like their materials sent
 (C) Reserve hotel accommodations by July 10
 (D) Request a discount code from Vertin
-Suites
 193. What has Ms. Haasbroek been asked to do?
 (A) Arrange a meeting with Mr. Molawa
 (B) Submit a draft of her presentation
@@ -890,6 +881,15 @@ Mr. Kekana
 (B) He filled out an Employer Application when registering.
 (C) He preferred the recent ACIC conference over previous ones.
 (D) He believed his topic would be easy to understand.
+Questions 196-200 refer to the following article, newspaper editorial, and e-mail.
+
+CORDOVA (May 6) — Cordova city officials have begun preliminary discussions about what to do with Lowell Street Bridge,
+a historic city landmark that is in dire need of an upgrade. While costly restoration options are being considered,
+several factors make demolition a more likely outcome. “It’s a tough decision and one we don’t intend to make hastily,”
+said city planner Colin Barnwell. “So far, it seems that replacing the bridge makes the most financial sense.”
+Price isn’t the only consideration, however. According to structural engineer Steve
+Registration
+Suites
 https://www.acic.org.za
 Program Sponsorships Comments
 —Avanish GuptaPachenco, traffic flow is another important factor. “Highway 49 will soon be broadened from two lanes to
@@ -1167,30 +1167,32 @@ Karen Morris
 TKN Manufacturing
 202-555-0127 ext. 23
 
-138. (A) I would certainly be happy to write a job reference for you.
-(B) My assistant will train you in your new duties.
-(C) I look forward to hearing your vision for an efficient workplace.
-(D) Your new product ideas were especially informative.
 54
 
 I trust that you remain interested in this job opportunity.
 137 J would a 1:00 P.M. appointment next
 
+
+
+138.
+
 135. (A) suiting
 (B) suitable
 (C) suit
 (D) suits
-
 136. (A) agreements
 (B) performances
 (C) qualities
 (D) promotions
-
 137. (A) Despite that
 (B) If so
 (C) However
 (D) For example
-138. Questions 139-142 refer to the following advertisement.
+138. (A) I would certainly be happy to write a job reference for you.
+(B) My assistant will train you in your new duties.
+(C) I look forward to hearing your vision for an efficient workplace.
+(D) Your new product ideas were especially informative.
+Questions 139-142 refer to the following advertisement.
 
 Do You Wear Eyeglasses? Contact Culler Solutions Today!
 In June, Culler Solutions will be conducting a consumer study on behalf of Optometrica 21. To this end, we are eyeglass
@@ -1410,6 +1412,11 @@ the new Flash JX model. Industry competitors responded with surprise at the news
 went online en masse to express frustration with Chien Motors for canceling March’s much-anticipated rollout. It seems
 the decision to equip the Flash JX with a hybrid system, which uses both gasoline and electric power, is to blame. Chien
 Motors admits that the current prototype was rejected because of its
+Long Ride factory, having been equipped to produce previous models^ is not ready for production of the Flash JX hybrid.
+—[3]—. New equipment will need to be purchased, and the assembly floor will need to be reconfigured. Last year, Chien
+Motors was widely praised by motorcycle enthusiasts after it stepped in to save Long Ride from going out of business.
+What a difference twelve months has made. — [4] —.
+
 161. What is indicated about Chien Motors?
 (A) It owns the Long Ride motorcycle brand.
 (B) It plans to sell a model at a reduced price.
@@ -1433,11 +1440,6 @@ need to win back the goodwill of these potential customers.”
 (C) [3]
 (D) [4] excessive size and weight. This design of the power system would have required a larger motorcycle body than
 planned. They also had concerns over its lack of power output. -[21- In addition to the design challenges, the
-Long Ride factory, having been equipped to produce previous models^ is not ready for production of the Flash JX hybrid.
-—[3]—. New equipment will need to be purchased, and the assembly floor will need to be reconfigured. Last year, Chien
-Motors was widely praised by motorcycle enthusiasts after it stepped in to save Long Ride from going out of business.
-What a difference twelve months has made. — [4] —.
-
 Questions 165-168 refer to the following text-message chain.
 
 David Fowles [4:26 P.M.] Ms. Kang, tomorrow’s forecast is calling for storms, so the roof work on your hotel’s new wing
@@ -1637,6 +1639,28 @@ Post job announcements, complete interviews, and hire staff May 7 Load inventory
 Financial Information See attached projection sheet for details about anticipated expenditures and profits.
 70
 
+TESTCentral Craft Office Furnishings
+Welcome to our Web site! Browse our item inventory to imagine workspaces that are stylish and productive. We have been
+serving the Eastern Cape for over 30 years, and ' you can count on our fine quality furnishings to set your offices
+apart.
+We always offer the following deals:
+• Free shipping and handling for first-time buyers
+• Discounts to schools and nonprofit organizations (call for information)
+From: David Louw [dlouw@marketstreetlegal.co.za]
+To: i Mpho Mashigo [mmashigo@marketstreetlegal.co.za]
+Date: 1 12 May
+Subject: I Office furnishing update
+Hello, Mpho, I’ve completed some research and would like to suggest that we go with Central Craft Office Furnishings for
+the desks and other pieces for our office renovation. Though we’ve never purchased from them before, they provided
+references that gave glowing recommendations.
+I think we should choose a larger desk type for our main work area (twelve desks), with matching filing cabinets and
+bookshelves. For the support staff and interns who work upstairs, I suggest a simpler desk style.
+If you approve these suggestions, I’m hoping to place the order quickly so that the items would be delivered while most
+of our staff are away at the conference in Bloemfontein. Unfortunately, our work areas will appear quite messy as we
+clear out the old furniture and await the arrival of the new items. Please let me know what you think of the plan I have
+outlined above.
+David
+
 181. What is the purpose of the e-mail?
 (A) To acknowledge a recent job promotion
 (B) To give instructions on getting a permit
@@ -1662,28 +1686,6 @@ Financial Information See attached projection sheet for details about anticipate
 (B) Names of contracted suppliers
 (C) Details about estimated costs
 (D) A list of inventory items
-TESTCentral Craft Office Furnishings
-Welcome to our Web site! Browse our item inventory to imagine workspaces that are stylish and productive. We have been
-serving the Eastern Cape for over 30 years, and ' you can count on our fine quality furnishings to set your offices
-apart.
-We always offer the following deals:
-• Free shipping and handling for first-time buyers
-• Discounts to schools and nonprofit organizations (call for information)
-From: David Louw [dlouw@marketstreetlegal.co.za]
-To: i Mpho Mashigo [mmashigo@marketstreetlegal.co.za]
-Date: 1 12 May
-Subject: I Office furnishing update
-Hello, Mpho, I’ve completed some research and would like to suggest that we go with Central Craft Office Furnishings for
-the desks and other pieces for our office renovation. Though we’ve never purchased from them before, they provided
-references that gave glowing recommendations.
-I think we should choose a larger desk type for our main work area (twelve desks), with matching filing cabinets and
-bookshelves. For the support staff and interns who work upstairs, I suggest a simpler desk style.
-If you approve these suggestions, I’m hoping to place the order quickly so that the items would be delivered while most
-of our staff are away at the conference in Bloemfontein. Unfortunately, our work areas will appear quite messy as we
-clear out the old furniture and await the arrival of the new items. Please let me know what you think of the plan I have
-outlined above.
-David
-
 Questions 186-190 refer to the following Web page, e-mail, and form.
 
 https://www.centralcraftofficefumishings.com/
@@ -1758,18 +1760,6 @@ ef-ficient design of your kitchen. I look forward to sampling the new brick-oven
 shame you weren't able to offer them today.
 
 
-Questions 196-200 refer to the following e-mail, flyer, and text message.
-
-To: | Interns
-From: Hassan Asif _____________________ ___________________________ [
-Subject: ; Speaker series ■
-Date: February 11______ ______________________________________________ 1
-Dear students,
-Good news! Mr. Tatsuo Nomura has agreed to participate in our Speaker Series this spring. As part of your student
-internship responsibilities you will need to arrange his lodging here at the university for March 25-27 and have the
-necessary paperwork completed and approved so that Mr. Nomura can receive his honorarium. Please reserve a room for his
-presentation as well. I recommend McAneny Auditorium since it can accommodate the most people, but any of the
-presentation rooms in the business building would be fine.
 191. What is the purpose of the menu tasting?
 (A) To prepare for a visit from a restaurant critic
 (B) To select dishes to enter in a cooking contest
@@ -1794,7 +1784,20 @@ presentation rooms in the business building would be fine.
 (A) It is too large for the kitchen.
 (B) It needs to be repaired.
 (C) It failed a safety inspection.
-(D) It is still being built.Also, once Mr. Nomura provides his abstract, you will need to design a flyer and post it in
+(D) It is still being built.
+Questions 196-200 refer to the following e-mail, flyer, and text message.
+
+To: | Interns
+From: Hassan Asif _____________________ ___________________________ [
+Subject: ; Speaker series ■
+Date: February 11______ ______________________________________________ 1
+Dear students,
+Good news! Mr. Tatsuo Nomura has agreed to participate in our Speaker Series this spring. As part of your student
+internship responsibilities you will need to arrange his lodging here at the university for March 25-27 and have the
+necessary paperwork completed and approved so that Mr. Nomura can receive his honorarium. Please reserve a room for his
+presentation as well. I recommend McAneny Auditorium since it can accommodate the most people, but any of the
+presentation rooms in the business building would be fine.
+Also, once Mr. Nomura provides his abstract, you will need to design a flyer and post it in
 the usual locations throughout the building. I trust you will be able to divide the work among the four of you without
 any issues.
 Thanks!
@@ -2718,17 +2721,6 @@ Modern Art Gallery of the Bahamas
 Enclosures
 
 
-Questions 196-200 refer to the following e-mails and attachment.
-
-3—r"" 2z~
-——
-; ■ *E-mail* - ~ — . ill=
-To: Natasha Borzova; Rosana Trujillo; Marcus Paulet
-From:
-\ Tom Anyati
-Date: June 12, 7:54 A.M.
-Subject: Office space
-Attachment: | $ Properties
 191. According to the Web page, what do all of the exhibitions have in common?
 (A) They include photographs.
 (B) They include live performances.
@@ -2753,7 +2745,19 @@ Attachment: | $ Properties
 (A) Mail a list of upcoming events
 (B) Change the date of an exhibition
 (C) Confirm a reservation
-(D) Charge a credit cardHi all,
+(D) Charge a credit card
+Questions 196-200 refer to the following e-mails and attachment.
+
+3—r"" 2z~
+——
+; ■ *E-mail* - ~ — . ill=
+To: Natasha Borzova; Rosana Trujillo; Marcus Paulet
+From:
+\ Tom Anyati
+Date: June 12, 7:54 A.M.
+Subject: Office space
+Attachment: | $ Properties
+Hi all,
 I thoroughly enjoyed our work luncheon at Motano Grill last Monday. As a fellow Silen Consultants employee, I am
 thrilled to be part of the team headed to Edmonton to open our first branch there. At the meeting, I sensed our shared
 eagerness to land our first clients and begin advising firms in Edmonton on how best to use information technology in
@@ -3035,7 +3039,8 @@ Young Ho Woo
 (B) Corporate lecture series are gaining popularity in the field of technology.
 (C) As a student, Mr. Colon published an article in a prestigious business journal.
 (D) The rest will deal with various other topics, including marketing and customer service.
-134. Questions 135-138 refer to the following letter.
+134.
+Questions 135-138 refer to the following letter.
 
 January 28
 Ojas Ramachandran Sawat Clothing Company Bengaluru 560 001 Karnataka, India
@@ -3079,31 +3084,31 @@ The Greenville Transportation Commission (GTC) will hold a public meeting at Cit
 to discuss its proposal to extend light rail service to Greenville feasibility of installing noise barriers along the
 tracks. At the meeting, Leora Kelman, CEO of Acoustic Engineering, will explain how much noise reduction the GTC can
 
-139. (A) The GTC completed the project ahead of schedule.
-(B) The rail line will run through a residential area.
-(C) The commission chair will run for mayor next year.
-(D) The GTC has decided to hold monthly meetings.
 
-141. (A) remind
-(B) accept
-(C) persuade
-(D) expect
 
-142. (A) present
-(B) presenting
-(C) presenter
-(D) presentation’
 
-140. (A) In addition
-(B) In time
-(C) In response
-(D) In conclusion
 Industrial Park. (139) -------.
 Residents of the neighborhood have complained that the extension will generate too much noise during peak commuting
 hours. 140.’ the GTC has been studying the the barriers. A
 142.
 by Mayor Joe Rowan will follow. (141) ------- to achieve with
 
+139. (A) The GTC completed the project ahead of schedule.
+(B) The rail line will run through a residential area.
+(C) The commission chair will run for mayor next year.
+(D) The GTC has decided to hold monthly meetings.
+140. (A) In addition
+(B) In time
+(C) In response
+(D) In conclusion
+141. (A) remind
+(B) accept
+(C) persuade
+(D) expect
+142. (A) present
+(B) presenting
+(C) presenter
+(D) presentation’
 Questions 143-146 refer to the following e-mail.
 
 From: rosgrove@lavilli.com
@@ -3200,6 +3205,7 @@ Enclosure
 (B) A gift card
 (C) A refund
 (D) An application
+Questions 151-152 refer to the following e-mail.
 To; Sales Associates Team ......... ...................... .................................................... Shein,
 Clifford ..................................... ............... ...............................................
 November 22
@@ -3225,7 +3231,6 @@ Williams Apparel for an inconvenience.
 (C) Tell customers to discuss additional concerns with a supervisor
 (D) Tell customers about a problem with a new product
 
-Questions 151-152 refer to the following e-mail.
 
 Questions 153-155 refer to the following article.
 
@@ -3284,7 +3289,9 @@ That's what I thought.
 (A) He managed to send a fax.
 (B) A delivery will arrive in time.
 (C) Express mail is a'better option.
-(D) An invoice needed to be revised.Anish Kumar 11:15 A.M.
+(D) An invoice needed to be revised.
+Questions 158-161 refer to the following online chat discussion.
+Anish Kumar 11:15 A.M.
 Thanks everyone for getting together online before our next meeting. I thought it would be helpful to see what’s been
 done and what still needs to be done for the festival. I believe Ella has some news to share.
 Ella Costa 11:16 A.M.
@@ -3328,7 +3335,6 @@ around”?
 (C) A reporter
 (D) A patron
 
-Questions 158-161 refer to the following online chat discussion.
 
 Questions 162-164 refer to the following notice on a Web page.
 
@@ -3453,6 +3459,9 @@ personnel.
 company has rented.
 • Anyone on the floor who is not officially registered will be evicted from the show.
 
+• False certification of any individual as a company’s exhibition representative, or misuse
+of exhibitor badges, will be just cause for removing the exhibit from the floor.
+
 173. What is the purpose of the policy statement?
 (A) To outline the registration process
 (B) To provide details about setting up exhibits
@@ -3468,9 +3477,6 @@ company has rented.
 (B) Request extra exhibitor badges online
 (C) Apply for an exemption to the staff limit
 (D) Speak directly to an expo representative
-• False certification of any individual as a company’s exhibition representative, or misuse
-of exhibitor badges, will be just cause for removing the exhibit from the floor.
-
 Questions 176-180 refer to the following e-mails.
 
 To; calvin.galt@zmurk.net
@@ -3628,22 +3634,6 @@ Desmond Xueling, Asia Enterprise Monthly
 New Equipment a Boon for LTL?
 7 January
 
-Questions 191-195 refer to the following letters and invoice.
-
-Cutler’s Rare Books
-36 Boyle St.
-Boston, MA 02116
-By Desmond Xueling
-Tucked into a busy industrial area in Singapore, the LTL manufacturing facility is small, gray, and unassuming. But the
-building’s nondescript exterior masks an abundance of color and activity inside. Early on a sunny December morning, two
-enormous new textile-printing machines were already churning out the largest swaths of fabric ever processed by the
-factory. “Each machine is well over three meters wide,” said LTL’s Felicity Tong, who accompanied us on a tour of the
-factory floor. “Our machine operators are still learning to use the machines effectively, as you can see from this pile
-of rejected pieces,” Ms. Tong remarked. “The machines are efficient, but mastering them is posing some challenges for
-our work crews.” The machines come with the potential for big profits. Company CEO Ravinder Kapur commented that the
-demand for his company’s fabrics has grown in recent years. “These machines will allow us to print on vinyl and other
-materials that we had lacked the resources to work with,” he said. “We’re very pleased to be able to satisfy client
-demand.”
 186. What is the purpose of the memo?
 (A) To publicize changes to the company’s media policy
 (B) To announce the purchase of new machinery
@@ -3668,7 +3658,24 @@ demand.”
 (A) Its machine operators have completed a training program.
 (B) Its new machines are more reliable than the old ones.
 (C) It has been losing customers in recent years.
-(D) It is using fabrics that it had not used previously.Dear Mr. Cutler, I first came across Cutler’s Rare Books at the
+(D) It is using fabrics that it had not used previously.
+Questions 191-195 refer to the following letters and invoice.
+
+Cutler’s Rare Books
+36 Boyle St.
+Boston, MA 02116
+By Desmond Xueling
+Tucked into a busy industrial area in Singapore, the LTL manufacturing facility is small, gray, and unassuming. But the
+building’s nondescript exterior masks an abundance of color and activity inside. Early on a sunny December morning, two
+enormous new textile-printing machines were already churning out the largest swaths of fabric ever processed by the
+factory. “Each machine is well over three meters wide,” said LTL’s Felicity Tong, who accompanied us on a tour of the
+factory floor. “Our machine operators are still learning to use the machines effectively, as you can see from this pile
+of rejected pieces,” Ms. Tong remarked. “The machines are efficient, but mastering them is posing some challenges for
+our work crews.” The machines come with the potential for big profits. Company CEO Ravinder Kapur commented that the
+demand for his company’s fabrics has grown in recent years. “These machines will allow us to print on vinyl and other
+materials that we had lacked the resources to work with,” he said. “We’re very pleased to be able to satisfy client
+demand.”
+Dear Mr. Cutler, I first came across Cutler’s Rare Books at the
 Antiquarian Book Fair in California last year.
 After noting the high quality and wide range of your products, I decided to purchase several books from your online
 store. As I am not interested in having damaged books in my collection, I carefully read the descriptions of their
@@ -3706,6 +3713,7 @@ Thank you,
 Duvui/Cutler
 David Cutler
 
+
 191. Why did Mr. Baskin write to Mr. Cutler?
 (A) To dispute an inaccurate bill
 (B) To cancel a recently placed order
@@ -3731,7 +3739,6 @@ David Cutler
 (B) $75
 (C) $100
 (D) $125
-
 Questions 196-200 refer to the following e-mail, Web page, and article.
 
 E-Mail Message ==: . ..=
@@ -4016,14 +4023,6 @@ deposit or 50 percent of total room charges for stays of longer than one night. 
 prior to your scheduled arrival
 138.
 
-138. (A) Hotel guests are welcome to use our fitness center.
-(B) This policy applies to early departures as well.
-(C) In addition, we will soon open another hotel in Treviso.
-(D) We hope that you have enjoyed your stay.
-144
-
-
-Questions 139-142 refer to the following article.
 
 135.
 date
@@ -4033,20 +4032,29 @@ for the entire
 137.
 of your stay will be billed to you.
 
+144
+
+
 135. (A) limitation
 (B) limit
 (C) limits
 (D) limited
-
 136. (A) will be refunded
 (B) were refunded
 (C) are refunding
 (D) had been refunding
-
 137. (A) area
 (B) degree
 (C) length
-(D) weekLaptop Funds Approved
+(D) week
+138. (A) Hotel guests are welcome to use our fitness center.
+(B) This policy applies to early departures as well.
+(C) In addition, we will soon open another hotel in Treviso.
+(D) We hope that you have enjoyed your stay.
+Questions 139-142 refer to the following article.
+
+
+Laptop Funds Approved
 New technology ------- to the students of Fairmont. On Tuesday, Mayor Suzanne Kuiper announced that her “Tech Now”
 proposal was approved by the Board of Supervisors, The program allots $35,000 to each school in the city for the
 purchase of laptop computers. Students will be allowed to take home the laptops ------- of the time for special
@@ -4054,27 +4062,27 @@ assignments and
 141.
 class projects, but they will normally be available to the students only ------- sc*100' hours.
 
+
+
+
+
+
 139. (A) came
 (B) was coming
 (C) is coming
 (D) comes
-
-141. (A) some
-(B) many
-(C) none
-(D) all
-
 140. (A) The vote took place on Monday, June 2.
 (B) The laptops will be purchased at a discount rate.
 (C) The final decision is highly anticipated.
 (D) Nevertheless, the mayor remains content with the decision.
-
+141. (A) some
+(B) many
+(C) none
+(D) all
 142. (A) at
 (B) on
 (C) during
 (D) with
-
-
 Questions 143-146 refer to the following letter.
 
 September 20
@@ -4093,29 +4101,30 @@ Duri Yun
 Lead Customer Service Representative
 Enclosure
 
-143. (A) Your years of continued patronage are truly valued.
-(B) However, it seems that you have overpaid on your order.
-(C) You may expect to receive your order - in 5-7 business days.
-(D) Unfortunately, we are writing to inform you of a delay in delivery.
 
-144. (A) upcoming
-(B) complimentary
-(C) initial
-(D) sequential
 
-145. (A) However
-(B) In addition
-(C) For instance
-(D) Still
 
-146. (A) welcomes
-(B) welcoming
-(C) to welcome
-(D) having welcomed
 146
 Bernstein Paper Products is pleased
 146.
 you. We look forward to working with you in the future.
+
+143. (A) Your years of continued patronage are truly valued.
+(B) However, it seems that you have overpaid on your order.
+(C) You may expect to receive your order - in 5-7 business days.
+(D) Unfortunately, we are writing to inform you of a delay in delivery.
+144. (A) upcoming
+(B) complimentary
+(C) initial
+(D) sequential
+145. (A) However
+(B) In addition
+(C) For instance
+(D) Still
+146. (A) welcomes
+(B) welcoming
+(C) to welcome
+(D) having welcomed
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -4183,6 +4192,13 @@ St. Stephens Green Dublin, Ireland
 
 Questions 152-153 refer to the following text message.
 
+From: Rick Barilla, Thursday, 3 October,
+8:53 A.M.
+Maria, I’m at the Baycrest Hotel, installing the new ballroom lighting system. Joe called in sick, and this job is too
+big to do alone. It’s not what I expected. It’s a large space that can be divided into smaller rooms, and the hotel
+wants a programmable system to work when the space is used for more than one meeting or dinner scheduled at the same
+time. Can you phone Scott and ask him to come help me? I don’t have his mobile phone number.
+
 152. What problem does Mr. Barilla have?
 (A) He feels sick and cannot work.
 (B) He will not be able to attend a scheduled dinner.
@@ -4193,13 +4209,6 @@ Questions 152-153 refer to the following text message.
 (B) To cancel an event in the hotel ballroom
 (C) To ask her to make a call
 (D) To request special equipment
-From: Rick Barilla, Thursday, 3 October,
-8:53 A.M.
-Maria, I’m at the Baycrest Hotel, installing the new ballroom lighting system. Joe called in sick, and this job is too
-big to do alone. It’s not what I expected. It’s a large space that can be divided into smaller rooms, and the hotel
-wants a programmable system to work when the space is used for more than one meeting or dinner scheduled at the same
-time. Can you phone Scott and ask him to come help me? I don’t have his mobile phone number.
-
 Questions 154-155 refer to the following survey.
 
 THE BROAD LAKE INN
@@ -4299,6 +4308,12 @@ Many Sumrita residents, businesses, and visitors have expressed concerns to town
 parking spaces. —[1] —. Some have called for construction of a second parking garage in the next two years.
 With a data-collection project scheduled to begin on Tuesday, led by Paston Associates of Turnbridge, town officials
 will soon learn the extent of the parking problem on a typical weekday, during the evening,
+and at peak times when events are taking place in the center of town. — [2] —. When it is completed, the study will
+provide an updated inventory of all public and private parking spaces in the area and their typical rates of use. — [3]
+—. “Anecdotally people say that demand has increased with the four new businesses - -" and the residential projects
+we’ve seen in the last five years,” said Planning Director Akash Singh. — [4]
+—.
+
 161. How many parking garages are currently in Sumrita?
 (A) One
 (B) Two
@@ -4309,18 +4324,12 @@ will soon learn the extent of the parking problem on a typical weekday, during t
 (B) It will measure the demand for parking at various times.
 (C) It will be paid for by Paston Associates of Turnbridge.
 (D) It will be conducted by Sumrita’s planning director.
-and at peak times when events are taking place in the center of town. — [2] —. When it is completed, the study will
-provide an updated inventory of all public and private parking spaces in the area and their typical rates of use. — [3]
-—. “Anecdotally people say that demand has increased with the four new businesses - -" and the residential projects
-we’ve seen in the last five years,” said Planning Director Akash Singh. — [4]
-—.
 163. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “But we need hard
 data before we can consider another costly parking garage.”
 (A) [1]
 (B) [2]
 (C) [3]
 (D) [4]
-
 Questions 164-167 refer to the following Web site.
 
 Home ] | (Subject Guide"! f Latest Polls ' Contact Us "|
@@ -4477,6 +4486,17 @@ Magdalena Gutierrez
 JH
 158
 
+Announcing: The Mooney County Parade This popular annual event will be held
+next Saturday starting at noon at the County Courthouse. As usual, parade groups will march down Keel Street and turn
+onto Laurel Road. The route ends at Windmere Park. After the parade, the Santiago Heart band is scheduled to perform at
+2:00 P.M. at the Park Pavilion. Awards recognizing the top entries in a number of categories from the parade will also
+be presented.
+Officials are reminding citizens that vehicles will encounter detours in the vicinity of the parade route due to
+temporary road closures, and street parking will be very limited. Spectators are encouraged to use the shuttle bus
+service, which will start at 10:30 A.M. and run every 20 minutes all day.
+160
+
+
 176. What information is NOT included in Boriken Islander’s advertisement?
 (A) The rental prices for its vehicles
 (B) The number of people each kind of vehicle can accommodate
@@ -4501,17 +4521,7 @@ JH
 (A) The company’s business hours
 (B) The company’s reservation procedures
 (C) Additional details about the types of cars available
-(D) The availability of a navigation deviceAnnouncing: The Mooney County Parade This popular annual event will be held
-next Saturday starting at noon at the County Courthouse. As usual, parade groups will march down Keel Street and turn
-onto Laurel Road. The route ends at Windmere Park. After the parade, the Santiago Heart band is scheduled to perform at
-2:00 P.M. at the Park Pavilion. Awards recognizing the top entries in a number of categories from the parade will also
-be presented.
-Officials are reminding citizens that vehicles will encounter detours in the vicinity of the parade route due to
-temporary road closures, and street parking will be very limited. Spectators are encouraged to use the shuttle bus
-service, which will start at 10:30 A.M. and run every 20 minutes all day.
-160
-
-
+(D) The availability of a navigation device
 Questions 181-185 refer to the following Web site and announcement.
 
 Mooney County Districts

@@ -254,27 +254,27 @@ information you shared about the organization’s conference at the end of the m
 Sincerely,
 Alexis Palmer
 
+
+
+
+(141) -------. I appreciate the Thank you again for your (142) ------- assistance.
+
 139. (A) insights
 (B) surveys
 (C) improvements
 (D) revisions
-
 140. (A) resolve
 (B) predict
 (C) consider
 (D) advertise
-
 141. (A) I look forward to networking with other professionals in the field.
 (B) My membership will expire at the end of the year.
 (C) I will be giving a presentation at the conference.
 (D) I would like to apply for the position
-
 142. (A) generosity
 (B) generous
 (C) generously
 (D) generousness soon.
-(141) -------. I appreciate the Thank you again for your (142) ------- assistance.
-
 Questions 143-146 refer to the following letter.
 
 15 October
@@ -288,30 +288,31 @@ programmes in the future. The money would be used wisely and would be deeply app
 Sincerely,
 Akosua Masika, Membership Chair
 
-143. (A) The association grants scholarships for those studying zoology.
-(B) Supporters like you help preserve the park for public use.
-(C) We hope you enjoyed your visit to the park today.
-(D) Interested parties can volunteer to clean wildlife habitats.
 
-144. (A) generations
-(B) lifestyles
-(C) committees
-(D) planners
 
-145. (A) designer
-(B) designs
-(C) designing
-(D) designed
 
-146. (A) researching
-(B) organizing
-(C) leading
-(D) funding
 26
 national park .
 143.
 Individual contributions have helped it stay open to visitors for more than 50 --— to benefit
 145.
+
+143. (A) The association grants scholarships for those studying zoology.
+(B) Supporters like you help preserve the park for public use.
+(C) We hope you enjoyed your visit to the park today.
+(D) Interested parties can volunteer to clean wildlife habitats.
+144. (A) generations
+(B) lifestyles
+(C) committees
+(D) planners
+145. (A) designer
+(B) designs
+(C) designing
+(D) designed
+146. (A) researching
+(B) organizing
+(C) leading
+(D) funding
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -418,6 +419,7 @@ Agnaldo Paes Assistant Director of Human Resources Manos Contracting, Inc.
 (B) Tuesday at 6:30 P.M.
 (C) Wednesday at 9:30 A.M.
 (D) Wednesday at 11:30 A.M.
+Questions 155-157 refer to the following Web page.
 30
 | Ted Lee <ted.lee@comconnecting.com>
 | Agnaldo Paes <apaes@manosinc.com>
@@ -439,7 +441,6 @@ is served with a large beverage and our famous garlic rolls.
 Click on a location to get directions, phone numbers, and restaurant hours.
 Q Bridgeport Q Lincoln Park Q Edgewater Q Avondale
 
-Questions 155-157 refer to the following Web page.
 
 155. What is true about Mazullo’s Bridgeport shop?
 (A) It has recently expanded.
@@ -473,22 +474,6 @@ examination will be performed by a physician selected by Kendinburgh Transit, an
 We look forward to working with you.
 Kristine Yerkes
 Kendinburgh Transit
-158. Who most likely is Mr. Stevenson?
-(A) A driver
-(B) A mechanic
-(C) A medical assistant
-(D) A city official
-159. What is Mr. Stevenson asked to do by phone?
-(A) Extend his medical leave
-(B) Schedule an examination
-(C) Contact his supervisor
-(D) Inquire about weather conditions
-160. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? “To that end, we
-need you to complete one more task before beginning employment with us next month.’’
-(A) [1]
-(B) [2]
-(C) [3]
-(D) [4]
 32
 Kendinburgh Transit
 64 Ponteland Rd
@@ -505,6 +490,22 @@ has both the leadership experience and inside knowledge of Rolidge Motors to mak
 Mr. Hsing. “We are excited to have Ms. Walters join us,” added Matilde Bekwa, Rolidge Motors’ chairman of the board.
 “Her work at Cermak & Holden has been remarkable, and we look forward to benefiting from her visionary leadership.”
 
+158. Who most likely is Mr. Stevenson?
+(A) A driver
+(B) A mechanic
+(C) A medical assistant
+(D) A city official
+159. What is Mr. Stevenson asked to do by phone?
+(A) Extend his medical leave
+(B) Schedule an examination
+(C) Contact his supervisor
+(D) Inquire about weather conditions
+160. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? “To that end, we
+need you to complete one more task before beginning employment with us next month.’’
+(A) [1]
+(B) [2]
+(C) [3]
+(D) [4]
 Questions 161-163 refer to the following article.
 
 L isai
@@ -568,6 +569,7 @@ Water Shut-off
 (B) They should try to decrease their water usage.
 (C) They have complained to the Customer Service desk.
 (D) They have scheduled a tenant meeting on January 12.
+Questions 168-171 refer to the following memo.
 34To: South Street Bank staff
 From: William Rees-Yates, Chief Executive Officer
 Date: May 12
@@ -582,7 +584,6 @@ Meanwhile, our business continues to thrive and grow in other ways. — [4] —.
 Business of the Year award by the Chamber of Commerce. This is a significant achievement, due in no small part to the
 dedicated work of our outstanding team. On behalf of our management team, thank you very much and congratulations.
 
-Questions 168-171 refer to the following memo.
 
 168. What is the memo mainly about?
 (A) A merger with another company
@@ -1369,6 +1370,10 @@ Yes, they have some of my old files in them. Most of them can be shredded, but t
 Do you want me to come have a look? I have about 15 minutes until my next meeting.
 Scott Rabin (11:20 A.M.)
 It’s up to you. I can just leave them here until you have more time.
+60
+Tanya Greene (11:21 A.M.)
+That would be great. I’ll set aside some time on Wednesday to sort through them.
+
 153. Why did Mr. Rabin send a message to Ms. Greene?
 (A) To ask if she needs more storage space
 (B) To find out if some files belong to her
@@ -1379,10 +1384,6 @@ It’s up to you. I can just leave them here until you have more time.
 (B) He can arrange for a time to unlock the storage room.
 (C) Ms. Greene can decide when she prefers to look at some files.
 (D) Ms. Greene can choose the type of boxes she wants to use.
-60
-Tanya Greene (11:21 A.M.)
-That would be great. I’ll set aside some time on Wednesday to sort through them.
-
 Questions 155-157 refer to the following article.
 
 NAIROBI (2 November)—Agosti, the popular Italian shoe retailer, will launch its first outlet store in East Africa this
@@ -1907,8 +1908,6 @@ like more information.
 Sincerely,
 Leilani Sullivan
 Sales Representative
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
 196. According to the first e-mail, how have some employees coped with a problem?
 (A) By reducing operational costs
 (B) By working outside their regular hours
@@ -1934,6 +1933,8 @@ your work.
 (B) Equipment insurance
 (C) Suggestions for accessories
 (D) Training in the use of equipment
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
 READING TEST
 In the Reading test, you will read a variety of texts and answer several different types of reading comprehension
 questions. The entire Reading test will last 75 minutes. There are three parts, and directions are given for each part.
@@ -2218,28 +2219,29 @@ Best regards,
 Shelly Luu
 Luu Marketing
 
+
+
+
+86
+attractions Brookside has to offer.
+146. ’ we suggest adding a page to the Web site that allows
+
 143. (A) effectiveness
 (B) effectively
 (C) effective
 (D) effecting
-
 144. (A) upon
 (B) toward
 (C) among
 (D) throughout
-
 145. (A) No photos can be used without my written authorization.
 (B) A display of photos is not enough to attract prospective visitors.
 (C) A systematic way of filing photos is essential for easy retrieval.
 (D) Photos that were not in the proper format have been rejected.
-
 146. (A) So that
 (B) In addition
 (C) To clarify
 (D) After all
-86
-attractions Brookside has to offer.
-146. ’ we suggest adding a page to the Web site that allows
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -2440,6 +2442,15 @@ We’ll be using two large conference rooms that will have everything the instru
 Violet Menja (4:38 P.M.):
 The lab technicians will finish up their shifts just before 3:00, so they can go straight to
 their sessions. I’ll be around to help get everyone settled.
+Donna Davis (4:41 P.M.):
+Excellent. The sessions end at 5:00. Will either of
+you be there? Do the instructors need to lock up?
+Will Frankel (4:42 P.M.):
+1’11 be there to lock up the rooms when they finish.
+Donna Davis (4:43 P.M.):
+Will Frankel (4:44 P.M.):
+Good. That’s it, then.
+I’m here until 5:30 if you need anything else this afternoon.
 164. Why did Mr. Frankel contact Ms. Davis?
 (A) To propose a change to a schedule
 (B) To request a security form
@@ -2459,14 +2470,8 @@ their sessions. I’ll be around to help get everyone settled.
 (A) She does not have any more questions.
 (B) She does not think the doors should be locked.
 (C) She believes that Mr. Frankel has a good idea.
-(D) She has finished closing up the rooms.Donna Davis (4:41 P.M.): Excellent. The sessions end at 5:00. Will either of
-you be there? Do the instructors need to lock up?
-Will Frankel (4:42 P.M.):
-1’11 be there to lock up the rooms when they finish.
-Donna Davis (4:43 P.M.):
-Will Frankel (4:44 P.M.):
-Good. That’s it, then.
-I’m here until 5:30 if you need anything else this afternoon. _(A) [1]
+(D) She has finished closing up the rooms.
+_(A) [1]
 (B) [2]
 (C) [3]
 (D) [4]
@@ -3405,6 +3410,25 @@ You might also be interested in our crop irrigation systems. — [4] —. Let me
 will be happy to answer questions about any of our products.
 Sincerely,
 Yoshi Takeda
+“Expressions in Form and Color”
+March 30
+5:30 P.M.-9:00 P.M.
+Event Description: The Summerlake University Art Department is pleased to present its annual showcase, opening today at
+5:30 P.M. in the campus art gallery located in Building 4. Come see new artwork—including paintings, photographs,
+drawings, and sculptures—while enjoying beverages and appetizers.
+Student artists will be on hand to speak about their work to visitors at the gallery from 5:30 P.M. to 7:30 P.M. this
+evening. At 7:30 P.M., Fin Olson, sculptor of Delivered, will give a presentation about how his study abroad in Milan
+influenced his work. Mr. Olson, who will finish his degree in April, has already sold many pieces to private collectors
+and teaches workshops to children.
+This event is open to students, faculty, and the public. Parking is available in the designated areas next to Buildings
+4 and 8. Please note that the area by Building 4 requires a permit, but the area by Building 8 is free to the public.
+For more information, including a list of featured artwork, please visit the Art Department’s Web site at
+www.summerlake.edu/artdepartment/events.
+▲
+◄ I I
+►
+▼
+
 164. Why did Mr. Takeda send the e-mail?
 (A) To inquire about attending a trade show
 (B) To discuss an upcoming meeting
@@ -3431,25 +3455,7 @@ Attachment: DSKTgs
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]“Expressions in Form and Color”
-March 30
-5:30 P.M.-9:00 P.M.
-Event Description: The Summerlake University Art Department is pleased to present its annual showcase, opening today at
-5:30 P.M. in the campus art gallery located in Building 4. Come see new artwork—including paintings, photographs,
-drawings, and sculptures—while enjoying beverages and appetizers.
-Student artists will be on hand to speak about their work to visitors at the gallery from 5:30 P.M. to 7:30 P.M. this
-evening. At 7:30 P.M., Fin Olson, sculptor of Delivered, will give a presentation about how his study abroad in Milan
-influenced his work. Mr. Olson, who will finish his degree in April, has already sold many pieces to private collectors
-and teaches workshops to children.
-This event is open to students, faculty, and the public. Parking is available in the designated areas next to Buildings
-4 and 8. Please note that the area by Building 4 requires a permit, but the area by Building 8 is free to the public.
-For more information, including a list of featured artwork, please visit the Art Department’s Web site at
-www.summerlake.edu/artdepartment/events.
-▲
-◄ I I
-►
-▼
-
+(D) [4]
 Questions 168-171 refer to the following notice.
 
 168. What is the purpose of the notice?
@@ -3569,7 +3575,8 @@ Received by Benefits Counselor: beah Katzen
 (B) Mr. Herrell
 (C) Ms. Katzen
 (D) Mr. Sanders
-TEST 4Questions 181 -185 refer to the following Web page and e-mail. http://www.barrowstreetpost.co.uk/tori-fadulu/ Tori
+TEST 4
+Questions 181 -185 refer to the following Web page and e-mail. http://www.barrowstreetpost.co.uk/tori-fadulu/ Tori
 Fadulu has been a writer with Barrow Street Post for the past two years. Previously, she worked as a freelance writer
 for the Caldwell Times and the Andover Daily News. She is the author of Stones in Moonlight, for which she received the
 prestigious Klockner Prize for new novelists. Ms. Fadulu holds a degree in journalism from MacDougal University. She has
@@ -4084,28 +4091,29 @@ have received, read, and understood the information contained in the handbook an
 arrange with your manager (146) ------- one of these sessions.
 Alex Muresianu
 
+
+
+
+held at 10 A.M. on 9 July and 16 July.
+145. ’ employees will be required to sign a form
+
 143. (A) Thank you for adhering to the policies.
 (B) Our new logo is displayed on the cover.
 (C) This is the first change in over ten years.
 (D) Corporate lawyers were hired to write it.
-
 144. (A) revised
 (B) deleted
 (C) discussed
 (D) notified
-
 145. (A) In summary
 (B) On the other hand
 (C) As a matter of fact
 (D) Immediately afterward
-
 146. (A) to attend
 (B) who attended
 (C) while attending
 (D) in attendance at
 146
-held at 10 A.M. on 9 July and 16 July.
-145. ’ employees will be required to sign a form
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -4285,6 +4293,15 @@ Industrial. The distributor of food packaging and paper products said the deal f
 establish a base in a new area as part of an initiative to expand as well as to break into sales of disposable
 foodservice supplies. Bear Industrial serves many institutional settings in Quebec and the surrounding areas. “Bear
 Industrial is one of the oldest and most reputable distributors in Quebec, and we are thrilled to acquire such a fine
+company and expand into the region,” President Arne Wellington told local reporters at a press conference. “We welcome
+Bear Industrial employees to SPG and look forward to working together for the benefit of all.” He added that no workers
+are expected to lose their jobs as a result of the acquisition. “The Bear Industrial acquisition is a key step in SPG’s
+strategy to establish our company as one of Canada’s leading providers of food packaging, paper products, and
+foodservice disposables,” Wellington said. “Our goal is to expand our geographic reach through partnerships with
+industryleading companies and operators.”
+TES
+T
+
 161. Why did SPG purchase Bear Industrial?
 (A) SPG needed to be closer to its suppliers.
 (B) SPG wished to expand its business in a different region.
@@ -4295,20 +4312,11 @@ Industrial is one of the oldest and most reputable distributors in Quebec, and w
 (B) They are used in fine restaurants.
 (C) They are imported to Quebec.
 (D) They are undergoing redesign.
-company and expand into the region,” President Arne Wellington told local reporters at a press conference. “We welcome
-Bear Industrial employees to SPG and look forward to working together for the benefit of all.” He added that no workers
-are expected to lose their jobs as a result of the acquisition. “The Bear Industrial acquisition is a key step in SPG’s
-strategy to establish our company as one of Canada’s leading providers of food packaging, paper products, and
-foodservice disposables,” Wellington said. “Our goal is to expand our geographic reach through partnerships with
-industryleading companies and operators.”
 163. According to the article, what will SPG likely do in the future?
 (A) Reduce staff
 (B) Relocate its headquarters to Quebec
 (C) Work with other companies similar to Bear Industrial
 (D) Appoint a new president
-TES
-T
-
 Questions 164-167 refer to the following text message chain.
 
 ^Shari Shu [9:35 A.M.]
@@ -4711,8 +4719,6 @@ participants who would like to discuss any topics further can perhaps enjoy some
 go to Devon’s Sandwich Shop, which is just one block south of the library. All are welcome to join me.
 Robin Fowler
 □
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
 196. Based on the first e-mail, what is most likely true about the Linton Business Alliance?
 (A) It opposes a city policy.
 (B) It is a new organization.
@@ -4738,6 +4744,8 @@ your work.
 (B) The number of attendees
 (C) The cost
 (D) The location
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
 TES
 T
 READING TEST
@@ -4918,15 +4926,7 @@ Questions 131-134 refer to the following article.
 DODOMA (21 May)—Dodoma Gas and Electric (DGE) and Arusha Power (Arupo) have into one company. The effective date of the
 merger is 1 July. The joint statement, CEOs Johnathan Gashaza of DGE and Coretha Komba of Arupo assured
 
-132. (A) renovated
-(B) informed
-(C) created
-(D) acquired
 
-133. (A) The financial terms of the agreement have yet to be disclosed.
-(B) The energy sector is vital to Tanzania’s development.
-(C) Both companies have an exceptional grasp of the international financial market.
-(D) Both companies have an excellent reputation in their respective industries.
 soon-to-be
 132.
 company will operate under the new name Tanzania Energy Solutions. DGE serves about 250,000 households and businesses,
@@ -4935,16 +4935,24 @@ while Arupo serves about 90,000.
 In a announced today that they customers they will not see any service changes. ------- a'so sa'd there will be no
 employee layoffs.
 
+
+
 131. (A) have been merging
 (B) will be merging
 (C) have merged
 (D) are merged
-
+132. (A) renovated
+(B) informed
+(C) created
+(D) acquired
+133. (A) The financial terms of the agreement have yet to be disclosed.
+(B) The energy sector is vital to Tanzania’s development.
+(C) Both companies have an exceptional grasp of the international financial market.
+(D) Both companies have an excellent reputation in their respective industries.
 134. (A) We
 (B) It
 (C) They
 (D) She
-
 Questions 135-138 refer to the following letter.
 
 29 August
@@ -5170,16 +5178,6 @@ MORITZ-CONNELLY
 E-mail: info@moritzconnelly.com
 Web site: www.moritzconnelly.com
 Phone: 215-555-0128
-155. What is indicated about the project?
-(A) It will begin in the afternoon.
-(B) It has been paid in full.
-(C) It requires the removal of plants.
-(D) It includes a service offered regularly.
-156. Where will the work take place?
-(A) - At a park
-(B) At a floral shop
-(C) At Ms. Arellano’s residence
-(D) At the offices of Moritz-Connelly
 Landscapers
 Customer name: Customer phone number:
 Ana Arellano
@@ -5194,12 +5192,22 @@ Delivery and planting of flowers $395.00
 Project total: $584.95
 Deposit (Paid, May 1): $200.00
 Balance due upon completion: $384.95
+
+155. What is indicated about the project?
+(A) It will begin in the afternoon.
+(B) It has been paid in full.
+(C) It requires the removal of plants.
+(D) It includes a service offered regularly.
+156. Where will the work take place?
+(A) - At a park
+(B) At a floral shop
+(C) At Ms. Arellano’s residence
+(D) At the offices of Moritz-Connelly
 157. What amount will Moritz-Connelly Landscapers receive on May 9 ?
 (A) $39.95
 (B) $200.00
 (C) $384.95
 (D) $584.95
-
 Questions 158-160 refer to the following press release.
 
 FOR IMMEDIATE RELEASE
@@ -5589,13 +5597,6 @@ your gas lines between 3:00 P.M. and 8:00 P.M. Please call us at 555-0181 to sch
 completed. Gas service to your home will be interrupted for about one hour while the reconnection work is done.
 Thank you.
 Judith Kamau
-193. What will happen on October 16 ?
-(A) A meeting of NESI technicians will be held.
-(B) A national holiday will be celebrated.
-(C) A city street will be closed to traffic.
-(D) A NESI customer’s complaint will be resolved.
-
-Questions 196-200 refer to the following brochure and e-mails.
 
 191. According to the article, what is true about the new pipes?
 (A) They will help modern appliances run better.
@@ -5603,6 +5604,15 @@ Questions 196-200 refer to the following brochure and e-mails.
 (C) They will be replaced in several years.
 (D) They will be installed at night.
 192. What does the article indicate about the work schedule?
+(A) It will not be approved by city officials.
+(B) It has been posted by Ms. Cheptumo.
+(C) It contains several errors.
+(D) It has not been finalized.±6 'inna ’s
+193. What will happen on October 16 ?
+(A) A meeting of NESI technicians will be held.
+(B) A national holiday will be celebrated.
+(C) A city street will be closed to traffic.
+(D) A NESI customer’s complaint will be resolved.
 194. What is suggested about Mr. Abonyo?
 (A) He requested some information.
 (B) He lives on Moringa Road.
@@ -5613,10 +5623,8 @@ Questions 196-200 refer to the following brochure and e-mails.
 (B) A NESI employee
 (C) An appliance technician
 (D) An executive at a factory.
-(A) It will not be approved by city officials.
-(B) It has been posted by Ms. Cheptumo.
-(C) It contains several errors.
-(D) It has not been finalized.±6 'inna ’s
+Questions 196-200 refer to the following brochure and e-mails.
+
 Located just outside of Nassau, the capital city of The Bahamas, Elvinna’s is the ideal venue for your reception,
 banquet, or business meeting. Away from the hustle and bustle of the city, it is surrounded by lush gardens featuring a
 variety of beautiful sculptures.
@@ -5648,13 +5656,7 @@ Hello, Brian, Thank you for the information about Elvinna’s. Let’s take adva
 offering. It may help us stay within our budget. Please contact them to make the reservation. Tanika Nichols, Senior
 Vice President
 Nassau Telecommunications
-198. Where will the company’s anniversary celebration most likely be held?
-(A) In the Alameda Room
-(B) In the Bougainvillea Room
-(C) In the Tamarind Room
-(D) In the Waterfall Room
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
+
 196. What does the brochure mention about Elvinna’s?
 (A) It is able to host groups of various types.
 (B) It is conveniently located in downtown Nassau.
@@ -5665,6 +5667,11 @@ your work.
 (B) It will need to be rescheduled.
 (C) It will include an awards ceremony.
 (D) It is a decision he cannot make alone.
+198. Where will the company’s anniversary celebration most likely be held?
+(A) In the Alameda Room
+(B) In the Bougainvillea Room
+(C) In the Tamarind Room
+(D) In the Waterfall Room
 199. Why is Mr. Darville concerned?
 (A) Not enough people have responded to an invitation.
 (B) He thinks that a different venue might cost less.
@@ -5675,6 +5682,8 @@ your work.
 (B) On July 15
 (C) On August 5
 (D) On August 23
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
 READING TEST
 In the Reading test, you will read a variety of texts and answer several different types of reading comprehension
 questions. The entire Reading test will last 75 minutes. There are three parts, and directions are given for each part.
@@ -6835,20 +6844,8 @@ participants stating that their communication skills detail.
 Best regards,
 Arvin Flores
 
-135. (A) appreciate
-(B) appreciative
-(C) appreciated ■
-(D) appreciation
 
-136. (A) express
-(B) are expressing
-(C) were to be expressed
-(D) had expressed
 
-137. (A) afterward
-(B) often
-(C) since
-(D) instead
 234
 I am writing to share our for the workshops Alana Hughes delivered at our corporate headquarters on March 28. Some
 employees
@@ -6857,11 +6854,23 @@ a concern regarding the usefulness of are now stronger.
 138.
 Please let me know if you would like to discuss the workshops in more
 
+
+135. (A) appreciate
+(B) appreciative
+(C) appreciated ■
+(D) appreciation
+136. (A) express
+(B) are expressing
+(C) were to be expressed
+(D) had expressed
+137. (A) afterward
+(B) often
+(C) since
+(D) instead
 138. (A) The workshop will be rescheduled for later in the week.
 (B) A few participants said they would have liked more practice.
 (C) An additional workshop in team building is occasionally offered.
 (D) We will provide you with an invoice requesting payment.
-
 Questions 139-142 refer to the following e-mail.
 
 To: Li Cheung <lcheung@broadwayos.com>
@@ -6951,6 +6960,10 @@ within walking distance from the hotel, the shuttle will allow you to reach them
 first-time and regular visitors. The shuttle will also make additional stops during special events and festivals. ______
 Shuttle schedules are posted in the hotel lobby.
 As with our airport service, rewards club members can book a shuttle ahead of time.
+It is a historic building.
+It is a highly rated hotel.
+It is near the city’s downtown area. It is popular with business travelers.
+
 147. What is being offered?
 (A) A free transportation service
 (B) Discounted passes to a festival
@@ -6961,10 +6974,6 @@ As with our airport service, rewards club members can book a shuttle ahead of ti
 (B)
 (C)
 (D)
-It is a historic building.
-It is a highly rated hotel.
-It is near the city’s downtown area. It is popular with business travelers.
-
 Questions 149-150 refer to the following text-message chain.
 
 Joan Trivers [10:34 A.M.] Yuji, my train is delayed by one hour, and I might be late for my presentation. Would you be
@@ -7065,21 +7074,21 @@ want to see on the cover? Please let me know.
 Sincerely,
 Amy Dunstan
 Senior Developmental Editor
-159. According to the e-mail, what should soon arrive?
-(A) A book
-(B) A cover photo
-(C) Some editorial suggestions
-(D) Some marketing information
 | Barbara Treloar <btreloar@questor.ca>
 | Amy Dunstan <adunstan@bluetern.co.nz>
 | Cover ______________________________
 | 20 April
+
 158. Who most likely is Ms. Treloar?
 (A) An author
 (B) A publicist
 (C) An advertising executive
 (D) A marketing team member
-
+159. According to the e-mail, what should soon arrive?
+(A) A book
+(B) A cover photo
+(C) Some editorial suggestions
+(D) Some marketing information
 Questions 160-162 refer to the following letter.
 
 Ms. Julia Gandarillas
@@ -7583,8 +7592,6 @@ needed. -The marketing group will be meeting in 4B in the Afternoon 1 time slot.
 Keep in mind that these rooms are both meeting spaces that have limited capacity, so please plan accordingly. Meetings
 not addressed above are canceled. Any questions regarding meetings or cancellations should be directed to team leads.
 Meeting notes will be posted electronically in the usual location for those who are unable to attend.
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
 196. According to the schedule, what is true about Brenton Solutions?
 (A) Its maximum room capacity is 35.
 (B) It has multiple buildings.
@@ -7611,6 +7618,8 @@ your work.
 (C) They can access meeting information online.
 (D) They can attend a second session in
 3B.
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
 READING TEST
 In the Reading test, you will read a variety of texts and answer several different types of reading comprehension
 questions. The entire Reading test will last 75 minutes. There are three parts, and directions are given for each part.
@@ -7862,29 +7871,29 @@ The new rooms range in occupancy from 10 to 25 people and are intended for meeti
 role as Library Information Specialist. An advertisement will be posted soon for a permanent Community Liaison. This
 individual will be in charge of bookings for the new rooms.
 
+
+
+
+140.
+Ms. Sundquist will be temporarily responsible for reserving the spaces until the end of March.
+
 139. (A) accessible
 (B) assorted
 (C) appropriate
 (D) acceptable
-
-141. (A) Nonetheless
-(B) At that time
-(C) Likewise
-(D) In a word
-
 140. (A) Interviews will be conducted in early May.
 (B) Lynn Sundquist has led many meetings.
 (C) All rooms must be reserved in advance.
 (D) Staff parking spaces will be marked clearly.
-
+141. (A) Nonetheless
+(B) At that time
+(C) Likewise
+(D) In a word
 142. (A) oversee
 (B) oversees
 (C) overseen
 (D) overseeing
 groups.
-140.
-Ms. Sundquist will be temporarily responsible for reserving the spaces until the end of March.
-
 Questions 143-146 refer to the following e-mail.
 
 To: tkhan@smolermanufacturing.co.uk
@@ -8046,6 +8055,12 @@ gourmet pastries prepared by Chef Diego Espina from the Sundial Cafe, which just
 Olivia Richards will present a talk on the history of the centre. Proceeds from refreshments purchased during the
 evening will be used to fund the Painting Kids initiative at local schools.
 Please contact Ian Griffin (igriffm@centrecreative.co.uk) is reached, registration will close.
+Thursday, 22 September
+6:30 P.M. to 9:00 P.M.
+The Centre Creative
+42 Danvers Road, Cardiff, Wales
+at The Centre Creativeto register to attend. Note that once capacity
+
 155. For whom is the invitation most likely intended?
 (A) Art instructors
 (B) Previous donors
@@ -8061,12 +8076,6 @@ Please contact Ian Griffin (igriffm@centrecreative.co.uk) is reached, registrati
 (B) It requires a fee to attend.
 (C) It is limited to a specific number of attendees.
 (D) It will include a cooking demonstration.
-Thursday, 22 September
-6:30 P.M. to 9:00 P.M.
-The Centre Creative
-42 Danvers Road, Cardiff, Wales
-at The Centre Creativeto register to attend. Note that once capacity
-
 Questions 158-161 refer to the following article.
 
 A New Rail Line for Salvador
@@ -8538,8 +8547,6 @@ happening!
 Unfortunately, I will not be able to attend this event. I will be in France that weekend teaching a class on making
 pastries. But once I am back, I will definitely be coming by for dinner. All the best,
 Julien
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
 196. What is the purpose of the article?
 (A) To describe a new style of cooking
 (B) To announce the opening of a new restaurant
@@ -8564,6 +8571,8 @@ your work.
 (B) He used to work for Ms. Ikegami.
 (C) He attended Chesterfield Culinary Academy.
 (D) He is the executive chef at Delmourel’s.
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.
 opens.
 (D) It is being sponsored by the Sisra
 Bistro.
@@ -8902,22 +8911,19 @@ Applications will be accepted through March 30.
 (B) A professional certification
 (C) Experience as a manager
 (D) Good computer skills
-TEST 10Benjamin Hunter (10:05 A.M.)
+TEST 10
+
+Questions 149-150 refer to the following text-message chain.
+
+Mary Figueredo (10:03 A.M.)
+Hi, Ben. Has your team started repairing the fences at the warehouse?
+Benjamin Hunter (10:05 A.M.)
 Hello, Mary. We’ll get to it soon. We had some standing water in the entryway to clean up first.
 Mary Figueredo (10:06 A.M.)
 Do you think the roof might have sustained some damage during the rainstorm?
 Benjamin Hunter (10:08 A.M.)
 We actually located the source. It was a clogged drainpipe in the supply closet. As soon as that’s cleared up, we’ll
 take care of the fence. The roof seems fine.
-(A) His team will begin a task shortly.
-(B) His team will continue a project.
-(C) His team will arrive at a location quickly.
-(D) His team will clean up some water.
-
-Questions 149-150 refer to the following text-message chain.
-
-Mary Figueredo (10:03 A.M.)
-Hi, Ben. Has your team started repairing the fences at the warehouse?
 298
 Mary Figueredo (10:11 A.M.)
 OK, sounds good, Ben. Thank you!
@@ -8927,6 +8933,10 @@ OK, sounds good, Ben. Thank you!
 (C) Maintenance worker
 (D) Security guard
 150. At 10:05 A.M., why does Mr. Hunter write, “We’ll get to it soon”?
+(A) His team will begin a task shortly.
+(B) His team will continue a project.
+(C) His team will arrive at a location quickly.
+(D) His team will clean up some water.
 
 Questions 151-152 refer to the following notice.
 
@@ -9476,8 +9486,6 @@ because we are a sponsor of the event, our employees receive a discount on ticke
 keynote speaker is a former employee! Let me know if you have any questions.
 Edsel Skyers
 Product Development Director Orlavel Analytics
-Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
-your work.
 | All Orlavel Analytics Staff
 | Edsel Skyers ____________
 | Creative Tech Conference
@@ -9508,3 +9516,5 @@ Analytics.
 (B) Creator
 (C) Entrepreneur
 (D) Patron
+Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check
+your work.

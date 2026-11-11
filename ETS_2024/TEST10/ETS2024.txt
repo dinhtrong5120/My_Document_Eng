@@ -531,6 +531,10 @@ function for years.
 Rashaan Little (5:51 P.M.)
 True, but modern technological equipment exists now that simplifies navigation and increasingly makes lighthouses a
 thing of the past. Anyway, let’s meet tomorrow at 10:00 A.M. to discuss how we’ll carry out this job.
+304
+Rashaan Little (5:40 P.M.)
+Hi, Amanda and Desmond. Earlier today I learned that the town has hired our company to demolish the lighthouse.
+
 164. In what type of business do the writers most likely work?
 (A) Building demolition
 (B) Shipping technology
@@ -551,10 +555,6 @@ thing of the past. Anyway, let’s meet tomorrow at 10:00 A.M. to discuss how we
 (B) Attend a town council meeting
 (C) Go on a tour of the lighthouse
 (D) Start planning for an upcoming project
-304
-Rashaan Little (5:40 P.M.)
-Hi, Amanda and Desmond. Earlier today I learned that the town has hired our company to demolish the lighthouse.
-
 Questions 168-171 refer to the following brochure.
 
 Contempo Spaces
@@ -572,15 +572,7 @@ the cost for materials, installation, and labor. The quoted price is valid for t
 materials will be ordered. It usually takes from seven to fourteen days for them to reach our store. — [3] —.
 • Finally, we will contact you to schedule the date and time of installation. — 14] —• Depending on the
 size of the project, installation can take two to eight hours.
-170. What is indicated in the brochure about installation?
-(A) It is not available for all window treatments.
-(B) It is the responsibility of the customer.
-(C) It takes no more than eight hours to complete.
-(D) It is subcontracted to an outside vendor.
 
-Questions 172-175 refer to the following e-mail.
-
-To: Morgan Tebele <mtebele@newsom.com.na>
 168. What is the purpose of the brochure?
 (A) To explain a new policy
 (B) To describe a popular product
@@ -591,12 +583,21 @@ To: Morgan Tebele <mtebele@newsom.com.na>
 (B) Seven
 (C) Fourteen
 (D) Thirty
+170. What is indicated in the brochure about installation?
+(A) It is not available for all window treatments.
+(B) It is the responsibility of the customer.
+(C) It takes no more than eight hours to complete.
+(D) It is subcontracted to an outside vendor.
 171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Our entire style
 collection can be viewed on our Web site.”
 (A) [1]
 (B) [2]
 (C) [3]
-(D) [4]From: Esme Mukaya <emukaya@skyleopard.com.na>
+(D) [4]
+Questions 172-175 refer to the following e-mail.
+
+To: Morgan Tebele <mtebele@newsom.com.na>
+From: Esme Mukaya <emukaya@skyleopard.com.na>
 Date: | 21 August
 Subject: | Offer
 Dear Mr. Tebele,
@@ -614,6 +615,7 @@ during the one-month trial period you are not satisfied with this plan, you can 
 to you.
 Sincerely,
 Esme Mukaya, Sales
+
 172. What business is Mr. Tebele most likely in?
 (A) Web design
 (B) Hospitality
@@ -634,7 +636,6 @@ Esme Mukaya, Sales
 (B) It was created following a customer survey.
 (C) It requires the purchase of special equipment.
 (D) It can be canceled within the first month at no charge.
-
 Questions 176-180 refer to the following webinar description and e-mail.
 
 Introduction to Project Management

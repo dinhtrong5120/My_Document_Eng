@@ -1184,16 +1184,6 @@ RSVP by June 1 to j.bovel@corozaldigital.com.
 (D) Guests of invitees are welcome. 180
 Questions 151-152 refer to the following Web page.
 
-151. What is true about the classic film screenings?
-(A) They are offered to the public for a small fee.
-(B) They are scheduled throughout one month.
-(C) They are shown during the morning.
-(D) They are being held outdoors.
-152. What film is most likely to be humorous?
-(A) The Hillside Farm
-(B) Just Two Wheels
-(C) The Missing Papers
-(D) A Rambling Homecoming
 Classic Film Festival
 The new First street Cinema is celebrating its opening in June by welcoming filmgoers with these free screenings for
 fans of classic films. The films will start at 7:00 P.M. Seating is limited, and guests are asked to reserve tickets on
@@ -1205,8 +1195,28 @@ of overcoming adversity.
 The Missing Papers Saturday, June 16 The puzzling theft of a writer's manuscript causes a search for the culprit. A
 Rambling Homecoming Saturday, June 23 The Khan's family reunion celebration is marked by a series of comical incidents
 and misunderstandings. If you need a good laugh, this is the film for you.
+
+151. What is true about the classic film screenings?
+(A) They are offered to the public for a small fee.
+(B) They are scheduled throughout one month.
+(C) They are shown during the morning.
+(D) They are being held outdoors.
+152. What film is most likely to be humorous?
+(A) The Hillside Farm
+(B) Just Two Wheels
+(C) The Missing Papers
+(D) A Rambling Homecoming
 Questions 153-156 refer to the following online chat discussion.
 
+Aisa Ito [10:08 A.M.] I'm so glad I found this forum for users of Canomatik products! Has anyone tried the S20 can
+opener?The electric can opener I've had for years finally broke. Tanveer Kumar [10:10 A.M.] I bought one several years
+ago, but I don't think it was worth the money I spent Ingrid Vogel [11:15 A.M.] I like mine. I used to struggle opening
+cans. This one makes it easier to open cans of all sizes. Laurie Jacobs [2:12 P.M.] The commercial version is expensive,
+but there is also a consumer version that costs less. John Burwood [2:14 P.M.] I ordered mine online, and it was
+defective. I contacted the company's customer service department, and they sent me a new one that works just fine.
+Laurie Jacobs [2:16 P.M.] I used to be a cook ata restaurant years ago, and we had a commercial-grade Canomatik can
+opener back then. I've been using the consumer version at home for nearly a decade. It opens cans safely and easily.
+Aisa Ito [5:15 P.M.] Thanks, everyone. I'll give it a try.
 153. Who responded to Ms. Ito's question?
 (A) Customer service agents
 (B) Advertising sales representatives
@@ -1227,15 +1237,6 @@ Questions 153-156 refer to the following online chat discussion.
 (B) She will eat at a restaurant.
 (C) She will contact a manufacturer.
 (D) She will attempt to open a container. 182
-Aisa Ito [10:08 A.M.] I'm so glad I found this forum for users of Canomatik products! Has anyone tried the S20 can
-opener?The electric can opener I've had for years finally broke. Tanveer Kumar [10:10 A.M.] I bought one several years
-ago, but I don't think it was worth the money I spent Ingrid Vogel [11:15 A.M.] I like mine. I used to struggle opening
-cans. This one makes it easier to open cans of all sizes. Laurie Jacobs [2:12 P.M.] The commercial version is expensive,
-but there is also a consumer version that costs less. John Burwood [2:14 P.M.] I ordered mine online, and it was
-defective. I contacted the company's customer service department, and they sent me a new one that works just fine.
-Laurie Jacobs [2:16 P.M.] I used to be a cook ata restaurant years ago, and we had a commercial-grade Canomatik can
-opener back then. I've been using the consumer version at home for nearly a decade. It opens cans safely and easily.
-Aisa Ito [5:15 P.M.] Thanks, everyone. I'll give it a try.
 Questions 157-158 refer to the following text-message chain.
 
 Gerald Anast [8:58 A.M.] Hi, Laura. You have enough people to work in our showroom this morning, right? Laura Huu [8:59
@@ -1260,21 +1261,6 @@ Laura Huu [9:07 A.M.] Will do.
 (D) She has not had time to unpack some boxes.
 Questions 159-161 refer to the following e-mail.
 
-159.
-160. What product did Mr. Foster most likely purchase?
-(A) A water purifier
-(B) A bird feeder
-(C) A book about gardens
-(D) An outdoor fountain
-161. The word "covered" in paragraph 2, line 3, is closest in meaning to
-(A) described
-(B) protected
-(C) continued
-(D) allowed What is Mr. Foster asked to do?
-(A) Write an online review
-(B) Provide feedback
-(C) Confirm a delivery date
-(D) Update his address 184
 *** E-mail ***
 To: Mr. Foster
 From: Ken Iwata, Customer Support, Natural Spring Garden Products
@@ -1292,6 +1278,21 @@ site at www.naturalspringgardenproducts.com/review.
 Sincerely,
 Ken Iwata
 Customer Support, Natural spring Garden Products
+159.
+160. What product did Mr. Foster most likely purchase?
+(A) A water purifier
+(B) A bird feeder
+(C) A book about gardens
+(D) An outdoor fountain
+161. The word "covered" in paragraph 2, line 3, is closest in meaning to
+(A) described
+(B) protected
+(C) continued
+(D) allowed What is Mr. Foster asked to do?
+(A) Write an online review
+(B) Provide feedback
+(C) Confirm a delivery date
+(D) Update his address 184
 Questions 162-164 refer to the following article.
 
 Home Style Clothing Line Debuts
@@ -1345,6 +1346,20 @@ To place an order, use the "Start Here" tab or call 1-800-555-0155 to speak with
 (D) To finalize the design of a logo 186
 Questions 168-171 refer to the following Web page.
 
+Welcome to the Clarrell Estate—Ballarton's premier centre for the arts! The exquisite grounds of the estate are situated
+on 60 hectares of hilly terrain featuring lush English gardens and an impressive manor house that was designed by noted
+architect Owen Barton. Ten years ago, the Clarrell Foundation decided to transform the estate into an arts centre.
+Initially, the foundation opened the manor house to the public, highlighting the Clarrell family art collection. In the
+last three years, a large, multiuse complex was built near the property entrance, complete with art studios and a
+theatre.
+The Clarrell Estate's museum and gardens are open to the public free of charge. In addition, the theatre hosts public
+lectures as well as musical performances, and the studios showcase individual artists' curated works. For a complete
+schedule, a list of current artists, and information on admission fees for the theatre and studios, please visit the
+Events page.
+Join the Clarrell Foundation to enjoy members-only special events and discounts on performances. Members also have the
+opportunity to reserve the gardens for private events. To become a member, contact Alicia Ji at
+aji@clarrellestate.com.au.
+
 168. What does the Web page focus on?
 (A) An overview of an attraction
 (B) A town's cultural festival
@@ -1365,19 +1380,6 @@ Questions 168-171 refer to the following Web page.
 (B) To get help in using a Web page
 (C) To request an updated event schedule
 (D) To inquire about a foundation membership
-Welcome to the Clarrell Estate—Ballarton's premier centre for the arts! The exquisite grounds of the estate are situated
-on 60 hectares of hilly terrain featuring lush English gardens and an impressive manor house that was designed by noted
-architect Owen Barton. Ten years ago, the Clarrell Foundation decided to transform the estate into an arts centre.
-Initially, the foundation opened the manor house to the public, highlighting the Clarrell family art collection. In the
-last three years, a large, multiuse complex was built near the property entrance, complete with art studios and a
-theatre.
-The Clarrell Estate's museum and gardens are open to the public free of charge. In addition, the theatre hosts public
-lectures as well as musical performances, and the studios showcase individual artists' curated works. For a complete
-schedule, a list of current artists, and information on admission fees for the theatre and studios, please visit the
-Events page.
-Join the Clarrell Foundation to enjoy members-only special events and discounts on performances. Members also have the
-opportunity to reserve the gardens for private events. To become a member, contact Alicia Ji at
-aji@clarrellestate.com.au.
 Questions 172-175 refer to the following job advertisement.
 
 Finance Director

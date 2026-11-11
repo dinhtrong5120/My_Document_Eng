@@ -355,6 +355,7 @@ Winnipeg Toulouse
 (B) It is when staff in Toulouse begin their workday.
 (C) It is not a preferred time to schedule a meeting.
 (D) It has just been added to the schedule.
+Questions 151-152 refer to the following brochure.
 28The Bryant Foyer is one of the premier event spaces in our area. Set on a hill, it has expansive windows that provide
 sweeping views of the adjacent botanical gardens and the river. Built in 1897, it was the home of the Francona
 Charitable Trust until its renovation just over a year ago. Today, the space can accommodate up to 200 guests and is
@@ -375,7 +376,6 @@ To reserve the event space or to make a dinner reservation, give us a call at 21
 (C) It is now funded by a charitable organization.
 (D) It is very popular with local residents.
 
-Questions 151-152 refer to the following brochure.
 
 Questions 153-154 refer to the following text-message chain.
 
@@ -400,6 +400,7 @@ Sure thing, Mina. See you in a while.
 (B) Ms. Chi and Ms. Lim will be out for a while.
 (C) Ms. Evers will share a recipe.
 (D) Ms. Lim will begin taking measurements.
+Questions 155-157 refer to the following notice.
 30This season’s excellent weather has yielded a substantial harvest of fruits and vegetables, in many cases more than
 growers may find buyers for. Those of you wishing to donate surplus produce to community organizations can do so by
 visiting Vosey Farm and Garden’s Web site (www.vfgrdn.org), where you will find our list of drop-off locations.
@@ -408,7 +409,6 @@ who have kindly volunteered to transport and quickly distribute your food donati
 our Web site for more information about this service as well as for insights into topics related to farming and
 gardening in the Northern Great Plains region.
 
-Questions 155-157 refer to the following notice.
 
 155. For whom is the notice most likely intended?
 (A) Farmers
@@ -511,6 +511,7 @@ efficiently, which is very important to me. Overall, I am very pleased with this
 (B) She recently moved to a new home.
 (C) She bought the dishwasher a year ago.
 (D) She remodels kitchens professionally.
+Questions 168-171 refer to the following information.
 34Skyler Airlines employs more than 20,000 people from all over the world. We’re growing fast and have many positions
 available. — [1] —. So regardless of your background, there’s probably a place for you on our team. Skyler employees
 enjoy many perks. — [2] —. For example, our discount program enables them to fly to any of our destinations for a
@@ -518,7 +519,6 @@ fraction of the average ticket price. — [3] —. We offer upward and global mo
 program, and a generous compensation package. — [4] —. Annual paid vacations enable a comfortable work-life balance.
 It’s no wonder that Skyler Airlines was named “Best Airline to Work For” by Travel Vista Journal three years in a row.
 
-Questions 168-171 refer to the following information.
 
 168. For whom is the information intended?
 (A) Skyler Airlines employees
@@ -815,6 +815,16 @@ Rest assured that our long-standing incentives remain in place:
 • Free samples for members of our Frequent Buyer Club
 More information about our transition to electronic invoicing is available on our Web site. Thank you for your support.
 Orbys Distributors appreciates your business.
+Hello Mary, I received a query today from William Tesoriero at Tesoriero Remodeling. His monthly invoice for August
+never arrived.
+As you know, Mr. Tesoriero was one of our very first customers. Since we first opened for business, he has made
+purchases from us on a regular basis. He is also a member of the Frequent Buyer Club. This is a customer we absolutely
+do not want to lose. I explained to him that the rollout of our electronic invoicing system did not go as smoothly as we
+had hoped and promised that this would not happen again.
+I would appreciate it if you could please investigate the problem without delay and send the invoice for August to Mr.
+Tesoriero.
+Tanvir
+
 196. What does the invoice suggest about Green Canyon?
 (A) It does landscaping projects.
 (B) It designs highways.
@@ -841,12 +851,3 @@ Distributors for about twenty years.
 (B) Solve a problem
 (C) Confirm an order
 (D) Update an account number
-Hello Mary, I received a query today from William Tesoriero at Tesoriero Remodeling. His monthly invoice for August
-never arrived.
-As you know, Mr. Tesoriero was one of our very first customers. Since we first opened for business, he has made
-purchases from us on a regular basis. He is also a member of the Frequent Buyer Club. This is a customer we absolutely
-do not want to lose. I explained to him that the rollout of our electronic invoicing system did not go as smoothly as we
-had hoped and promised that this would not happen again.
-I would appreciate it if you could please investigate the problem without delay and send the invoice for August to Mr.
-Tesoriero.
-Tanvir

@@ -1130,6 +1130,15 @@ To: Wenbin Peng <wpeng@chenconstruction.cor
 From: Toshi Auto Group <cs@ toshiautogroup.com>
 Date: February 26
 Subject: Your leased vehicle
+Dear Mr. Peng:
+As you know, Toshi Auto Group handles all the service needs for cars leased by employees of Chen Construction. According
+to our records, you took possession of your leased car on March 1 of last year. Your car is now due for its required
+annual service and maintenance check. To book your appointment, please call us at (215) 555-0109 or visit us online at
+www.toshiautogroup.com/serviceappointments.
+Sincerely,
+Toshi Auto Group
+Customer Service.
+
 149. What is the purpose of the e-mail?
 (A) To inquire about leasing a vehicle
 (B) To inform a customer of required car maintenance
@@ -1140,14 +1149,6 @@ Subject: Your leased vehicle
 (B) It has a new project beginning March 1.
 (C) It provides leased cars to some employees.
 (D) It will soon begin a construction project for Toshi Auto Group.
-Dear Mr. Peng:
-As you know, Toshi Auto Group handles all the service needs for cars leased by employees of Chen Construction. According
-to our records, you took possession of your leased car on March 1 of last year. Your car is now due for its required
-annual service and maintenance check. To book your appointment, please call us at (215) 555-0109 or visit us online at
-www.toshiautogroup.com/serviceappointments.
-Sincerely,
-Toshi Auto Group
-Customer Service.
 Questions 151-153 refer to the following article.
 
 LONDON (2 February)—On Thursday, Tillford Press announced the launch of its new imprint, Tillford Exalt. This new line
@@ -1181,16 +1182,6 @@ throughout the world.
 (D) Its broad range of authors.
 Questions 154-155 refer to the following text-message chain.
 
-154. What problem does Mr. Skagen mention?
-(A) Some new employees are absent.
-(B) Some boxes are incorrectly labeled.
-(C) A package delivery is delayed.
-(D) An access door is malfunctioning.
-155. At 9:02 A.M., what does Mr. Skagen most likely mean when he writes, “Yes, that works”?
-(A) An electrician has arrived at a work site.
-(B) Some equipment is operating smoothly.
-(C) Trainees can help with some shipments.
-(D) Ms. Sadauskas is well suited for her job.
 Greg Skagen (8:58 A.M.)
 Hi, Brenda. I'm here in the warehouse. All of my trainees have arrived, but I noticed the power
 door at Loading Dock B is acting up.
@@ -1206,6 +1197,17 @@ Greg Skagen (9:02 A.M.)
 Yes, that works.
 Brenda Sadauskas (9:03 A.M.)
 Thanks. Then you could show them the loading dock operations in the afternoon.
+
+154. What problem does Mr. Skagen mention?
+(A) Some new employees are absent.
+(B) Some boxes are incorrectly labeled.
+(C) A package delivery is delayed.
+(D) An access door is malfunctioning.
+155. At 9:02 A.M., what does Mr. Skagen most likely mean when he writes, “Yes, that works”?
+(A) An electrician has arrived at a work site.
+(B) Some equipment is operating smoothly.
+(C) Trainees can help with some shipments.
+(D) Ms. Sadauskas is well suited for her job.
 Questions 156-157 refer to the following form.
 
 SERVICE REQUEST FORM
@@ -1313,6 +1315,20 @@ Maria McFarland
 (D) To emphasize her experience with people of different backgrounds.
 Questions 166-168 refer to the following Web page.
 
+About Our Company
+Trexdale Supply specializes in designing, producing, and installing furniture for all types of scientific laboratories.
+We provide a range of fully assembled cabinets, workstations, benches, and more, all made exclusively at our production
+facility in Dallas, Texas. Our lab furniture is available in a wide variety of sizes and configurations to match the
+needs of any research application.
+Our business offers products as well as design-consulting services. For start-up labs, we have a team of consulting
+specialists available to evaluate your facility’s specific needs and assist you in arranging your space and choosing the
+most suitable furniture. Recently, for example, we were chosen by a major producer of biofuels to provide expert help in
+changing the layout of a research laboratory to maximize available space. As a result of this project, this client has
+realized substantial savings by reducing energy usage in the lab.
+Please visit the “Lab Planning” section of this Web site if you are interested in learning more about building or
+renovating a laboratory facility. There, you can fill out an interest form to contact one of our consultants about your
+next project.
+
 166. What does Trexdale Supply make?
 (A) Medical supplies
 (B) Farming equipment
@@ -1328,19 +1344,6 @@ Questions 166-168 refer to the following Web page.
 (B) By phone
 (C) By instant message
 (D) By an online form
-About Our Company
-Trexdale Supply specializes in designing, producing, and installing furniture for all types of scientific laboratories.
-We provide a range of fully assembled cabinets, workstations, benches, and more, all made exclusively at our production
-facility in Dallas, Texas. Our lab furniture is available in a wide variety of sizes and configurations to match the
-needs of any research application.
-Our business offers products as well as design-consulting services. For start-up labs, we have a team of consulting
-specialists available to evaluate your facility’s specific needs and assist you in arranging your space and choosing the
-most suitable furniture. Recently, for example, we were chosen by a major producer of biofuels to provide expert help in
-changing the layout of a research laboratory to maximize available space. As a result of this project, this client has
-realized substantial savings by reducing energy usage in the lab.
-Please visit the “Lab Planning” section of this Web site if you are interested in learning more about building or
-renovating a laboratory facility. There, you can fill out an interest form to contact one of our consultants about your
-next project.
 Questions 169-171 refer to the following job advertisement.
 
 PRODUCT DEMONSTRATORS NEEDED!

@@ -375,11 +375,8 @@ standards of service for residents.
 (B) To attract more residents
 (C) To improve the quality of service
 (D) To decrease the number of new permit applications
-154. How many tickets did Mr. Califf purchase?
-(A) 1
-(B) 3 (0 4
-(D) 7
 90
+Questions 153-155 refer to the following receipt.
 | https://www.riverthamestours.uk/order/confirmation
 River Thames Tours
 Thank you for reserving a River Thames tour with us. We are eager to welcome you aboard. Each tour lasts 3 hours. Your
@@ -396,13 +393,16 @@ Total: £180.00
 Payment: Credit card ending in 1037 Please note: Boarding ends 10 minutes before departure time. Tours cannot be
 rescheduled.
 
-Questions 153-155 refer to the following receipt.
 
 153. What is indicated about the river tour?
 (A) It is one hour long.
 (B) It comes with a meal.
 (C) It can be rescheduled.
 (D) It sells out quickly.
+154. How many tickets did Mr. Califf purchase?
+(A) 1
+(B) 3 (0 4
+(D) 7
 155. How can customers receive a discount on a walking tour?
 (A) By making a reservation online
 (B) By paying with a credit card

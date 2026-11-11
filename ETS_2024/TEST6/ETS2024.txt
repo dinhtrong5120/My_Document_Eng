@@ -268,26 +268,9 @@ Customer Service Manager, Academe Media
 (B) upon
 (C) without
 (D) next
-143.
-(A) ranges
-(B) ranger
-(C) ranged
-(D) ranging
 
-144. (A) size
-(B) safety
-(C) reliability
-(D) placement
 
-145. (A) Remove them carefully.
-(B) This is typically inside the door.
-(C) It should be kept cool at all times.
-(D) They can also be purchased in bulk.
 
-146. (A) sold
-(B) seen
-(C) repaired
-(D) removed
 
 Questions 143-146 refer to the following information.
 
@@ -298,6 +281,24 @@ all times.
 Also important to consider is (144) -------. Thermometers should always be located in the warmest spot in the
 refrigerator. (145) -------. This location is also appropriate because it allows the thermometer to be easily (146)
 ------- as soon as the door is opened.
+
+143.
+(A) ranges
+(B) ranger
+(C) ranged
+(D) ranging
+144. (A) size
+(B) safety
+(C) reliability
+(D) placement
+145. (A) Remove them carefully.
+(B) This is typically inside the door.
+(C) It should be kept cool at all times.
+(D) They can also be purchased in bulk.
+146. (A) sold
+(B) seen
+(C) repaired
+(D) removed
 PART 7
 Directions: In this part you will read a selection of texts, such as magazine and newspaper articles, e-mails, and
 instant messages. Each text or set of texts is followed by several questions. Select the best answer for each question
@@ -345,6 +346,7 @@ appointment to confirm the visit. Let us know at this time if you have any quest
 Sincerely,
 Gordon Mackey
 Customer Service, Global Tech
+
 149. What kind of service has Ms. Duberville most likely contracted?
 (A) Window installation
 (B) House cleanup
@@ -355,6 +357,13 @@ Customer Service, Global Tech
 (B) She will receive a new Global Tech mobile phone.
 (C) She will be visited by a Global Tech representative.
 (D) She will be e-mailed a customer satisfaction survey.
+Questions 151-152 refer to the following online chat discussion.
+
+Katrina Finton (1:46 P.M.)
+Hey, Steven. I am hoping to move into a new apartment soon, and the landlord requires a letter verifying my place of
+employment and my income. I have written up the letter. Would you be willing to sign it today as proof that I work here
+at Carrino Agency?
+
 178Steven Khen (1:48 P.M.)
 Double-check with Ariana Seltzer first. The human resources department usually has a form they can provide for you.
 Katrina Finton (1:49 P.M.)
@@ -366,6 +375,7 @@ By the way, the meeting about the Zaine Company Web site was moved to 3:00 P.M. 
 their Web site ready, right?
 Katrina Finton (1:52 P.M.)
 I’m all set.
+
 151. At 1:49 P.M., what does Ms. Finton most likely mean when she writes, “I tried that”?
 (A) She signed a rental agreement.
 (B) She submitted proof of income.
@@ -376,14 +386,6 @@ I’m all set.
 (B) Office administrator
 (C) Human resources director
 (D) Web designer
-
-Questions 151-152 refer to the following online chat discussion.
-
-Katrina Finton (1:46 P.M.)
-Hey, Steven. I am hoping to move into a new apartment soon, and the landlord requires a letter verifying my place of
-employment and my income. I have written up the letter. Would you be willing to sign it today as proof that I work here
-at Carrino Agency?
-
 Questions 153-155 refer to the following Web page.
 
 http://www.marilisprofessionalcoaching.com
@@ -529,16 +531,12 @@ account, simply call to have one of our customer-service representatives delete 
 you for being a valued Front Street Bank customer.
 Sincerely,
 Robert Wang, Branch Manager
-166. What should a customer do to cancel VIS?
-(A) Visit a local bank branch
-(B) Make a telephone call
-(C) Complete an online form
-(D) Send an e-mail to customer service
 184
 I Jihyang Lee <jlee@myemail.com>
 | Robert Wang <rwang@frontstreetbank.coni>
 | April 7
 | Is VIS for you? ~
+
 164. What is the purpose of the e-mail?
 (A) To welcome a new customer
 (B) To report an account error
@@ -549,13 +547,17 @@ I Jihyang Lee <jlee@myemail.com>
 (B) It can be used at various financial institutions.
 (C) It requires customers to pay a fee.
 (D) It is available only during designated hours.
+166. What should a customer do to cancel VIS?
+(A) Visit a local bank branch
+(B) Make a telephone call
+(C) Complete an online form
+(D) Send an e-mail to customer service
 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “You can perform
 numerous specific tasks.”
 (A) [1]
 (B) [2]
 (C) [3]
 (D) [4]
-
 Questions 168-171 refer to the following advertisement.
 
 Thumbnail Publishing Ltd.
@@ -573,6 +575,7 @@ of business administration. Hardcover €25.99
 Flashback by Jack Olivier
 A former Australian trade commissioner recalls the highs and lows of his diplomatic career in this engaging
 memoir. Paperback €14.99, Downloadable e-book €9.99
+
 168. What is the company offering to customers?
 (A) A coupon for a specific author’s books
 (B) A discount for ordering two books online
@@ -588,14 +591,13 @@ memoir. Paperback €14.99, Downloadable e-book €9.99
 (B) They can be read in digital formats.
 (C) They focus on business topics.
 (D) They were translated into several languages.
-
-Questions 172-175 refer to the following text-message chain.
-
 171. What book includes historic images?
 (A) Maestro
 (B) Working Under Moonbeams
 (C) The Connections Unseen
 (D) Flashback
+Questions 172-175 refer to the following text-message chain.
+
 TEST 6Priyanka Kapoor [9:41 A.M.]
 We need to talk about the upcoming family physicians conference in London. Where do we stand?
 Alonso Gonzalez [9:44 A.M.]
@@ -616,6 +618,7 @@ Good idea, Brian. Thanks. Now let’s discuss meeting up for our meals.
 Priyanka Kapoor [9:59 A.M.]
 Each day of the conference begins with a continental breakfast in the lobby. Let’s meet there in the morning. I know of
 a great place for dinner, so let's plan on 6:00 P.M. the first evening. We’ll decide about the other meals later.
+
 172. Where do the writers most likely work?
 (A) At a travel agency
 (B) At a medical office
@@ -636,7 +639,6 @@ a great place for dinner, so let's plan on 6:00 P.M. the first evening. We’ll 
 (B) They can be used on any device.
 (C) They are in stock at a nearby electronics store.
 (D) They do not require a Wi-Fi connection.
-
 Questions 176-180 refer to the following job advertisement and e-mail.
 
 BLISSFUL HORSE STABLES
