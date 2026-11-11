@@ -1348,19 +1348,28 @@ Allegrino Travel Agency
 Questions 168-171 refer to the following text-message chain.
 
 _
-Vincent Benedict (9:45 A.M.) Hello. I was given your contact information by my neighbor, Ms. Ryan. You did some work in
+Vincent Benedict (9:45 A.M.)
+Hello. I was given your contact information by my neighbor, Ms. Ryan. You did some work in
 her home yesterday. I was wondering if you would be able to move a power outlet in my house.
-Matt Clayton (9:55 A.M.) We can help with that. Where is the outlet? By the way, I’m adding my business partner, Denise
+Matt Clayton (9:55 A.M.)
+We can help with that. Where is the outlet? By the way, I’m adding my business partner, Denise
 Bosworth, to this message.
-Vincent Benedict (9:57A.M.) It’s in my living room, near the floor. I want to move it up. I am going to have a
+Vincent Benedict (9:57A.M.)
+It’s in my living room, near the floor. I want to move it up. I am going to have a
 television screen mounted on my wall, and it will look ugly if there are cords hanging down to the outlet.
-Matt Clayton (10:00 A.M.) OK. We can do this type of work for you.
-Vincent Benedict (10:02 A.M.) How much would something like that cost?
-Matt Clayton (10:03A.M.) That will probably be between one and two hours of labor. We charge $50 per hour.
-Denise Bosworth (10:05 A.M.) However, we might find pipes,, insulation, or other wiring in the wall once we open it.
-Vincent Benedict (10:08 A.M.) I understand. Thank you for the information, Are you available to come out and see what
+Matt Clayton (10:00 A.M.)
+OK. We can do this type of work for you.
+Vincent Benedict (10:02 A.M.)
+How much would something like that cost?
+Matt Clayton (10:03A.M.)
+That will probably be between one and two hours of labor. We charge $50 per hour.
+Denise Bosworth (10:05 A.M.)
+However, we might find pipes,, insulation, or other wiring in the wall once we open it.
+Vincent Benedict (10:08 A.M.)
+I understand. Thank you for the information, Are you available to come out and see what
 needs to be done?
-Matt Clayton (10:12 A.M.) I will have someone from our office get in touch with you by phone to schedule a visit.
+Matt Clayton (10:12 A.M.)
+I will have someone from our office get in touch with you by phone to schedule a visit.
 170. At 10:08 A.M., what does Mr. Benedict most likely mean when he writes, "I understand”?
 (A) He will reschedule a visit.
 (B) He will follow up with Ms. Bosworth.

@@ -395,7 +395,8 @@ Questions 153-154 refer to the following text-message chain.
 60
 ^Michael Liu (9:43 A.M.)
 Hi, Jana. I'm at Biz Plus. The paper you need is out of stock until next week. Will another color work?
-(lana Bhat (9:45 A.M.) , What are the options?
+(lana Bhat (9:45 A.M.)
+, What are the options?
 ^Michael Liu (9:46 A.M.)
 They have yellow, green, and pink in the brand . that you prefer.
 ' Jana Bhat (9:47 A.M.)

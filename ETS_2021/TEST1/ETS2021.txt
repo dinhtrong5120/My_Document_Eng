@@ -387,18 +387,27 @@ Attachment:
 
 Questions 153-154 refer to the following online chat discussion.
 
-Mandi Garafelli (3:32 P.M.): Hello. Thanks for contacting Picturos Camera customer service. How can I help you today?
-Theo Ubari (3:33 P.M.): Hi. I recently bought the Picturos 3000. I’m having trouble downloading photos from the camera
+Mandi Garafelli (3:32 P.M.):
+Hello. Thanks for contacting Picturos Camera customer service. How can I help you today?
+Theo Ubari (3:33 P.M.):
+Hi. I recently bought the Picturos 3000. I’m having trouble downloading photos from the camera
 to my computer.
-Mandi Garafelli (3:35 P.M.): OK. Have you done these steps? 1. Check the connection between the camera and the computer.
+Mandi Garafelli (3:35 P.M.):
+OK. Have you done these steps? 1. Check the connection between the camera and the computer.
 2. Turn the camera off and on again. 3. Reboot the computer with the camera connected.
-Theo Ubari (3:38 P.M.): I tried steps 1 and 2. Nothing improved.
-Mandi Garafelli (3:41 P.M.): Before you try step 3, go into your “applications” folder and look for an icon that says
+Theo Ubari (3:38 P.M.):
+I tried steps 1 and 2. Nothing improved.
+Mandi Garafelli (3:41 P.M.):
+Before you try step 3, go into your “applications” folder and look for an icon that says
 “Picturos 3000.” Do you see it?
-Theo Ubari (3:42 P.M.): Yes, it’s there.
-Mandi Garafelli (3:43 P.M.): Double click it. Your pictures should automatically appear. Theo
-Ubari (3:44 P.M.): That worked! Thanks for your help!
-Mandi Garafelli (3:45 P.M.): Sure thing.
+Theo Ubari (3:42 P.M.):
+Yes, it’s there.
+Mandi Garafelli (3:43 P.M.):
+Double click it. Your pictures should automatically appear. Theo
+Ubari (3:44 P.M.):
+That worked! Thanks for your help!
+Mandi Garafelli (3:45 P.M.):
+Sure thing.
 153. What has Mr. Ubari NOT done?
 (A) Purchased a new camera
 (B) Connected the camera to the computer
@@ -585,7 +594,8 @@ I just got a call from a new client, Ms. Mirzoyan. She said a tree in her yard h
 right away. A real estate agent is stopping by her house tomorrow morning with some prospective buyers.
 Cara Brooks (12:19 P.M.)
 I should be done at the Smith property in about an hour. What is Ms. Mirzoyan’s address?
-Piper McNair (12:19 P.M.) 234 Lakeside Avenue. I’ll tell her you can be there in a couple of hours.
+Piper McNair (12:19 P.M.)
+234 Lakeside Avenue. I’ll tell her you can be there in a couple of hours.
 Cara Brooks (12:20 P.M.)
 That works for me.
 Piper McNair (12:20 P.M.)
@@ -1454,7 +1464,8 @@ Done. Good idea, Tania.
 ( Ron Chou (9:45 A.M.)
 Great. I've been waiting to see those, Aidan
 HL
-F Tania Watson (9:46 A.M.) j How long do you think the meeting will last? I'm supposed to brief Scott Kennedy at 2:30 on
+F Tania Watson (9:46 A.M.)
+j How long do you think the meeting will last? I'm supposed to brief Scott Kennedy at 2:30 on
 the results of the Blackwood presentation.
 Sara Davis (9:47 A.M.)
 I We're scheduled for an hour and a half in the room, but feel free to leave whenever you need to.
@@ -2272,17 +2283,22 @@ Director of Alumni Relations
 
 Questions 159-162 refer to the following online chat discussion.
 
-Mario Lizzardi (11:09 A.M.) Team, sorry to bring this up early on a Monday, but the due date to submit our end-of-year
+Mario Lizzardi (11:09 A.M.)
+Team, sorry to bring this up early on a Monday, but the due date to submit our end-of-year
 report is coming up. We should aim to have each of our sections done by Wednesday so we can put everything together
 before the Friday deadline. 1 am almost done with the information for the technology section.
-KarthikDurav (11:14 A.M.) I have already written up descriptions of the program’s major accomplishments. I just need to
+KarthikDurav (11:14 A.M.)
+I have already written up descriptions of the program’s major accomplishments. I just need to
 add the number of participants and organizers involved in each. It won’t take very long.
-Paola Rossi (11:15 A.M.) I have finished the Future Goals section. I still need to finish the Predicted Budget Needs
+Paola Rossi (11:15 A.M.)
+I have finished the Future Goals section. I still need to finish the Predicted Budget Needs
 section, but I’d like to consult with some of you first.
-Mario Lizzardi (11:15 A.M.) I can’t help you with that. I don’t have access to that information—only you and Human
+Mario Lizzardi (11:15 A.M.)
+I can’t help you with that. I don’t have access to that information—only you and Human
 Resources have access to the participant lists. KarthikDurav(ll:17 A.M.) Don’t worry, Mario. Paola, I could help to
 outline budget needs with you tomorrow. Anything else?
-Paola Rossi: (11:18 A.M.) That’s it. Depending on how much we finish, we could develop a timeline for finalizing the
+Paola Rossi: (11:18 A.M.)
+That’s it. Depending on how much we finish, we could develop a timeline for finalizing the
 report this week.
 159. For what aspect of the project is Mr. Lizzardi most likely responsible?
 (A) Production
@@ -4224,7 +4240,8 @@ Questions 172-175 refer to the following text-message chain.
 I Jaya Pillay (9:04 A.M.)
 Paul and Kristen—are you two going to the meeting this morning? I need
 ■; ' a favor because I’m running late.
-Paul Smythe (9:06 A.M.) 1 am. What do you need?
+Paul Smythe (9:06 A.M.)
+1 am. What do you need?
 Jaya Pillay (9:07 A.M.)
 Could you say a few words about last weekend’s film festival in Atlanta?
 Kristen Tervo (9:07 A.M.)
@@ -4235,7 +4252,8 @@ Paul Smythe (9:08 A.M.)
 Sure. What do you want me to say?
 Kristen Tervo (9:09 A.M.)
 Oh right. I won’t be there today. I’m busy working on an issue for David in Finance.
-Jaya Pillay (9:10 A.M.) . OK. Paul, just say something about how attendance was great, and the
+Jaya Pillay (9:10 A.M.)
+. OK. Paul, just say something about how attendance was great, and the
 ■ team should feel proud of themselves for their hard work.
 Paul Smythe (9:11 A.M.)
 D Sure. When you arrive, will you be saying anything about the expansion into Florida next quarter?

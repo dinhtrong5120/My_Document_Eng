@@ -1194,15 +1194,22 @@ Total
 (D) It was sold at a discounted price. 270
 Questions 151-152 refer to the following text-message chain.
 
-Monica Blanco (10:43 A.M.) Hi, Carrie. Are you working this Friday? I'm working a half shift, andI was wonderingif you
+Monica Blanco (10:43 A.M.)
+Hi, Carrie. Are you working this Friday? I'm working a half shift, andI was wonderingif you
 could cover it.My brother's birthday party is that day.
-Carrie Morgan (11:25 A.M.) I'm working a half shift too. What time are you scheduled?
-Monica Blanco (11:37 A.M.) 8 A.M. to noon.
-Carrie Morgan (11:39 A.M.) I might be able to.I could do a full day,actually. I'm scheduled after you.
-Monica Blanco (11:40 A.M.) %I OK.
-Carrie Morgan (11:41A.M.) I'm at work right now. When I see Mr. Cho,I'll ask him if it is OK to do your shift as well as
+Carrie Morgan (11:25 A.M.)
+I'm working a half shift too. What time are you scheduled?
+Monica Blanco (11:37 A.M.)
+8 A.M. to noon.
+Carrie Morgan (11:39 A.M.)
+I might be able to.I could do a full day,actually. I'm scheduled after you.
+Monica Blanco (11:40 A.M.)
+%I OK.
+Carrie Morgan (11:41A.M.)
+I'm at work right now. When I see Mr. Cho,I'll ask him if it is OK to do your shift as well as
 mine.
-Monica Blanco (11:50 A.M.) Thank you! I appreciate it.
+Monica Blanco (11:50 A.M.)
+Thank you! I appreciate it.
 152. Who most likely is Mr. Cho?
 (A) A temporary worker
 (B) A party planner
